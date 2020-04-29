@@ -1,0 +1,9 @@
+{
+  "sequence": 10,
+  "shortName": "Order Summary",
+  "link": "f?p=&APP_ID.:14:&SESSION.::&DEBUG.:::",
+  "page": 14,
+  "conditionType": null,
+  "authorizationScheme": null,
+  "buildOption": null
+}

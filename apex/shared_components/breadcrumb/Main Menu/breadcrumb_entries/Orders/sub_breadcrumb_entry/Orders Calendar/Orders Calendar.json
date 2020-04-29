@@ -1,0 +1,9 @@
+{
+  "sequence": 10,
+  "shortName": "Orders Calendar",
+  "link": "f?p=&APP_ID.:10:&SESSION.::&DEBUG.:::",
+  "page": 10,
+  "conditionType": null,
+  "authorizationScheme": null,
+  "buildOption": null
+}

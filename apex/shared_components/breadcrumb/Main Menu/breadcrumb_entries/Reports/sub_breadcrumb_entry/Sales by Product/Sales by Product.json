@@ -1,0 +1,9 @@
+{
+  "sequence": 10,
+  "shortName": "Sales by Product",
+  "link": "f?p=&FLOW_ID.:27:&SESSION.",
+  "page": 27,
+  "conditionType": null,
+  "authorizationScheme": null,
+  "buildOption": null
+}

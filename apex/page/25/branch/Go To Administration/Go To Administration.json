@@ -1,0 +1,23 @@
+{
+  "identification": {
+    "name": "Go To Administration"
+  },
+  "executionOptions": {
+    "branchPoint": "After Processing"
+  },
+  "behavior": {
+    "branchType": "Page or URL (Redirect)",
+    "target": "f?p=&APP_ID.:SETTINGS:&SESSION.::&DEBUG.:::&success_msg=#SUCCESS_MSG#",
+    "saveStateBeforeBranch": "N"
+  },
+  "serverSideCondition": {
+    "whenButtonPressed": null,
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

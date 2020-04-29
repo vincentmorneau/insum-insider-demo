@@ -1,0 +1,26 @@
+[
+  {
+    "displaySequence": 10,
+    "displayValue": "Default",
+    "returnValue": "BOX",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": null
+  },
+  {
+    "displaySequence": 15,
+    "displayValue": "Default with Percent",
+    "returnValue": "PERCENT",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": null
+  },
+  {
+    "displaySequence": 20,
+    "displayValue": "Circular",
+    "returnValue": "DOT",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": null
+  }
+]

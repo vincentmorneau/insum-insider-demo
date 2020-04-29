@@ -1,0 +1,128 @@
+[
+  {
+    "name": "ALTERNATING_ROWS",
+    "displayName": "Alternating Rows",
+    "displaySequence": 10,
+    "templateTypes": "REPORT",
+    "helpText": "Shades alternate rows in the report with slightly different background colors.",
+    "nullText": null,
+    "isAdvanced": "N"
+  },
+  {
+    "name": "BADGE_SIZE",
+    "displayName": "Badge Size",
+    "displaySequence": 10,
+    "templateTypes": "REPORT",
+    "helpText": null,
+    "nullText": null,
+    "isAdvanced": "N"
+  },
+  {
+    "name": "COMMENTS_STYLE",
+    "displayName": "Comments Style",
+    "displaySequence": 10,
+    "templateTypes": "REPORT",
+    "helpText": "Determines the style in which comments are displayed.",
+    "nullText": "Default",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "LABEL_WIDTH",
+    "displayName": "Label Width",
+    "displaySequence": 10,
+    "templateTypes": "REPORT",
+    "helpText": null,
+    "nullText": "Default",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "PAGINATION_DISPLAY",
+    "displayName": "Pagination Display",
+    "displaySequence": 10,
+    "templateTypes": "REPORT",
+    "helpText": "Controls the display of pagination for this region.",
+    "nullText": "Default",
+    "isAdvanced": "Y"
+  },
+  {
+    "name": "STYLE",
+    "displayName": "Style",
+    "displaySequence": 10,
+    "templateTypes": "REPORT",
+    "helpText": "Determines the overall style for the component.",
+    "nullText": "Default",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "ICONS",
+    "displayName": "Icons",
+    "displaySequence": 20,
+    "templateTypes": "REPORT",
+    "helpText": "Controls how to handle icons in the report.",
+    "nullText": "No Icons",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "ROW_HIGHLIGHTING",
+    "displayName": "Row Highlighting",
+    "displaySequence": 20,
+    "templateTypes": "REPORT",
+    "helpText": "Determines whether you want the row to be highlighted on hover.",
+    "nullText": null,
+    "isAdvanced": "N"
+  },
+  {
+    "name": "LAYOUT",
+    "displayName": "Layout",
+    "displaySequence": 30,
+    "templateTypes": "REPORT",
+    "helpText": "Determines the layout of Cards in the report.",
+    "nullText": null,
+    "isAdvanced": "N"
+  },
+  {
+    "name": "REPORT_BORDER",
+    "displayName": "Report Border",
+    "displaySequence": 30,
+    "templateTypes": "REPORT",
+    "helpText": "Controls the display of the Report's borders.",
+    "nullText": "Default",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "SIZE",
+    "displayName": "Size",
+    "displaySequence": 35,
+    "templateTypes": "REPORT",
+    "helpText": null,
+    "nullText": "Default",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "BODY_TEXT",
+    "displayName": "Body Text",
+    "displaySequence": 40,
+    "templateTypes": "REPORT",
+    "helpText": "Determines the height of the card body.",
+    "nullText": "Auto",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "COLOR_ACCENTS",
+    "displayName": "Color Accents",
+    "displaySequence": 50,
+    "templateTypes": "REPORT",
+    "helpText": null,
+    "nullText": "Default",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "ANIMATION",
+    "displayName": "Animation",
+    "displaySequence": 70,
+    "templateTypes": "REPORT",
+    "helpText": "Sets the hover and focus animation.",
+    "nullText": "Default",
+    "isAdvanced": "N"
+  }
+]

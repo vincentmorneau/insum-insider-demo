@@ -1,0 +1,20 @@
+[
+  {
+    "group": "Comments Style",
+    "name": "BASIC",
+    "displayName": "Basic",
+    "displaySequence": 10,
+    "cssClasses": "t-Comments--basic",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Comments Style",
+    "name": "SPEECH_BUBBLES",
+    "displayName": "Speech Bubbles",
+    "displaySequence": 20,
+    "cssClasses": "t-Comments--chat",
+    "helpText": null,
+    "isAdvanced": null
+  }
+]

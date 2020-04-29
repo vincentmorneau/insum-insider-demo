@@ -1,0 +1,11 @@
+[
+  {
+    "group": "Pagination Display",
+    "name": "HIDE_WHEN_ALL_ROWS_DISPLAYED",
+    "displayName": "Hide when all rows displayed",
+    "displaySequence": 10,
+    "cssClasses": "t-Report--hideNoPagination",
+    "helpText": "This option will hide the pagination when all rows are displayed.",
+    "isAdvanced": null
+  }
+]

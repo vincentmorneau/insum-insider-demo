@@ -1,0 +1,56 @@
+{
+  "identification": {
+    "name": "New"
+  },
+  "executionOptions": {
+    "executionSequence": 10
+  },
+  "source": {
+    "chartSourceLocation": "Local Database",
+    "sourceQueryType": "SQL Query",
+    "sourcePageItemsToSubmit": null,
+    "optimizerHint": null
+  },
+  "columnMapping": {
+    "seriesNameColumnName": "TYPE",
+    "itemsLabelColumnName": "WHEN",
+    "itemsShortDescColumnName": null,
+    "groupNameColumnName": null,
+    "groupShortDescColumnName": null,
+    "customColumnName": null
+  },
+  "link": {
+    "linkTargetType": null
+  },
+  "appearance": {
+    "jetSeriesColor": null,
+    "assignedToY2": "off"
+  },
+  "line": {
+    "lineStyle": "Solid",
+    "lineWidth": null,
+    "lineType": "Automatic"
+  },
+  "marker": {
+    "markerRendered": "Yes",
+    "markerShape": "Circle"
+  },
+  "label": {
+    "itemsLabelRendered": "N"
+  },
+  "performance": {
+    "maximumRowCount": null
+  },
+  "advanced": {
+    "staticId": null
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

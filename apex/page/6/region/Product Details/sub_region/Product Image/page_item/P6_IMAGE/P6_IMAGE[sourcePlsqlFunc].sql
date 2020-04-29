@@ -1,0 +1,1 @@
+return '<img src="'||apex_util.get_blob_file_src('P6_PRODUCT_IMAGE',:P6_PRODUCT_ID)||'" />';

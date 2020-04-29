@@ -1,0 +1,27 @@
+{
+  "identification": {
+    "name": "Can't Delete Customer with Orders"
+  },
+  "executionOptions": {
+    "executionSequence": 30
+  },
+  "validation": {
+    "validationRegion": null,
+    "validationType": "PL/SQL Function Body (returning Boolean)",
+    "alwaysExecute": "N"
+  },
+  "error": {
+    "errorMessageDisplayLocation": "Inline in Notification",
+    "associatedItem": null
+  },
+  "serverSideCondition": {
+    "whenButtonPressed": "DELETE",
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

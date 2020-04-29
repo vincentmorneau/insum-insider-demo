@@ -1,0 +1,39 @@
+{
+  "identification": {
+    "name": "y",
+    "title": null,
+    "jetShowAxis": "on"
+  },
+  "value": {
+    "axisMin": null,
+    "axisMax": null,
+    "valueFormatType": "Currency",
+    "valueDecimalPlaces": 0,
+    "valueCurrency": "USD",
+    "valueNumericPattern": null,
+    "valueFormatScaling": "None",
+    "valueBaselineScaling": "Zero",
+    "axisScaling": "Linear",
+    "axisStep": null
+  },
+  "appearance": {
+    "axisPosition": "Automatic"
+  },
+  "majorTicks": {
+    "majorTickRendered": "Yes",
+    "minStep": null
+  },
+  "minorTicks": {
+    "minorTickRendered": "off",
+    "minorStep": null
+  },
+  "tickLabel": {
+    "tickLabelRendered": "on"
+  },
+  "dualYAxes": {
+    "splitterPosition": null
+  },
+  "advanced": {
+    "staticId": null
+  }
+}

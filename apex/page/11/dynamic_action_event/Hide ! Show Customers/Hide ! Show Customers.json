@@ -1,0 +1,31 @@
+{
+  "identification": {
+    "name": "Hide / Show Customers"
+  },
+  "executionOptions": {
+    "executionSequence": 10
+  },
+  "when": {
+    "event": "change",
+    "whenType": "Item(s)",
+    "whenItems": "P11_CUSTOMER_OPTIONS"
+  },
+  "clientSideCondition": {
+    "jsCondition": "Item = Value",
+    "jsConditionItem": "P11_CUSTOMER_OPTIONS",
+    "jsCondValue": "EXISTING",
+    "jsConditionElementType": null
+  },
+  "advanced": {
+    "eventScope": "Static"
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "identification": {
+    "name": "Add Product to the ORDER Collection",
+    "pageProcessType": "PL/SQL Code"
+  },
+  "source": {
+    "plsqlProcessLocation": "Local Database"
+  },
+  "executionOptions": {
+    "executionSequence": 20,
+    "processPoint": "Before Header",
+    "processRegion": null,
+    "runProcess": "Once Per Page Visit (default)"
+  },
+  "error": {
+    "processErrorDisplayLocation": "On Error Page"
+  },
+  "serverSideCondition": {
+    "whenButtonPressed": null,
+    "conditionType": "Request = Value",
+    "conditionValue1": "ADD"
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

@@ -1,0 +1,4 @@
+.feedback-positive, .feedback-negative, .feedback-neutral { padding: 8px; }
+.feedback-positive { color: #4caf50; }
+.feedback-neutral { color: #eb9f41; }
+.feedback-negative { color: #f44336; }

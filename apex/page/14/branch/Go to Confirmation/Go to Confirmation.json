@@ -1,0 +1,23 @@
+{
+  "identification": {
+    "name": "Go to Confirmation"
+  },
+  "executionOptions": {
+    "branchPoint": "After Processing"
+  },
+  "behavior": {
+    "branchType": "Page or URL (Redirect)",
+    "target": "f?p=&APP_ID.:8:&SESSION.::&DEBUG.:8:P8_ORDER_ID:&P14_ORDER_ID.&success_msg=#SUCCESS_MSG#",
+    "saveStateBeforeBranch": "N"
+  },
+  "serverSideCondition": {
+    "whenButtonPressed": "PLACE_ORDER",
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

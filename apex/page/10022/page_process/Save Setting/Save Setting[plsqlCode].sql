@@ -1,0 +1,1 @@
+apex_app_setting.set_value( p_name => 'FEEDBACK_ATTACHMENTS_YN', p_value => :P10022_FEEDBACK_ATTACHMENTS_YN );

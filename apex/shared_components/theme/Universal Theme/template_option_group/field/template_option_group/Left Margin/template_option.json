@@ -1,0 +1,38 @@
+[
+  {
+    "group": "Left Margin",
+    "name": "FLM_NONE",
+    "displayName": "None",
+    "displaySequence": 10,
+    "cssClasses": "margin-left-none",
+    "helpText": "Removes the left margin for this field.",
+    "isAdvanced": null
+  },
+  {
+    "group": "Left Margin",
+    "name": "FLM_SMALL",
+    "displayName": "Small",
+    "displaySequence": 20,
+    "cssClasses": "margin-left-sm",
+    "helpText": "Adds a small left margin for this field.",
+    "isAdvanced": null
+  },
+  {
+    "group": "Left Margin",
+    "name": "FLM_MEDIUM",
+    "displayName": "Medium",
+    "displaySequence": 30,
+    "cssClasses": "margin-left-md",
+    "helpText": "Adds a medium left margin for this field.",
+    "isAdvanced": null
+  },
+  {
+    "group": "Left Margin",
+    "name": "FLM_LARGE",
+    "displayName": "Large",
+    "displaySequence": 40,
+    "cssClasses": "margin-left-lg",
+    "helpText": "Adds a large left margin for this field.",
+    "isAdvanced": null
+  }
+]

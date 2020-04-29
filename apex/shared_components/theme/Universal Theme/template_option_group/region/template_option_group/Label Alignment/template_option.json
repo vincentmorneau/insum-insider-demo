@@ -1,0 +1,11 @@
+[
+  {
+    "group": "Label Alignment",
+    "name": "FORMLEFTLABELS",
+    "displayName": "Left",
+    "displaySequence": 20,
+    "cssClasses": "t-Form--leftLabels",
+    "helpText": "Align form labels to left.",
+    "isAdvanced": "No"
+  }
+]

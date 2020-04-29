@@ -1,0 +1,20 @@
+[
+  {
+    "group": "Item Padding",
+    "name": "FORMSLIMPADDING",
+    "displayName": "Slim Padding",
+    "displaySequence": 10,
+    "cssClasses": "t-Form--slimPadding",
+    "helpText": "Reduces form item padding to 4px.",
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Item Padding",
+    "name": "FORMREMOVEPADDING",
+    "displayName": "Remove Padding",
+    "displaySequence": 20,
+    "cssClasses": "t-Form--noPadding",
+    "helpText": "Removes padding between items.",
+    "isAdvanced": "No"
+  }
+]

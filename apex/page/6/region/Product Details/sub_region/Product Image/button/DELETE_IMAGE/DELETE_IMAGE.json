@@ -1,0 +1,43 @@
+{
+  "identification": {
+    "buttonName": "DELETE_IMAGE",
+    "buttonLabel": "Remove Image"
+  },
+  "layout": {
+    "buttonPosition": "Below Region",
+    "startNewRow": null,
+    "column": null,
+    "columnSpan": null,
+    "columnCssClasses": null,
+    "columnAttributes": null,
+    "horizontalAlignment": "Right"
+  },
+  "appearance": {
+    "buttonTemplate": "Text with Icon",
+    "buttonIsHot": "N",
+    "templateOptions": "#DEFAULT#:t-Button--iconRight",
+    "appearanceCssClasses": "close iconLeft",
+    "iconCssClasses": "fa-chevron-right"
+  },
+  "behavior": {
+    "buttonAction": "Redirect to URL",
+    "buttonTarget": "javascript:apex.confirm('Are you sure you want to delete this image? It will no longer be available for others to see if you continue.','DELETE_IMAGE');",
+    "buttonExecuteValidations": "Y",
+    "buttonWarnOnUnsavedChanges": "Do Not Check",
+    "buttonDatabaseAction": null
+  },
+  "advanced": {
+    "staticId": null,
+    "customAttributes": null,
+    "buttonRequestSourceType": null
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "identification": {
+    "daActionType": "Show"
+  },
+  "affectedElements": {
+    "affectedType": "Item(s)",
+    "affectedItems": "P51_CURRENCY,P51_GROUP_SEPARATOR,P51_DECIMAL_CHARACTER,P51_APP_DATE_FORMAT,P51_CHAR_SET"
+  },
+  "executionOptions": {
+    "executionSequence": 10,
+    "daEvent": "Show/Hide Advanced Settings",
+    "fireWhenEventResultIs": "True",
+    "fireOnPageLoad": "Y",
+    "stopExecutionOnError": "Y",
+    "waitForResult": null
+  },
+  "attributes": {
+    "showAllOnTheSameLine": null
+  }
+}

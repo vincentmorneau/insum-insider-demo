@@ -1,0 +1,25 @@
+{
+  "item": {
+    "name": "A02",
+    "sequence": 10
+  },
+  "frequency": {
+    "computationPoint": "Before Header"
+  },
+  "computation": {
+    "computationType": "SQL Query (return single value)",
+    "computationErrorMessage": null
+  },
+  "configuration": {
+    "buildOption": null
+  },
+  "conditions": {
+    "conditionType": null
+  },
+  "authorization": {
+    "authorizationScheme": null
+  },
+  "comments": {
+    "computationComment": null
+  }
+}

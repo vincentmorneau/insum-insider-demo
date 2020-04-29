@@ -1,0 +1,20 @@
+[
+  {
+    "group": "Style",
+    "name": "BORDERLESS",
+    "displayName": "Borderless",
+    "displaySequence": 1,
+    "cssClasses": "t-ButtonRegion--noBorder",
+    "helpText": null,
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Style",
+    "name": "REMOVEUIDECORATION",
+    "displayName": "Remove UI Decoration",
+    "displaySequence": 4,
+    "cssClasses": "t-ButtonRegion--noUI",
+    "helpText": null,
+    "isAdvanced": "No"
+  }
+]

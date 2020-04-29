@@ -1,0 +1,35 @@
+{
+  "identification": {
+    "name": "Fetch Row from DEMO_ORDERS",
+    "pageProcessType": "Automatic Row Fetch"
+  },
+  "executionOptions": {
+    "executionSequence": 10,
+    "processPoint": "After Header",
+    "runProcess": "Once Per Page Visit (default)"
+  },
+  "error": {
+    "processErrorDisplayLocation": "On Error Page"
+  },
+  "serverSideCondition": {
+    "whenButtonPressed": null,
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  },
+  "attributes": {
+    "tableOwner": null,
+    "tableName": "DEMO_ORDERS",
+    "primaryKeyItem": "P29_ORDER_ID",
+    "primaryKeyColumn": "ORDER_ID",
+    "secondaryKeyItem": null,
+    "secondaryKeyColumn": null,
+    "rowVersionColumn": null,
+    "runtimeWhereClause": null,
+    "fetchMode": null
+  }
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "name": "STRETCH_FORM_ITEM",
+    "displayName": "Stretch Form Item",
+    "displaySequence": 10,
+    "cssClasses": "t-Form-fieldContainer--stretchInputs",
+    "helpText": "Stretches the form item to fill its container.",
+    "isAdvanced": null
+  }
+]

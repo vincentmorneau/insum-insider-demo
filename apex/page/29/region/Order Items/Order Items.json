@@ -1,0 +1,55 @@
+{
+  "identification": {
+    "title": "Order Items",
+    "regionType": "Interactive Grid"
+  },
+  "source": {
+    "sourcePageItemsToSubmit": null
+  },
+  "layout": {
+    "regionPosition": "BODY",
+    "startNewRow": "Y",
+    "column": null,
+    "columnSpan": null,
+    "columnCssClasses": null,
+    "columnAttributes": null
+  },
+  "appearance": {
+    "regionTemplate": "Interactive Report",
+    "templateOptions": "#DEFAULT#",
+    "appearanceCssClasses": null,
+    "iconCssClasses": null,
+    "itemDisplayPosition": "Above Content"
+  },
+  "masterDetail": {
+    "masterRegion": null
+  },
+  "advanced": {
+    "staticId": null,
+    "customAttributes": null,
+    "regionImage": null,
+    "imageTagAttributes": null,
+    "regionDisplaySelector": "Y"
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "readOnly": {
+    "readOnlyConditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  },
+  "serverCache": {
+    "cacheMode": "Disabled"
+  },
+  "customization": {
+    "customizable": "Not Customizable By End Users"
+  },
+  "attributes": {
+    "oracleTextPlsqlFuncName": null
+  }
+}

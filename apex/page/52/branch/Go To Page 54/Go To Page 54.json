@@ -1,0 +1,23 @@
+{
+  "identification": {
+    "name": "Go To Page 54"
+  },
+  "executionOptions": {
+    "branchPoint": "After Processing"
+  },
+  "behavior": {
+    "branchType": "Page or URL (Redirect)",
+    "target": "f?p=&APP_ID.:54:&SESSION.&success_msg=#SUCCESS_MSG#",
+    "saveStateBeforeBranch": "N"
+  },
+  "serverSideCondition": {
+    "whenButtonPressed": "NEXT",
+    "conditionType": "PL/SQL Function Body"
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "identification": {
+    "daActionType": "Set Focus"
+  },
+  "affectedElements": {
+    "affectedType": "Item(s)",
+    "affectedItems": "P101_USERNAME"
+  },
+  "executionOptions": {
+    "executionSequence": 10,
+    "daEvent": "Set Focus",
+    "fireWhenEventResultIs": "True",
+    "fireOnPageLoad": "Y",
+    "stopExecutionOnError": "Y",
+    "waitForResult": null
+  }
+}

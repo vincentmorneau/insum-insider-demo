@@ -1,0 +1,20 @@
+[
+  {
+    "group": null,
+    "name": "NOBODYPADDING",
+    "displayName": "Remove Body Padding",
+    "displaySequence": 10,
+    "cssClasses": "t-Region--noPadding",
+    "helpText": "Removes padding from region body.",
+    "isAdvanced": "No"
+  },
+  {
+    "group": null,
+    "name": "REMEMBER_COLLAPSIBLE_STATE",
+    "displayName": "Remember Collapsible State",
+    "displaySequence": 20,
+    "cssClasses": "js-useLocalStorage",
+    "helpText": "This option saves the current state of the collapsible region for the duration of the session.",
+    "isAdvanced": null
+  }
+]

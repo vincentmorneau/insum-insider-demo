@@ -1,0 +1,20 @@
+[
+  {
+    "group": "Default State",
+    "name": "EXPANDED",
+    "displayName": "Expanded",
+    "displaySequence": 10,
+    "cssClasses": "is-expanded",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Default State",
+    "name": "COLLAPSED",
+    "displayName": "Collapsed",
+    "displaySequence": 20,
+    "cssClasses": "is-collapsed",
+    "helpText": null,
+    "isAdvanced": null
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "group": "Accent",
+    "name": "ACCENT_1",
+    "displayName": "Accent 1",
+    "displaySequence": 10,
+    "cssClasses": "t-Region--accent1",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Accent",
+    "name": "ACCENT_2",
+    "displayName": "Accent 2",
+    "displaySequence": 20,
+    "cssClasses": "t-Region--accent2",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Accent",
+    "name": "ACCENT_3",
+    "displayName": "Accent 3",
+    "displaySequence": 30,
+    "cssClasses": "t-Region--accent3",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Accent",
+    "name": "ACCENT_4",
+    "displayName": "Accent 4",
+    "displaySequence": 40,
+    "cssClasses": "t-Region--accent4",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Accent",
+    "name": "ACCENT_5",
+    "displayName": "Accent 5",
+    "displaySequence": 50,
+    "cssClasses": "t-Region--accent5",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Accent",
+    "name": "ACCENT_6",
+    "displayName": "Accent 6",
+    "displaySequence": 60,
+    "cssClasses": "t-Region--accent6",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Accent",
+    "name": "ACCENT_7",
+    "displayName": "Accent 7",
+    "displaySequence": 70,
+    "cssClasses": "t-Region--accent7",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Accent",
+    "name": "ACCENT_8",
+    "displayName": "Accent 8",
+    "displaySequence": 80,
+    "cssClasses": "t-Region--accent8",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Accent",
+    "name": "ACCENT_9",
+    "displayName": "Accent 9",
+    "displaySequence": 90,
+    "cssClasses": "t-Region--accent9",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Accent",
+    "name": "ACCENT_10",
+    "displayName": "Accent 10",
+    "displaySequence": 100,
+    "cssClasses": "t-Region--accent10",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Accent",
+    "name": "ACCENT_11",
+    "displayName": "Accent 11",
+    "displaySequence": 110,
+    "cssClasses": "t-Region--accent11",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Accent",
+    "name": "ACCENT_12",
+    "displayName": "Accent 12",
+    "displaySequence": 120,
+    "cssClasses": "t-Region--accent12",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Accent",
+    "name": "ACCENT_13",
+    "displayName": "Accent 13",
+    "displaySequence": 130,
+    "cssClasses": "t-Region--accent13",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Accent",
+    "name": "ACCENT_14",
+    "displayName": "Accent 14",
+    "displaySequence": 140,
+    "cssClasses": "t-Region--accent14",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Accent",
+    "name": "ACCENT_15",
+    "displayName": "Accent 15",
+    "displaySequence": 150,
+    "cssClasses": "t-Region--accent15",
+    "helpText": null,
+    "isAdvanced": null
+  }
+]

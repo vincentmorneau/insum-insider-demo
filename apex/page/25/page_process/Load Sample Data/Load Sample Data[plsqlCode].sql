@@ -1,0 +1,1 @@
+sample_data_pkg.insert_data();

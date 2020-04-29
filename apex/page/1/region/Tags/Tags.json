@@ -1,0 +1,74 @@
+{
+  "identification": {
+    "title": "Tags",
+    "regionType": "PLUGIN_COM.ORACLE.APEX.TAG_CLOUD"
+  },
+  "layout": {
+    "regionPosition": "BODY",
+    "startNewRow": "N",
+    "column": null,
+    "newColumn": "Y",
+    "columnSpan": null,
+    "columnCssClasses": null,
+    "columnAttributes": null
+  },
+  "appearance": {
+    "regionTemplate": "Standard",
+    "templateOptions": "#DEFAULT#:i-h240:t-Region--scrollBody",
+    "appearanceCssClasses": null,
+    "iconCssClasses": null,
+    "itemDisplayPosition": "Above Content"
+  },
+  "advanced": {
+    "staticId": null,
+    "customAttributes": null,
+    "regionImage": null,
+    "imageTagAttributes": null,
+    "regionDisplaySelector": "N"
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "readOnly": {
+    "readOnlyConditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  },
+  "serverCache": {
+    "cacheMode": "Disabled"
+  },
+  "customization": {
+    "customizable": "Not Customizable By End Users"
+  },
+  "attributes": {
+    "attribute01": "f?p=&APP_ID.:30:&APP_SESSION.:::30:P30_SEARCH,P30_OPTIONS:#TAG#,T",
+    "attribute02": null,
+    "attribute03": "Y",
+    "attribute04": null,
+    "attribute05": null,
+    "attribute06": null,
+    "attribute07": null,
+    "attribute08": null,
+    "attribute09": null,
+    "attribute10": null,
+    "attribute11": null,
+    "attribute12": null,
+    "attribute13": null,
+    "attribute14": null,
+    "attribute15": null,
+    "attribute16": null,
+    "attribute17": null,
+    "attribute18": null,
+    "attribute19": null,
+    "attribute20": null,
+    "attribute21": null,
+    "attribute22": null,
+    "attribute23": null,
+    "attribute24": null,
+    "attribute25": null
+  }
+}

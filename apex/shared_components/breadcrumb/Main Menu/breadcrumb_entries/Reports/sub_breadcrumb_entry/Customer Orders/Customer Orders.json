@@ -1,0 +1,9 @@
+{
+  "sequence": 10,
+  "shortName": "Customer Orders",
+  "link": "f?p=&APP_ID.:17:&SESSION.::&DEBUG.:::",
+  "page": 17,
+  "conditionType": null,
+  "authorizationScheme": null,
+  "buildOption": null
+}

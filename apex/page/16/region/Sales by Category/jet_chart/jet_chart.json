@@ -1,0 +1,50 @@
+{
+  "chart": {
+    "jetChartType": "Donut"
+  },
+  "title": {
+    "chartTitle": null
+  },
+  "layout": {
+    "chartMaxWidth": null,
+    "chartHeight": "400"
+  },
+  "dataCursor": {
+    "jetDataCursor": "Automatic",
+    "jetDataCursorBehavior": "Automatic",
+    "jetHoverBehavior": "dim"
+  },
+  "multiSeries": {
+    "jetSortOrder": "Label - Ascending"
+  },
+  "value": {
+    "pieOtherThreshold": 0,
+    "valueMin": null,
+    "valueFormatType": "Currency",
+    "valueDecimalPlaces": 0,
+    "valueCurrency": "USD",
+    "valueNumericPattern": null,
+    "valueFormatScaling": "None"
+  },
+  "settings": {
+    "pieSelectionEffect": "Highlight"
+  },
+  "animation": {
+    "animationOnDisplay": "Automatic",
+    "animationOnDataChange": "None"
+  },
+  "tooltip": {
+    "jetShowTooltip": "Yes",
+    "showSeriesName": "Y",
+    "jetShowValue": "Y"
+  },
+  "legend": {
+    "legendRendered": "on",
+    "legendTitle": null,
+    "legendPosition": "Top",
+    "hideAndShowBehavior": "Rescale"
+  },
+  "automaticRefresh": {
+    "refreshInterval": null
+  }
+}

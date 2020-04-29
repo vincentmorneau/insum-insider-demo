@@ -1,0 +1,36 @@
+{
+  "identification": {
+    "buttonName": "PREVIOUS",
+    "buttonLabel": "Previous"
+  },
+  "layout": {
+    "buttonPosition": "REGION_TEMPLATE_PREVIOUS"
+  },
+  "appearance": {
+    "buttonTemplate": "Icon",
+    "buttonIsHot": "N",
+    "templateOptions": "#DEFAULT#",
+    "appearanceCssClasses": null,
+    "iconCssClasses": "fa-chevron-left"
+  },
+  "behavior": {
+    "buttonAction": "Redirect to Page in this Application",
+    "buttonTarget": "f?p=&APP_ID.:12:&SESSION.::&DEBUG.:RP::",
+    "buttonWarnOnUnsavedChanges": "Do Not Check",
+    "buttonDatabaseAction": null
+  },
+  "advanced": {
+    "staticId": null,
+    "customAttributes": null,
+    "buttonRequestSourceType": null
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

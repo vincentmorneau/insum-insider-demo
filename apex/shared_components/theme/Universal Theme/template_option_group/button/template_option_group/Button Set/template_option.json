@@ -1,0 +1,29 @@
+[
+  {
+    "group": "Button Set",
+    "name": "PILLSTART",
+    "displayName": "First Button",
+    "displaySequence": 10,
+    "cssClasses": "t-Button--pillStart",
+    "helpText": "Use this for the start of a pill button.",
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Button Set",
+    "name": "PILL",
+    "displayName": "Inner Button",
+    "displaySequence": 20,
+    "cssClasses": "t-Button--pill",
+    "helpText": null,
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Button Set",
+    "name": "PILLEND",
+    "displayName": "Last Button",
+    "displaySequence": 30,
+    "cssClasses": "t-Button--pillEnd",
+    "helpText": null,
+    "isAdvanced": "No"
+  }
+]

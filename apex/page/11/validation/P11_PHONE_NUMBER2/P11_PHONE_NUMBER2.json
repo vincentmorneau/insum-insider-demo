@@ -1,0 +1,31 @@
+{
+  "identification": {
+    "name": "P11_PHONE_NUMBER2"
+  },
+  "executionOptions": {
+    "executionSequence": 110
+  },
+  "validation": {
+    "validationRegion": null,
+    "validationType": "Item matches Regular Expression",
+    "valRegularExpression": "^\\(?[[:digit:]]{3}\\)?[-. ][[:digit:]]{3}[-. ][[:digit:]]{4}$",
+    "regionValRegularExpression": "^\\(?[[:digit:]]{3}\\)?[-. ][[:digit:]]{3}[-. ][[:digit:]]{4}$",
+    "alwaysExecute": "N"
+  },
+  "error": {
+    "errorMessageDisplayLocation": "Inline with Field and in Notification",
+    "associatedItem": "P11_PHONE_NUMBER2"
+  },
+  "serverSideCondition": {
+    "whenButtonPressed": null,
+    "conditionType": "Item = Value",
+    "conditionItem1": "P11_CUSTOMER_OPTIONS",
+    "conditionValue2": "NEW"
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

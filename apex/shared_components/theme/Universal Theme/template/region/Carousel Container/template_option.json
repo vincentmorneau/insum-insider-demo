@@ -1,0 +1,47 @@
+[
+  {
+    "group": null,
+    "name": "NOBODYPADDING",
+    "displayName": "Remove Body Padding",
+    "displaySequence": 10,
+    "cssClasses": "t-Region--noPadding",
+    "helpText": "Removes padding from region body.",
+    "isAdvanced": "No"
+  },
+  {
+    "group": null,
+    "name": "REMEMBER_CAROUSEL_SLIDE",
+    "displayName": "Remember Carousel Slide",
+    "displaySequence": 20,
+    "cssClasses": "js-useLocalStorage",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": null,
+    "name": "SHOW_NEXT_AND_PREVIOUS_BUTTONS",
+    "displayName": "Show Next and Previous Buttons",
+    "displaySequence": 30,
+    "cssClasses": "t-Region--showCarouselControls",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": null,
+    "name": "SHOW_MAXIMIZE_BUTTON",
+    "displayName": "Show Maximize Button",
+    "displaySequence": 40,
+    "cssClasses": "js-showMaximizeButton",
+    "helpText": "Displays a button in the Region Header to maximize the region. Clicking this button will toggle the maximize state and stretch the region to fill the screen.",
+    "isAdvanced": null
+  },
+  {
+    "group": null,
+    "name": "SHOW_REGION_ICON",
+    "displayName": "Show Region Icon",
+    "displaySequence": 50,
+    "cssClasses": "t-Region--showIcon",
+    "helpText": "Displays the region icon in the region header beside the region title",
+    "isAdvanced": null
+  }
+]

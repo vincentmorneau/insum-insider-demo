@@ -1,0 +1,56 @@
+[
+  {
+    "group": "Layout",
+    "name": "STACK",
+    "displayName": "Stack",
+    "displaySequence": 5,
+    "cssClasses": "t-MediaList--stack",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Layout",
+    "name": "2_COLUMN_GRID",
+    "displayName": "2 Column Grid",
+    "displaySequence": 10,
+    "cssClasses": "t-MediaList--cols t-MediaList--2cols",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Layout",
+    "name": "3_COLUMN_GRID",
+    "displayName": "3 Column Grid",
+    "displaySequence": 20,
+    "cssClasses": "t-MediaList--cols t-MediaList--3cols",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Layout",
+    "name": "4_COLUMN_GRID",
+    "displayName": "4 Column Grid",
+    "displaySequence": 30,
+    "cssClasses": "t-MediaList--cols t-MediaList--4cols",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Layout",
+    "name": "5_COLUMN_GRID",
+    "displayName": "5 Column Grid",
+    "displaySequence": 40,
+    "cssClasses": "t-MediaList--cols t-MediaList--5cols",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Layout",
+    "name": "SPAN_HORIZONTAL",
+    "displayName": "Span Horizontal",
+    "displaySequence": 50,
+    "cssClasses": "t-MediaList--horizontal",
+    "helpText": null,
+    "isAdvanced": null
+  }
+]

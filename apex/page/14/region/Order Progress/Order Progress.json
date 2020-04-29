@@ -1,0 +1,40 @@
+{
+  "identification": {
+    "title": "Order Progress",
+    "regionType": "List"
+  },
+  "source": {
+    "sourceList": "Order Wizard"
+  },
+  "layout": {
+    "regionPosition": "REGION_POSITION_01"
+  },
+  "appearance": {
+    "regionTemplate": null,
+    "itemDisplayPosition": "Above Content"
+  },
+  "advanced": {
+    "staticId": null,
+    "customAttributes": null,
+    "regionImage": null,
+    "imageTagAttributes": null
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "readOnly": {
+    "readOnlyConditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  },
+  "serverCache": {
+    "cacheMode": "Disabled"
+  },
+  "customization": {
+    "customizable": "Not Customizable By End Users"
+  }
+}

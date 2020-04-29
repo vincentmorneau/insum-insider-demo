@@ -1,0 +1,26 @@
+[
+  {
+    "displaySequence": 10,
+    "displayValue": "Slow",
+    "returnValue": "slow",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": null
+  },
+  {
+    "displaySequence": 20,
+    "displayValue": "Normal",
+    "returnValue": "normal",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": null
+  },
+  {
+    "displaySequence": 30,
+    "displayValue": "Fast",
+    "returnValue": "fast",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": null
+  }
+]

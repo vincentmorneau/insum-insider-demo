@@ -1,0 +1,2 @@
+<p>To sign in to the Sample Database application, please use your Application Express Workspace username and password.</p>
+<p>For further information, please refer to "Utilizing Packaged Applications" in the Oracle Application Express Application Builder User's Guide.</p>

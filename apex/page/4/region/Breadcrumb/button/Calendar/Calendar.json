@@ -1,0 +1,36 @@
+{
+  "identification": {
+    "buttonName": "Calendar",
+    "buttonLabel": "Calendar"
+  },
+  "layout": {
+    "buttonPosition": "REGION_TEMPLATE_EDIT"
+  },
+  "appearance": {
+    "buttonTemplate": "Text with Icon",
+    "buttonIsHot": "N",
+    "templateOptions": "#DEFAULT#:t-Button--iconLeft",
+    "appearanceCssClasses": null,
+    "iconCssClasses": "fa-calendar"
+  },
+  "behavior": {
+    "buttonAction": "Redirect to Page in this Application",
+    "buttonTarget": "f?p=&APP_ID.:10:&SESSION.::&DEBUG.:10::",
+    "buttonWarnOnUnsavedChanges": "Do Not Check",
+    "buttonDatabaseAction": null
+  },
+  "advanced": {
+    "staticId": null,
+    "customAttributes": null,
+    "buttonRequestSourceType": null
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

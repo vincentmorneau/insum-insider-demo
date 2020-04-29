@@ -1,0 +1,27 @@
+{
+  "identification": {
+    "name": "At least One Feedback Required"
+  },
+  "executionOptions": {
+    "executionSequence": 10
+  },
+  "validation": {
+    "validationRegion": null,
+    "validationType": "PL/SQL Function Body (returning Boolean)",
+    "alwaysExecute": "N"
+  },
+  "error": {
+    "errorMessageDisplayLocation": "Inline in Notification",
+    "associatedItem": null
+  },
+  "serverSideCondition": {
+    "whenButtonPressed": null,
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

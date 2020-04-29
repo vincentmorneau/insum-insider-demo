@@ -1,0 +1,36 @@
+{
+  "identification": {
+    "buttonName": "ENTER_NEW_ORDER",
+    "buttonLabel": "Place Order"
+  },
+  "layout": {
+    "buttonPosition": "REGION_TEMPLATE_CREATE"
+  },
+  "appearance": {
+    "buttonTemplate": "Text",
+    "buttonIsHot": "Y",
+    "templateOptions": "#DEFAULT#",
+    "appearanceCssClasses": null,
+    "iconCssClasses": "fa-chevron-right"
+  },
+  "behavior": {
+    "buttonAction": "Redirect to Page in this Application",
+    "buttonTarget": "f?p=&APP_ID.:11:&SESSION.::&DEBUG.:11:P11_BRANCH,P11_CUSTOMER_OPTIONS:4,EXISTING",
+    "buttonWarnOnUnsavedChanges": "Do Not Check",
+    "buttonDatabaseAction": null
+  },
+  "advanced": {
+    "staticId": null,
+    "customAttributes": null,
+    "buttonRequestSourceType": null
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

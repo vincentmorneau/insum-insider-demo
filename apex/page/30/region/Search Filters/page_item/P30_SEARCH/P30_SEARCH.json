@@ -1,0 +1,61 @@
+{
+  "identification": {
+    "itemName": "P30_SEARCH",
+    "itemType": "Text Field"
+  },
+  "label": {
+    "label": "Search",
+    "labelAlignment": "Left",
+    "fieldTableCellAttributes": null
+  },
+  "layout": {
+    "elementFieldAlignment": "Left"
+  },
+  "appearance": {
+    "fieldTemplate": "Hidden",
+    "templateOptions": "#DEFAULT#",
+    "appearanceCssClasses": null,
+    "iconCssClasses": "fa-search",
+    "elementWidth": 64,
+    "elementValuePlaceholder": "Search"
+  },
+  "validation": {
+    "valueRequired": "N",
+    "elementMaxCharacters": 4000
+  },
+  "advanced": {
+    "advancedCssClasses": "t-Form-searchField",
+    "customAttributes": null,
+    "itemWarnOnUnsavedChanges": "Ignore"
+  },
+  "source": {
+    "sourceType": "Null",
+    "sourceUsed": "Only when current value in session state is null",
+    "maintainSessionState": "Per Session"
+  },
+  "default": {
+    "defaultValueType": null
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "readOnly": {
+    "readOnlyConditionType": null
+  },
+  "security": {
+    "authorizationScheme": null,
+    "sessionStateProtection": "Unrestricted",
+    "encryptSessionState": "N",
+    "restrictedCharacters": "Blacklist HTML command characters (<>\")"
+  },
+  "configuration": {
+    "buildOption": null
+  },
+  "attributes": {
+    "submitWhenEnterPressed": "Y",
+    "disabled": "N",
+    "saveSessionState": null,
+    "subtype": "TEXT",
+    "trimSpaces": "NONE"
+  }
+}

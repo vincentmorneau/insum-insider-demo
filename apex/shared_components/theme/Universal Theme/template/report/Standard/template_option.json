@@ -1,0 +1,11 @@
+[
+  {
+    "group": null,
+    "name": "STRETCHREPORT",
+    "displayName": "Stretch Report",
+    "displaySequence": 10,
+    "cssClasses": "t-Report--stretch",
+    "helpText": null,
+    "isAdvanced": "No"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "group": "Alert Type",
+    "name": "WARNING",
+    "displayName": "Warning",
+    "displaySequence": 10,
+    "cssClasses": "t-Alert--warning",
+    "helpText": "Show a warning alert.",
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Alert Type",
+    "name": "DANGER",
+    "displayName": "Danger",
+    "displaySequence": 20,
+    "cssClasses": "t-Alert--danger",
+    "helpText": "Show an error or danger alert.",
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Alert Type",
+    "name": "INFORMATION",
+    "displayName": "Information",
+    "displaySequence": 30,
+    "cssClasses": "t-Alert--info",
+    "helpText": "Show informational alert.",
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Alert Type",
+    "name": "SUCCESS",
+    "displayName": "Success",
+    "displaySequence": 40,
+    "cssClasses": "t-Alert--success",
+    "helpText": "Show success alert.",
+    "isAdvanced": "No"
+  }
+]

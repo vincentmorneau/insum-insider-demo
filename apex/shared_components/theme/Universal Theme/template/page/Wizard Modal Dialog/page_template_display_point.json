@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Wizard Body",
+    "templateSubstitution": "BODY",
+    "gridSupport": "Yes",
+    "newRow": "Yes",
+    "maximumFixedGridColumns": 12
+  },
+  {
+    "name": "Wizard Buttons",
+    "templateSubstitution": "REGION_POSITION_03",
+    "gridSupport": "No",
+    "newRow": "Yes",
+    "maximumFixedGridColumns": null
+  },
+  {
+    "name": "Wizard Progress Bar",
+    "templateSubstitution": "REGION_POSITION_01",
+    "gridSupport": "No",
+    "newRow": "Yes",
+    "maximumFixedGridColumns": null
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "group": "Style",
+    "name": "COMPACT",
+    "displayName": "Compact",
+    "displaySequence": 1,
+    "cssClasses": "t-Timeline--compact",
+    "helpText": "Displays a compact version of timeline with smaller text and fewer columns.",
+    "isAdvanced": null
+  }
+]

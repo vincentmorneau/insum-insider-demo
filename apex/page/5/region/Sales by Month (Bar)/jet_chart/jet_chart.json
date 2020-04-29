@@ -1,0 +1,49 @@
+{
+  "chart": {
+    "jetChartType": "Bar"
+  },
+  "title": {
+    "chartTitle": null
+  },
+  "appearance": {
+    "orientation": "Vertical",
+    "stack": "on"
+  },
+  "layout": {
+    "chartMaxWidth": null,
+    "chartHeight": "400"
+  },
+  "dataCursor": {
+    "jetDataCursor": "Automatic",
+    "jetDataCursorBehavior": "Automatic",
+    "jetHoverBehavior": "none"
+  },
+  "multiSeries": {
+    "jetFillGaps": "Y",
+    "jetSortOrder": "Label - Ascending"
+  },
+  "settings": {
+    "jetTimeAxisType": null,
+    "jetZoomAndScroll": "No"
+  },
+  "animation": {
+    "animationOnDisplay": "None",
+    "animationOnDataChange": "None"
+  },
+  "tooltip": {
+    "jetShowTooltip": "Yes",
+    "showSeriesName": "Y",
+    "showGroupName": "N",
+    "jetShowValue": "Y",
+    "jetShowLabel": "N"
+  },
+  "legend": {
+    "legendRendered": "on",
+    "legendTitle": null,
+    "legendPosition": "Automatic",
+    "hideAndShowBehavior": "None"
+  },
+  "automaticRefresh": {
+    "refreshInterval": null
+  }
+}

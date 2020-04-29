@@ -1,0 +1,20 @@
+[
+  {
+    "group": "Alert Display",
+    "name": "HORIZONTAL",
+    "displayName": "Horizontal",
+    "displaySequence": 10,
+    "cssClasses": "t-Alert--horizontal",
+    "helpText": "Show horizontal alert with buttons to the right.",
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Alert Display",
+    "name": "WIZARD",
+    "displayName": "Wizard",
+    "displaySequence": 20,
+    "cssClasses": "t-Alert--wizard",
+    "helpText": "Show the alert in a wizard style region.",
+    "isAdvanced": "No"
+  }
+]

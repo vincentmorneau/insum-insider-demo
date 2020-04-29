@@ -1,0 +1,20 @@
+[
+  {
+    "group": "Size",
+    "name": "LARGE_FIELD",
+    "displayName": "Large",
+    "displaySequence": 10,
+    "cssClasses": "t-Form-fieldContainer--large",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Size",
+    "name": "X_LARGE_SIZE",
+    "displayName": "X Large",
+    "displaySequence": 20,
+    "cssClasses": "t-Form-fieldContainer--xlarge",
+    "helpText": null,
+    "isAdvanced": null
+  }
+]

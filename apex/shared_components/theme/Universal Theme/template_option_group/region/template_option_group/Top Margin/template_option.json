@@ -1,0 +1,38 @@
+[
+  {
+    "group": "Top Margin",
+    "name": "RTM_NONE",
+    "displayName": "None",
+    "displaySequence": 10,
+    "cssClasses": "margin-top-none",
+    "helpText": "Removes the top margin for this region.",
+    "isAdvanced": null
+  },
+  {
+    "group": "Top Margin",
+    "name": "RTM_SMALL",
+    "displayName": "Small",
+    "displaySequence": 20,
+    "cssClasses": "margin-top-sm",
+    "helpText": "Adds a small top margin to the region.",
+    "isAdvanced": null
+  },
+  {
+    "group": "Top Margin",
+    "name": "RTM_MEDIUM",
+    "displayName": "Medium",
+    "displaySequence": 30,
+    "cssClasses": "margin-top-md",
+    "helpText": "Adds a medium top margin to the region.",
+    "isAdvanced": null
+  },
+  {
+    "group": "Top Margin",
+    "name": "RTM_LARGE",
+    "displayName": "Large",
+    "displaySequence": 40,
+    "cssClasses": "margin-top-lg",
+    "helpText": "Adds a large top margin to the region.",
+    "isAdvanced": null
+  }
+]

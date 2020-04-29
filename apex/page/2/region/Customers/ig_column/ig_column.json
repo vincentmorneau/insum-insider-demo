@@ -1,0 +1,515 @@
+[
+  {
+    "identification": {
+      "columnName": "CUSTOMER_ID",
+      "itemType": "NATIVE_HIDDEN"
+    },
+    "source": {
+      "igColSourceType": "Database Column",
+      "sourceDbColumn": "CUSTOMER_ID",
+      "dataType": "NUMBER",
+      "isQueryOnly": "N",
+      "isPrimaryKey": "N"
+    },
+    "masterDetail": {
+      "masterColumn": null
+    },
+    "default": {
+      "defaultType": null,
+      "duplicateValue": "Y"
+    },
+    "exportPrinting": {
+      "includeInExportPrint": "N"
+    },
+    "advanced": {
+      "staticId": null,
+      "useAsRowHeader": "N",
+      "javascriptCode": null
+    },
+    "serverSideCondition": {
+      "conditionType": null
+    },
+    "security": {
+      "authorizationScheme": null
+    },
+    "configuration": {
+      "buildOption": null
+    },
+    "comments": {
+      "comments": null
+    },
+    "attributes": {
+      "valueProtected": "Y"
+    }
+  },
+  {
+    "identification": {
+      "columnName": "CUSTOMER_NAME",
+      "itemType": "NATIVE_TEXT_FIELD"
+    },
+    "heading": {
+      "columnHeading": "Customer Name",
+      "headingAlignment": "start",
+      "alternativeLabel": null
+    },
+    "layout": {
+      "columnAlignment": "start",
+      "igColGroup": null,
+      "stretchColumn": null
+    },
+    "appearance": {
+      "appearanceCssClasses": null,
+      "iconCssClasses": null,
+      "elementWidth": null,
+      "elementValuePlaceholder": null
+    },
+    "validation": {
+      "valueRequired": "N",
+      "elementMaxCharacters": null
+    },
+    "link": {
+      "linkTarget": "f?p=&APP_ID.:7:&SESSION.::&DEBUG.:RP,7:P7_CUSTOMER_ID:&CUSTOMER_ID.",
+      "linkText": null,
+      "linkAttributes": "&CUSTOMER_NAME."
+    },
+    "source": {
+      "igColSourceType": "Database Column",
+      "sourceDbColumn": "CUSTOMER_NAME",
+      "dataType": "VARCHAR2",
+      "isQueryOnly": "N",
+      "isPrimaryKey": "N"
+    },
+    "masterDetail": {
+      "masterColumn": null
+    },
+    "default": {
+      "defaultType": null,
+      "duplicateValue": "Y"
+    },
+    "exportPrinting": {
+      "includeInExportPrint": "Y"
+    },
+    "advanced": {
+      "staticId": null,
+      "advancedCssClasses": null,
+      "customAttributes": null,
+      "useAsRowHeader": "N",
+      "javascriptCode": null
+    },
+    "serverSideCondition": {
+      "conditionType": null
+    },
+    "readOnly": {
+      "readOnlyConditionType": null
+    },
+    "security": {
+      "authorizationScheme": null
+    },
+    "configuration": {
+      "buildOption": null
+    },
+    "help": {
+      "helpText": null
+    },
+    "comments": {
+      "comments": null
+    },
+    "attributes": {
+      "submitWhenEnterPressed": "N",
+      "disabled": "N",
+      "saveSessionState": null,
+      "subtype": "TEXT",
+      "trimSpaces": "BOTH"
+    }
+  },
+  {
+    "identification": {
+      "columnName": "CUSTOMER_ADDRESS",
+      "itemType": "NATIVE_TEXT_FIELD"
+    },
+    "heading": {
+      "columnHeading": "Address",
+      "headingAlignment": "start",
+      "alternativeLabel": null
+    },
+    "layout": {
+      "columnAlignment": "start",
+      "igColGroup": null,
+      "stretchColumn": null
+    },
+    "appearance": {
+      "appearanceCssClasses": null,
+      "iconCssClasses": null,
+      "elementWidth": null,
+      "elementValuePlaceholder": null
+    },
+    "validation": {
+      "valueRequired": "N",
+      "elementMaxCharacters": 122
+    },
+    "link": {
+      "linkTarget": null
+    },
+    "source": {
+      "igColSourceType": "Database Column",
+      "sourceDbColumn": "CUSTOMER_ADDRESS",
+      "dataType": "VARCHAR2",
+      "isQueryOnly": "N",
+      "isPrimaryKey": "N"
+    },
+    "masterDetail": {
+      "masterColumn": null
+    },
+    "default": {
+      "defaultType": null,
+      "duplicateValue": "Y"
+    },
+    "exportPrinting": {
+      "includeInExportPrint": "Y"
+    },
+    "advanced": {
+      "staticId": null,
+      "advancedCssClasses": null,
+      "customAttributes": null,
+      "useAsRowHeader": "N",
+      "javascriptCode": null
+    },
+    "serverSideCondition": {
+      "conditionType": null
+    },
+    "readOnly": {
+      "readOnlyConditionType": null
+    },
+    "security": {
+      "authorizationScheme": null
+    },
+    "configuration": {
+      "buildOption": null
+    },
+    "help": {
+      "helpText": null
+    },
+    "comments": {
+      "comments": null
+    },
+    "attributes": {
+      "submitWhenEnterPressed": "N",
+      "disabled": "N",
+      "saveSessionState": null,
+      "subtype": "TEXT",
+      "trimSpaces": "BOTH"
+    }
+  },
+  {
+    "identification": {
+      "columnName": "CUST_CITY",
+      "itemType": "NATIVE_TEXT_FIELD"
+    },
+    "heading": {
+      "columnHeading": "City",
+      "headingAlignment": "start",
+      "alternativeLabel": null
+    },
+    "layout": {
+      "columnAlignment": "start",
+      "igColGroup": null,
+      "stretchColumn": null
+    },
+    "appearance": {
+      "appearanceCssClasses": null,
+      "iconCssClasses": null,
+      "elementWidth": null,
+      "elementValuePlaceholder": null
+    },
+    "validation": {
+      "valueRequired": "N",
+      "elementMaxCharacters": 30
+    },
+    "link": {
+      "linkTarget": null
+    },
+    "source": {
+      "igColSourceType": "Database Column",
+      "sourceDbColumn": "CUST_CITY",
+      "dataType": "VARCHAR2",
+      "isQueryOnly": "N",
+      "isPrimaryKey": "N"
+    },
+    "masterDetail": {
+      "masterColumn": null
+    },
+    "default": {
+      "defaultType": null,
+      "duplicateValue": "Y"
+    },
+    "exportPrinting": {
+      "includeInExportPrint": "Y"
+    },
+    "advanced": {
+      "staticId": null,
+      "advancedCssClasses": null,
+      "customAttributes": null,
+      "useAsRowHeader": "N",
+      "javascriptCode": null
+    },
+    "serverSideCondition": {
+      "conditionType": null
+    },
+    "readOnly": {
+      "readOnlyConditionType": null
+    },
+    "security": {
+      "authorizationScheme": null
+    },
+    "configuration": {
+      "buildOption": null
+    },
+    "help": {
+      "helpText": null
+    },
+    "comments": {
+      "comments": null
+    },
+    "attributes": {
+      "submitWhenEnterPressed": null,
+      "disabled": null,
+      "saveSessionState": null,
+      "subtype": null,
+      "trimSpaces": "BOTH"
+    }
+  },
+  {
+    "identification": {
+      "columnName": "CUST_STATE",
+      "itemType": "NATIVE_TEXT_FIELD"
+    },
+    "heading": {
+      "columnHeading": "State",
+      "headingAlignment": "start",
+      "alternativeLabel": null
+    },
+    "layout": {
+      "columnAlignment": "start",
+      "igColGroup": null,
+      "stretchColumn": null
+    },
+    "appearance": {
+      "appearanceCssClasses": null,
+      "iconCssClasses": null,
+      "elementWidth": null,
+      "elementValuePlaceholder": null
+    },
+    "validation": {
+      "valueRequired": "N",
+      "elementMaxCharacters": 2
+    },
+    "link": {
+      "linkTarget": null
+    },
+    "source": {
+      "igColSourceType": "Database Column",
+      "sourceDbColumn": "CUST_STATE",
+      "dataType": "VARCHAR2",
+      "isQueryOnly": "N",
+      "isPrimaryKey": "N"
+    },
+    "masterDetail": {
+      "masterColumn": null
+    },
+    "default": {
+      "defaultType": null,
+      "duplicateValue": "Y"
+    },
+    "exportPrinting": {
+      "includeInExportPrint": "Y"
+    },
+    "advanced": {
+      "staticId": null,
+      "advancedCssClasses": null,
+      "customAttributes": null,
+      "useAsRowHeader": "N",
+      "javascriptCode": null
+    },
+    "serverSideCondition": {
+      "conditionType": null
+    },
+    "readOnly": {
+      "readOnlyConditionType": null
+    },
+    "security": {
+      "authorizationScheme": null
+    },
+    "configuration": {
+      "buildOption": null
+    },
+    "help": {
+      "helpText": null
+    },
+    "comments": {
+      "comments": null
+    },
+    "attributes": {
+      "submitWhenEnterPressed": "N",
+      "disabled": "N",
+      "saveSessionState": null,
+      "subtype": "TEXT",
+      "trimSpaces": "BOTH"
+    }
+  },
+  {
+    "identification": {
+      "columnName": "CUST_POSTAL_CODE",
+      "itemType": "NATIVE_TEXT_FIELD"
+    },
+    "heading": {
+      "columnHeading": "Postal Code",
+      "headingAlignment": "start",
+      "alternativeLabel": null
+    },
+    "layout": {
+      "columnAlignment": "start",
+      "igColGroup": null,
+      "stretchColumn": null
+    },
+    "appearance": {
+      "appearanceCssClasses": null,
+      "iconCssClasses": null,
+      "elementWidth": null,
+      "elementValuePlaceholder": null
+    },
+    "validation": {
+      "valueRequired": "N",
+      "elementMaxCharacters": 10
+    },
+    "link": {
+      "linkTarget": null
+    },
+    "source": {
+      "igColSourceType": "Database Column",
+      "sourceDbColumn": "CUST_POSTAL_CODE",
+      "dataType": "VARCHAR2",
+      "isQueryOnly": "N",
+      "isPrimaryKey": "N"
+    },
+    "masterDetail": {
+      "masterColumn": null
+    },
+    "default": {
+      "defaultType": null,
+      "duplicateValue": "Y"
+    },
+    "exportPrinting": {
+      "includeInExportPrint": "Y"
+    },
+    "advanced": {
+      "staticId": null,
+      "advancedCssClasses": null,
+      "customAttributes": null,
+      "useAsRowHeader": "N",
+      "javascriptCode": null
+    },
+    "serverSideCondition": {
+      "conditionType": null
+    },
+    "readOnly": {
+      "readOnlyConditionType": null
+    },
+    "security": {
+      "authorizationScheme": null
+    },
+    "configuration": {
+      "buildOption": null
+    },
+    "help": {
+      "helpText": null
+    },
+    "comments": {
+      "comments": null
+    },
+    "attributes": {
+      "submitWhenEnterPressed": "N",
+      "disabled": "N",
+      "saveSessionState": null,
+      "subtype": "TEXT",
+      "trimSpaces": "BOTH"
+    }
+  },
+  {
+    "identification": {
+      "columnName": "TAGS",
+      "itemType": "NATIVE_TEXT_FIELD"
+    },
+    "heading": {
+      "columnHeading": "Tags",
+      "headingAlignment": "start",
+      "alternativeLabel": null
+    },
+    "layout": {
+      "columnAlignment": "start",
+      "igColGroup": null,
+      "stretchColumn": null
+    },
+    "appearance": {
+      "appearanceCssClasses": null,
+      "iconCssClasses": null,
+      "elementWidth": null,
+      "elementValuePlaceholder": null
+    },
+    "validation": {
+      "valueRequired": "N",
+      "elementMaxCharacters": 4000
+    },
+    "link": {
+      "linkTarget": null
+    },
+    "source": {
+      "igColSourceType": "Database Column",
+      "sourceDbColumn": "TAGS",
+      "dataType": "VARCHAR2",
+      "isQueryOnly": "N",
+      "isPrimaryKey": "N"
+    },
+    "masterDetail": {
+      "masterColumn": null
+    },
+    "default": {
+      "defaultType": null,
+      "duplicateValue": "Y"
+    },
+    "exportPrinting": {
+      "includeInExportPrint": "Y"
+    },
+    "advanced": {
+      "staticId": null,
+      "advancedCssClasses": null,
+      "customAttributes": null,
+      "useAsRowHeader": "N",
+      "javascriptCode": null
+    },
+    "serverSideCondition": {
+      "conditionType": null
+    },
+    "readOnly": {
+      "readOnlyConditionType": null
+    },
+    "security": {
+      "authorizationScheme": null
+    },
+    "configuration": {
+      "buildOption": null
+    },
+    "help": {
+      "helpText": null
+    },
+    "comments": {
+      "comments": null
+    },
+    "attributes": {
+      "submitWhenEnterPressed": "N",
+      "disabled": "N",
+      "saveSessionState": null,
+      "subtype": "TEXT",
+      "trimSpaces": "BOTH"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "lovDispSequence": 1,
+    "lovDispValue": "Add Report Page",
+    "lovReturnValue": "REPORT",
+    "lovTemplate": "<span class=\"fa fa-table\" aria-hidden=\"true\"></span><span class=\"u-VisuallyHidden\">#DISPLAY_VALUE#</span>",
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  },
+  {
+    "lovDispSequence": 2,
+    "lovDispValue": "Add Chart Page",
+    "lovReturnValue": "CHART",
+    "lovTemplate": "<span class=\"fa fa-pie-chart\" aria-hidden=\"true\"></span><span class=\"u-VisuallyHidden\">#DISPLAY_VALUE#</span>",
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  }
+]

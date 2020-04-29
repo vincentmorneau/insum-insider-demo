@@ -1,0 +1,51 @@
+[
+  {
+    "edit": {
+      "isEditable": "N"
+    },
+    "performance": {
+      "lazyLoading": "N"
+    },
+    "appearance": {
+      "showNullValuesAs": "-"
+    },
+    "pagination": {
+      "igPaginationType": "Scroll",
+      "showTotalRowCount": "N"
+    },
+    "messages": {
+      "whenNoDataFoundMessage": null,
+      "whenMoreDataFoundMessage": null
+    },
+    "toolbar": {
+      "showToolbar": "Y",
+      "toolbarButtons": "RESET:SAVE"
+    },
+    "enableUserTo": {
+      "enableSavePublicReport": "N",
+      "enableDownload": "Y"
+    },
+    "download": {
+      "igDownloadFormats": "CSV:HTML:XLS:PDF:RTF",
+      "enableMailDownload": "Y",
+      "downloadFilename": null
+    },
+    "heading": {
+      "fixedHeader": "Page"
+    },
+    "iconView": {
+      "iconViewEnabled": "N"
+    },
+    "detailView": {
+      "detailViewEnabled": "N"
+    },
+    "advanced": {
+      "oracleTextIndexColumn": null,
+      "emailFromAddress": null,
+      "javascriptCode": null
+    },
+    "help": {
+      "helpText": null
+    }
+  }
+]

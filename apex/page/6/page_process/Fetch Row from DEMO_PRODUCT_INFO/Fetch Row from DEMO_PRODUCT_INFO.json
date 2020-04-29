@@ -1,0 +1,36 @@
+{
+  "identification": {
+    "name": "Fetch Row from DEMO_PRODUCT_INFO",
+    "pageProcessType": "Automatic Row Fetch"
+  },
+  "executionOptions": {
+    "executionSequence": 10,
+    "processPoint": "After Header",
+    "runProcess": "Once Per Page Visit (default)"
+  },
+  "error": {
+    "processErrorDisplayLocation": "On Error Page"
+  },
+  "serverSideCondition": {
+    "whenButtonPressed": null,
+    "conditionType": "Request != Value",
+    "conditionValue1": "DELETE_IMAGE"
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  },
+  "attributes": {
+    "tableOwner": null,
+    "tableName": "DEMO_PRODUCT_INFO",
+    "primaryKeyItem": "P6_PRODUCT_ID",
+    "primaryKeyColumn": "PRODUCT_ID",
+    "secondaryKeyItem": null,
+    "secondaryKeyColumn": null,
+    "rowVersionColumn": null,
+    "runtimeWhereClause": null,
+    "fetchMode": null
+  }
+}

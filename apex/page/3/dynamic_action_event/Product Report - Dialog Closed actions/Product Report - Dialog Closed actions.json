@@ -1,0 +1,28 @@
+{
+  "identification": {
+    "name": "Product Report - Dialog Closed actions"
+  },
+  "executionOptions": {
+    "executionSequence": 20
+  },
+  "when": {
+    "event": "apexafterclosedialog",
+    "whenType": "Region",
+    "whenRegion": "Products"
+  },
+  "clientSideCondition": {
+    "jsCondition": null
+  },
+  "advanced": {
+    "eventScope": "Static"
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

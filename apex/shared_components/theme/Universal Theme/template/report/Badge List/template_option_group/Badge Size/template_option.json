@@ -1,0 +1,47 @@
+[
+  {
+    "group": "Badge Size",
+    "name": "32PX",
+    "displayName": "32px",
+    "displaySequence": 10,
+    "cssClasses": "t-BadgeList--small",
+    "helpText": null,
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Badge Size",
+    "name": "48PX",
+    "displayName": "48px",
+    "displaySequence": 20,
+    "cssClasses": "t-BadgeList--medium",
+    "helpText": null,
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Badge Size",
+    "name": "64PX",
+    "displayName": "64px",
+    "displaySequence": 30,
+    "cssClasses": "t-BadgeList--large",
+    "helpText": null,
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Badge Size",
+    "name": "96PX",
+    "displayName": "96px",
+    "displaySequence": 40,
+    "cssClasses": "t-BadgeList--xlarge",
+    "helpText": null,
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Badge Size",
+    "name": "128PX",
+    "displayName": "128px",
+    "displaySequence": 50,
+    "cssClasses": "t-BadgeList--xxlarge",
+    "helpText": null,
+    "isAdvanced": "No"
+  }
+]

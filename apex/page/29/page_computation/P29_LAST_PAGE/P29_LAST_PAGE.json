@@ -1,0 +1,23 @@
+{
+  "identification": {
+    "computationItemName": "P29_LAST_PAGE"
+  },
+  "executionOptions": {
+    "executionSequence": 10,
+    "computationPoint": "After Submit"
+  },
+  "computation": {
+    "computationType": "Static Value",
+    "computationStaticValue": "4"
+  },
+  "serverSideCondition": {
+    "conditionType": "Item is NULL",
+    "conditionItem1": "P29_LAST_PAGE"
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

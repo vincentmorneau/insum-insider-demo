@@ -1,0 +1,74 @@
+[
+  {
+    "group": "Layout",
+    "name": "STACKED",
+    "displayName": "Stacked",
+    "displaySequence": 10,
+    "cssClasses": "t-BadgeList--stacked",
+    "helpText": null,
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Layout",
+    "name": "2COLUMNGRID",
+    "displayName": "2 Column Grid",
+    "displaySequence": 20,
+    "cssClasses": "t-BadgeList--cols",
+    "helpText": "Arrange badges in a two column grid",
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Layout",
+    "name": "3COLUMNGRID",
+    "displayName": "3 Column Grid",
+    "displaySequence": 30,
+    "cssClasses": "t-BadgeList--cols t-BadgeList--3cols",
+    "helpText": "Arrange badges in a 3 column grid",
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Layout",
+    "name": "4COLUMNGRID",
+    "displayName": "4 Column Grid",
+    "displaySequence": 40,
+    "cssClasses": "t-BadgeList--cols t-BadgeList--4cols",
+    "helpText": null,
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Layout",
+    "name": "5COLUMNGRID",
+    "displayName": "5 Column Grid",
+    "displaySequence": 50,
+    "cssClasses": "t-BadgeList--cols t-BadgeList--5cols",
+    "helpText": null,
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Layout",
+    "name": "FIXED",
+    "displayName": "Span Horizontally",
+    "displaySequence": 60,
+    "cssClasses": "t-BadgeList--fixed",
+    "helpText": null,
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Layout",
+    "name": "FLOATITEMS",
+    "displayName": "Float Items",
+    "displaySequence": 70,
+    "cssClasses": "t-BadgeList--float",
+    "helpText": null,
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Layout",
+    "name": "FLEXIBLEBOX",
+    "displayName": "Flexible Box",
+    "displaySequence": 80,
+    "cssClasses": "t-BadgeList--flex",
+    "helpText": null,
+    "isAdvanced": "No"
+  }
+]

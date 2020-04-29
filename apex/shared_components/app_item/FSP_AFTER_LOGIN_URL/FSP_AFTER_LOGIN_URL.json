@@ -1,0 +1,15 @@
+{
+  "attributes": {
+    "itemName": "FSP_AFTER_LOGIN_URL",
+    "scope": "Application"
+  },
+  "security": {
+    "sessionStateProtection": null
+  },
+  "configuration": {
+    "buildOption": null
+  },
+  "comments": {
+    "comments": null
+  }
+}

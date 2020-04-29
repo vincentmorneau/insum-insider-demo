@@ -1,0 +1,86 @@
+[
+  {
+    "link": {
+      "irLinkColumn": "Exclude Link Column"
+    },
+    "appearance": {
+      "showNullValuesAs": "-"
+    },
+    "pagination": {
+      "irPaginationType": "Row Ranges X to Y of Z",
+      "paginationDisplayPosition": "Bottom - Right"
+    },
+    "messages": {
+      "whenNoDataFoundMessage": "No data found.",
+      "whenMoreDataFoundMessage": "The maximum row count for this report is #MAX_ROW_COUNT# rows. Please apply a filter to reduce the number of records in your query."
+    },
+    "searchBar": {
+      "includeSearchBar": "Y",
+      "showSearchTextbox": "Y",
+      "showFinderDropDown": "Y",
+      "showReportsSelectList": "TABS",
+      "showDisplayRowCount": "N",
+      "searchButtonLabel": null,
+      "maximumRowsPerPage": null
+    },
+    "actionsMenu": {
+      "showActionsMenu": "Y",
+      "showFilter": "Y",
+      "showSelectColumns": "Y",
+      "showRowsPerPage": "N",
+      "showSort": "Y",
+      "showControlBreak": "Y",
+      "showHighlight": "Y",
+      "showComputation": "Y",
+      "showAggregate": "Y",
+      "showChart": "Y",
+      "showGroupBy": "Y",
+      "showPivot": "Y",
+      "showFlashback": "Y",
+      "allowUsersToSaveReports": "Y",
+      "allowUsersToSavePublicReport": "Y",
+      "savePublicReport": null,
+      "showReset": "Y",
+      "showHelp": "Y",
+      "showNotify": "Y",
+      "showDownload": "Y"
+    },
+    "download": {
+      "downloadFormats": "CSV",
+      "csvSeparator": null,
+      "csvEnclosedBy": null,
+      "downloadFilename": null
+    },
+    "heading": {
+      "fixedHeader": "Page"
+    },
+    "iconView": {
+      "iconViewEnabled": "Y",
+      "useCustomIconView": "N",
+      "columnsPerRow": 5,
+      "iconViewLinkColumn": "ICON_LINK",
+      "iconViewImageSourceColumn": "DETAIL_IMG_NO_STYLE",
+      "iconViewLabelColumn": "PRODUCT_NAME",
+      "iconViewImageAttributes": "width=\"75\" height=\"75\"",
+      "iconViewHtmlAltText": null,
+      "iconViewHtmlTitleText": null
+    },
+    "detailView": {
+      "detailViewEnabled": "Y",
+      "detailViewBeforeRows": "<style>\ntable.apexir_WORKSHEET_CUSTOM { border: none !important; -moz-box-shadow: none; box-shadow: none; -webkit-box-shadow: none; }\n.apexir_WORKSHEET_DATA td {border-bottom: none !important;}\ntable.reportDetail td {\n        padding: 2px 4px !important;\n\tborder: none !important;\n\tfont: 11px/16px Arial, sans-serif;\n\t}\n\ttable.reportDetail td.separator {\n\t\tbackground: #F0F0F0 !important;\n\t\tpadding: 0 !important;\n\t\theight: 1px !important;\npadding: 0;\n\t\tline-height: 2px !important;\noverflow: hidden;\n\t\t}\ntable.reportDetail td h1 {margin: 0 !important}\ntable.reportDetail td img {margin-top: 8px; border: 4px solid #CCC; -moz-border-radius: 4px; -webkit-border-radius: 4px;}\n</style>\n<table class=\"reportDetail\">",
+      "detailViewForEachRow": "<tr>\n<td rowspan=\"5\" valign=\"top\"><img width=\"75\" height=\"75\" src=\"#DETAIL_IMG_NO_STYLE#\" alt=\"#PRODUCT_NAME#\"></td>\n<td colspan=\"6\"><h1><a href=\"#ICON_LINK#\"><strong>#PRODUCT_NAME#</strong></a></h1></td>\n</tr>\n<tr>\n<td><strong>#CATEGORY_LABEL#:</strong></td><td>#CATEGORY#</td>\n<td><strong>#PRODUCT_AVAIL_LABEL#:</strong></td><td>#PRODUCT_AVAIL#</td>\n<td><strong>#LAST_DATE_SOLD_LABEL#:</strong></td><td>#LAST_DATE_SOLD#</td>\n</tr>\n<tr>\n<td align=\"left\"><strong>#PRODUCT_DESCRIPTION_LABEL#:</strong></td><td colspan=\"5\" >#PRODUCT_DESCRIPTION#</td>\n</tr>\n<tr>\n<td style=\"padding-bottom: 0px;\"><strong>#LIST_PRICE_LABEL#</strong></td>\n<td style=\"padding-bottom: 0px;\"><strong>#UNITS_LABEL#</strong></td>\n<td style=\"padding-bottom: 0px;\"><strong>#SALES_LABEL#</strong></td>\n<td style=\"padding-bottom: 0px;\"><strong>#CUSTOMERS_LABEL#</strong></td>\n</tr>\n<tr>\n<td style=\"padding-top: 0px;\">#LIST_PRICE#</td>\n<td style=\"padding-top: 0px;\">#UNITS#</td>\n<td style=\"padding-top: 0px;\">#SALES#</td>\n<td style=\"padding-top: 0px;\">#CUSTOMERS#</td>\n</tr>\n<tr><td colspan=\"7\" class=\"separator\">&nbsp;</td></tr>",
+      "detailViewAfterRows": "<tr><td colspan=\"7\" class=\"separator\"></td></tr>\n</table>"
+    },
+    "advanced": {
+      "reportAlias": null,
+      "reportIdItem": null,
+      "emailFromAddress": null
+    },
+    "performance": {
+      "maximumRowCount": "1000000"
+    },
+    "attributes": {
+      "description": null
+    }
+  }
+]

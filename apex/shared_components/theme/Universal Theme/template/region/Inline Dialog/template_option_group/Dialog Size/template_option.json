@@ -1,0 +1,29 @@
+[
+  {
+    "group": "Dialog Size",
+    "name": "SMALL_480X320",
+    "displayName": "Small (480x320)",
+    "displaySequence": 10,
+    "cssClasses": "js-dialog-size480x320",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Dialog Size",
+    "name": "MEDIUM_600X400",
+    "displayName": "Medium (600x400)",
+    "displaySequence": 20,
+    "cssClasses": "js-dialog-size600x400",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Dialog Size",
+    "name": "LARGE_720X480",
+    "displayName": "Large (720x480)",
+    "displaySequence": 30,
+    "cssClasses": "js-dialog-size720x480",
+    "helpText": null,
+    "isAdvanced": null
+  }
+]

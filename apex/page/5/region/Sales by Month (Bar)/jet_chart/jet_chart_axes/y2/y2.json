@@ -1,0 +1,37 @@
+{
+  "identification": {
+    "name": "y2",
+    "title": null,
+    "jetShowAxis": "on"
+  },
+  "value": {
+    "axisMin": null,
+    "axisMax": null,
+    "valueFormatType": null,
+    "valueFormatScaling": "Automatic",
+    "valueBaselineScaling": "Zero",
+    "axisScaling": "Linear",
+    "axisStep": null
+  },
+  "appearance": {
+    "axisPosition": "Automatic"
+  },
+  "majorTicks": {
+    "majorTickRendered": "Yes",
+    "minStep": null
+  },
+  "minorTicks": {
+    "minorTickRendered": "off",
+    "minorStep": null
+  },
+  "tickLabel": {
+    "tickLabelRendered": "on"
+  },
+  "dualYAxes": {
+    "splitDualY": "Automatic",
+    "splitterPosition": null
+  },
+  "advanced": {
+    "staticId": null
+  }
+}

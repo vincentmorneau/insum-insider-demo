@@ -1,0 +1,28 @@
+{
+  "attributes": {
+    "name": "Application Express Accounts",
+    "schemeType": "Application Express Accounts"
+  },
+  "sessionNotValid": {
+    "verifyFunctionName": null
+  },
+  "loginProcessing": {
+    "preAuthenticationProcedure": null,
+    "postAuthenticationProcedure": null,
+    "switchInSession": "Disabled",
+    "helpText": null
+  },
+  "postLogoutUrl": {
+    "goTo": "Login Page"
+  },
+  "sessionSharing": {
+    "type": "Custom",
+    "cookieName": "ORA_WWV_PACKAGED_APPLICATIONS",
+    "cookiePath": null,
+    "cookieDomain": null,
+    "secure": "No"
+  },
+  "comments": {
+    "comments": null
+  }
+}

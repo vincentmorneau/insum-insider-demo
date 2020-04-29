@@ -1,0 +1,22 @@
+{
+  "identification": {
+    "computationItemName": "LAST_VIEW"
+  },
+  "executionOptions": {
+    "executionSequence": 10,
+    "computationPoint": "Before Header"
+  },
+  "computation": {
+    "computationType": "Static Value",
+    "computationStaticValue": "3"
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "sessionManagement": {
+    "maximumSessionLengthSeconds": 28800,
+    "sessionTimeoutUrl": null,
+    "maximumSessionIdleSeconds": null,
+    "sessionIdleTimeoutUrl": null
+  },
+  "authentication": {
+    "publicUser": "APEX_PUBLIC_USER",
+    "authenticationScheme": "Application Express Accounts"
+  },
+  "authorization": {
+    "sourceForRole": "Access Control User Role Assignments",
+    "runOnPublicPages": "Yes",
+    "rejoinSessions": "Enabled for Public Sessions"
+  },
+  "databaseSession": {
+    "runtimeApiUsage": "Modify This Application"
+  },
+  "sessionStateProtection": {
+    "bookmarkHashFunction": "SHA-1",
+    "sessionStateProtection": "Enabled"
+  },
+  "browserSecurity": {
+    "cache": "Disabled",
+    "embedInFrame": "Allow from same origin",
+    "deepLinking": "Enabled",
+    "htmlEscapingMode": "Extended",
+    "httpResponseHeaders": null
+  }
+}

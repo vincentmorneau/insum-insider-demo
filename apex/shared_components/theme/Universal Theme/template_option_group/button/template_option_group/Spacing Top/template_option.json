@@ -1,0 +1,20 @@
+[
+  {
+    "group": "Spacing Top",
+    "name": "SMALLTOPMARGIN",
+    "displayName": "Small",
+    "displaySequence": 10,
+    "cssClasses": "t-Button--padTop",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Spacing Top",
+    "name": "LARGETOPMARGIN",
+    "displayName": "Large",
+    "displaySequence": 20,
+    "cssClasses": "t-Button--gapTop",
+    "helpText": null,
+    "isAdvanced": null
+  }
+]

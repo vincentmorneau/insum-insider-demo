@@ -1,0 +1,13 @@
+{
+  "generalProperties": {
+    "mediaType": null,
+    "staticFilePrefix": null
+  },
+  "logo": {
+    "logo": "TEXT:Sample Database Application",
+    "logoImageAttributes": null
+  },
+  "css": {
+    "cssFileUrls": null
+  }
+}

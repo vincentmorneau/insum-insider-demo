@@ -1,0 +1,38 @@
+[
+  {
+    "group": "Type",
+    "name": "PRIMARY",
+    "displayName": "Primary",
+    "displaySequence": 10,
+    "cssClasses": "t-Button--primary",
+    "helpText": null,
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Type",
+    "name": "WARNING",
+    "displayName": "Warning",
+    "displaySequence": 20,
+    "cssClasses": "t-Button--warning",
+    "helpText": null,
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Type",
+    "name": "DANGER",
+    "displayName": "Danger",
+    "displaySequence": 30,
+    "cssClasses": "t-Button--danger",
+    "helpText": null,
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Type",
+    "name": "SUCCESS",
+    "displayName": "Success",
+    "displaySequence": 40,
+    "cssClasses": "t-Button--success",
+    "helpText": null,
+    "isAdvanced": "No"
+  }
+]

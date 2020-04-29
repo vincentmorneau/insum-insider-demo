@@ -1,0 +1,9 @@
+{
+  "sequence": 10,
+  "shortName": "Administration",
+  "link": "f?p=&APP_ID.:33:&SESSION.::&DEBUG.:::",
+  "page": 33,
+  "conditionType": null,
+  "authorizationScheme": null,
+  "buildOption": null
+}

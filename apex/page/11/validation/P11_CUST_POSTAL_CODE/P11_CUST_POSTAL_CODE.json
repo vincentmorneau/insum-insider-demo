@@ -1,0 +1,29 @@
+{
+  "identification": {
+    "name": "P11_CUST_POSTAL_CODE"
+  },
+  "executionOptions": {
+    "executionSequence": 60
+  },
+  "validation": {
+    "validationRegion": null,
+    "validationType": "Item is NOT NULL",
+    "alwaysExecute": "N"
+  },
+  "error": {
+    "errorMessageDisplayLocation": "Inline with Field and in Notification",
+    "associatedItem": "P11_CUST_POSTAL_CODE"
+  },
+  "serverSideCondition": {
+    "whenButtonPressed": "NEXT",
+    "conditionType": "Item = Value",
+    "conditionItem1": "P11_CUSTOMER_OPTIONS",
+    "conditionValue2": "NEW"
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

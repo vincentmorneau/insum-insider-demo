@@ -1,0 +1,23 @@
+{
+  "identification": {
+    "name": "branch to page stored in item"
+  },
+  "executionOptions": {
+    "branchPoint": "After Processing"
+  },
+  "behavior": {
+    "branchType": "Page or URL (Redirect)",
+    "target": "f?p=&APP_ID.:&P7_BRANCH.:&SESSION.::&DEBUG.:::",
+    "saveStateBeforeBranch": "N"
+  },
+  "serverSideCondition": {
+    "whenButtonPressed": null,
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

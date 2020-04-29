@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Region Body",
+    "placeholder": "BODY",
+    "hasGridSupport": "Y",
+    "glvNewRow": "Y",
+    "maxFixedGridColumns": null,
+    "componentComment": null
+  }
+]

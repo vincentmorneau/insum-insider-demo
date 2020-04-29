@@ -1,0 +1,40 @@
+{
+  "identification": {
+    "buttonName": "CLOSE",
+    "buttonLabel": "Close"
+  },
+  "layout": {
+    "buttonPosition": "REGION_TEMPLATE_EDIT",
+    "startNewRow": null,
+    "column": null,
+    "columnSpan": null,
+    "columnCssClasses": null,
+    "columnAttributes": null
+  },
+  "appearance": {
+    "buttonTemplate": "Text",
+    "buttonIsHot": "N",
+    "templateOptions": "#DEFAULT#",
+    "appearanceCssClasses": "w40p",
+    "iconCssClasses": null
+  },
+  "behavior": {
+    "buttonAction": "Defined by Dynamic Action",
+    "buttonExecuteValidations": "Y",
+    "buttonDatabaseAction": null
+  },
+  "advanced": {
+    "staticId": null,
+    "customAttributes": null,
+    "buttonRequestSourceType": null
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

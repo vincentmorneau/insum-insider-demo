@@ -1,0 +1,38 @@
+[
+  {
+    "group": null,
+    "name": "AUTO_HEIGHT_INLINE_DIALOG",
+    "displayName": "Auto Height",
+    "displaySequence": 1,
+    "cssClasses": "js-dialog-autoheight",
+    "helpText": "This option will set the height of the dialog to fit its contents.",
+    "isAdvanced": null
+  },
+  {
+    "group": null,
+    "name": "MODAL",
+    "displayName": "Modal",
+    "displaySequence": 10,
+    "cssClasses": "js-modal",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": null,
+    "name": "DRAGGABLE",
+    "displayName": "Draggable",
+    "displaySequence": 20,
+    "cssClasses": "js-draggable",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": null,
+    "name": "RESIZABLE",
+    "displayName": "Resizable",
+    "displaySequence": 30,
+    "cssClasses": "js-resizable",
+    "helpText": null,
+    "isAdvanced": null
+  }
+]

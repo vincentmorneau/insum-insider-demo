@@ -1,0 +1,58 @@
+[
+  {
+    "displaySequence": 5,
+    "displayValue": "Fit to Page",
+    "returnValue": "0",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": "<p>Sizes the badges to stretch across the page. The width of each badge will be determined by the number of badges and the display width.</p>\n<p>Note: Badges will not wrap when displayed on smaller devices.</p>"
+  },
+  {
+    "displaySequence": 7,
+    "displayValue": "Float to Left",
+    "returnValue": "F",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": "<p>Sizes the badges based on the width of the label for each badge. All badges will be displayed to the left of the region.</p>"
+  },
+  {
+    "displaySequence": 10,
+    "displayValue": "1 column",
+    "returnValue": "1",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": "Displays only one badge per row. Therefore, if there are three badges they are displayed on three rows."
+  },
+  {
+    "displaySequence": 20,
+    "displayValue": "2 columns",
+    "returnValue": "2",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": "Displays only two badges per row. Therefore, if there are three badges they are displayed on two rows."
+  },
+  {
+    "displaySequence": 30,
+    "displayValue": "3 columns",
+    "returnValue": "3",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": "<p>Displays a maximum of three badges per row. Therefore, if there are four badges they are displayed on two rows.</p>"
+  },
+  {
+    "displaySequence": 40,
+    "displayValue": "4 columns",
+    "returnValue": "4",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": "<p>Displays a maximum of four badges per row. Therefore, if there are six badges they are displayed on two rows.</p>"
+  },
+  {
+    "displaySequence": 50,
+    "displayValue": "5 columns",
+    "returnValue": "5",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": "<p>Displays a maximum of fix badges per row. Therefore, if there are seven badges they are displayed on two rows.</p>\n<p>Note: on smaller displays where the badges cannot be displayed appropriately, the responsive region will revert to less column and additional rows. For example, seven badges may be displayed as three columns on three rows, instead of five columns on two rows.</p>"
+  }
+]

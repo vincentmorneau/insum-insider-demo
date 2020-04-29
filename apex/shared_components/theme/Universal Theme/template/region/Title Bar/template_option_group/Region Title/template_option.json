@@ -1,0 +1,20 @@
+[
+  {
+    "group": "Region Title",
+    "name": "GET_TITLE_FROM_BREADCRUMB",
+    "displayName": "Use Current Breadcrumb Entry",
+    "displaySequence": 1,
+    "cssClasses": "t-BreadcrumbRegion--useBreadcrumbTitle",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Region Title",
+    "name": "REGION_HEADER_VISIBLE",
+    "displayName": "Use Region Title",
+    "displaySequence": 1,
+    "cssClasses": "t-BreadcrumbRegion--useRegionTitle",
+    "helpText": null,
+    "isAdvanced": null
+  }
+]

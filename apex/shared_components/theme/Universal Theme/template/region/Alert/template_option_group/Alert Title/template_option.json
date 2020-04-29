@@ -1,0 +1,20 @@
+[
+  {
+    "group": "Alert Title",
+    "name": "HIDDENHEADERNOAT",
+    "displayName": "Hidden",
+    "displaySequence": 10,
+    "cssClasses": "t-Alert--removeHeading",
+    "helpText": "Hides the Alert Title from being displayed.",
+    "isAdvanced": null
+  },
+  {
+    "group": "Alert Title",
+    "name": "HIDDENHEADER",
+    "displayName": "Hidden but Accessible",
+    "displaySequence": 20,
+    "cssClasses": "t-Alert--accessibleHeading",
+    "helpText": "Visually hides the alert title, but assistive technologies can still read it.",
+    "isAdvanced": null
+  }
+]

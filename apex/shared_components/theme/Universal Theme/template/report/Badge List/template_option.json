@@ -1,0 +1,11 @@
+[
+  {
+    "group": null,
+    "name": "APPLY_THEME_COLORS",
+    "displayName": "Apply Theme Colors",
+    "displaySequence": 10,
+    "cssClasses": "u-colors",
+    "helpText": null,
+    "isAdvanced": null
+  }
+]

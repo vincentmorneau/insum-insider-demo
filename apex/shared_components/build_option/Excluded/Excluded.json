@@ -1,0 +1,7 @@
+{
+  "name": "Excluded",
+  "status": "Exclude",
+  "defaultOnExport": "Exclude",
+  "onUpgradeKeepStatus": "No",
+  "comment": null
+}

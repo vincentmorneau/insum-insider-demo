@@ -1,0 +1,47 @@
+[
+  {
+    "group": "Accent",
+    "name": "ACCENT_1",
+    "displayName": "Accent 1",
+    "displaySequence": 10,
+    "cssClasses": "t-Region--accent1",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Accent",
+    "name": "ACCENT_2",
+    "displayName": "Accent 2",
+    "displaySequence": 20,
+    "cssClasses": "t-Region--accent2",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Accent",
+    "name": "ACCENT_3",
+    "displayName": "Accent 3",
+    "displaySequence": 30,
+    "cssClasses": "t-Region--accent3",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Accent",
+    "name": "ACCENT_4",
+    "displayName": "Accent 4",
+    "displaySequence": 40,
+    "cssClasses": "t-Region--accent4",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Accent",
+    "name": "ACCENT_5",
+    "displayName": "Accent 5",
+    "displaySequence": 50,
+    "cssClasses": "t-Region--accent5",
+    "helpText": null,
+    "isAdvanced": null
+  }
+]

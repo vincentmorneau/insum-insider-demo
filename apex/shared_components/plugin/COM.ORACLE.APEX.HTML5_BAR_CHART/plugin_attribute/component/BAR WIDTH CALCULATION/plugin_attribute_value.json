@@ -1,0 +1,18 @@
+[
+  {
+    "displaySequence": 10,
+    "displayValue": "Absolute",
+    "returnValue": "ABSOLUTE",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": "100% bar width is represented by the maximum value displayed."
+  },
+  {
+    "displaySequence": 20,
+    "displayValue": "Relative",
+    "returnValue": "RELATIVE",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": "100% bar width is represented by the sum of the values of all the displayed chart items."
+  }
+]

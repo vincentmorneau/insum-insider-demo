@@ -1,0 +1,36 @@
+{
+  "identification": {
+    "buttonName": "UPLOAD_DATA",
+    "buttonLabel": "Upload Data"
+  },
+  "layout": {
+    "buttonPosition": "REGION_TEMPLATE_CREATE"
+  },
+  "appearance": {
+    "buttonTemplate": "Text with Icon",
+    "buttonIsHot": "N",
+    "templateOptions": "#DEFAULT#:t-Button--iconLeft",
+    "appearanceCssClasses": null,
+    "iconCssClasses": "fa-database-upload"
+  },
+  "behavior": {
+    "buttonAction": "Redirect to Page in this Application",
+    "buttonTarget": "f?p=&APP_ID.:51:&SESSION.::&DEBUG.:51,52,53,54::",
+    "buttonWarnOnUnsavedChanges": "Do Not Check",
+    "buttonDatabaseAction": null
+  },
+  "advanced": {
+    "staticId": null,
+    "customAttributes": null,
+    "buttonRequestSourceType": null
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

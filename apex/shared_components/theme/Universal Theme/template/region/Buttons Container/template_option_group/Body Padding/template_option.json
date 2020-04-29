@@ -1,0 +1,20 @@
+[
+  {
+    "group": "Body Padding",
+    "name": "NOPADDING",
+    "displayName": "No Padding",
+    "displaySequence": 3,
+    "cssClasses": "t-ButtonRegion--noPadding",
+    "helpText": null,
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Body Padding",
+    "name": "SLIMPADDING",
+    "displayName": "Slim Padding",
+    "displaySequence": 5,
+    "cssClasses": "t-ButtonRegion--slimPadding",
+    "helpText": null,
+    "isAdvanced": "No"
+  }
+]

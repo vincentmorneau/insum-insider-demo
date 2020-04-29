@@ -1,0 +1,4 @@
+/* Color feedback rating icons */
+.feedback-positive { color: #4caf50; }
+.feedback-neutral { color: #eb9f41; }
+.feedback-negative { color: #f44336; }

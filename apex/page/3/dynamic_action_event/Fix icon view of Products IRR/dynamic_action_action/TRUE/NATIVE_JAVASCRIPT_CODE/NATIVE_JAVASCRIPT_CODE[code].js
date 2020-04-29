@@ -1,0 +1,1 @@
+$('table.a-IRR-iconViewTable td').attr('align','middle');

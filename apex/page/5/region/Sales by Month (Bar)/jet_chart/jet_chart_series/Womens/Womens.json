@@ -1,0 +1,49 @@
+{
+  "identification": {
+    "name": "Womens"
+  },
+  "executionOptions": {
+    "executionSequence": 20
+  },
+  "source": {
+    "chartSourceLocation": "Region Source",
+    "optimizerHint": null
+  },
+  "columnMapping": {
+    "seriesNameColumnName": null,
+    "itemsLabelColumnName": "LABEL",
+    "aggregateFunc": null,
+    "itemsZColumnName": null,
+    "itemsShortDescColumnName": null,
+    "groupNameColumnName": null,
+    "groupShortDescColumnName": null,
+    "customColumnName": null
+  },
+  "link": {
+    "linkTargetType": null
+  },
+  "appearance": {
+    "jetSeriesColor": null,
+    "assignedToY2": "off"
+  },
+  "label": {
+    "itemsLabelRendered": "Y",
+    "itemsLabelPosition": "Automatic",
+    "itemsLabelCssClasses": null
+  },
+  "performance": {
+    "maximumRowCount": null
+  },
+  "advanced": {
+    "staticId": null
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "identification": {
+    "name": "Process Row of DEMO_CUSTOMERS",
+    "pageProcessType": "Automatic Row Processing (DML)"
+  },
+  "executionOptions": {
+    "executionSequence": 20,
+    "processPoint": "Processing",
+    "runProcess": "Once Per Page Visit (default)"
+  },
+  "error": {
+    "processErrorDisplayLocation": "On Error Page"
+  },
+  "serverSideCondition": {
+    "whenButtonPressed": null,
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  },
+  "attributes": {
+    "tableOwner": null,
+    "tableName": "DEMO_CUSTOMERS",
+    "primaryKeyItem": "P7_CUSTOMER_ID",
+    "primaryKeyColumn": "CUSTOMER_ID",
+    "secondaryKeyItem": null,
+    "secondaryKeyColumn": null,
+    "rowVersionColumn": null,
+    "runtimeWhereClause": null,
+    "returnKeyIntoItem": "P7_CUSTOMER_ID",
+    "returnSecondKeyIntoItem": null,
+    "supportedOperations": "I:U:D",
+    "lockRow": "Y"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "identification": {
+    "itemName": "P10022_FEEDBACK_ATTACHMENTS_YN",
+    "itemType": "Switch"
+  },
+  "label": {
+    "label": "Enable Attachments",
+    "labelAlignment": "Left",
+    "fieldTableCellAttributes": null
+  },
+  "layout": {
+    "elementFieldAlignment": "Left",
+    "startNewRow": "Y",
+    "column": null,
+    "columnSpan": null,
+    "labelColumnSpan": 3,
+    "columnCssClasses": null,
+    "columnAttributes": null
+  },
+  "appearance": {
+    "fieldTemplate": "Optional - Floating",
+    "templateOptions": null,
+    "appearanceCssClasses": null
+  },
+  "validation": {
+    "valueRequired": "Y"
+  },
+  "advanced": {
+    "advancedCssClasses": null,
+    "customAttributes": null,
+    "itemWarnOnUnsavedChanges": null
+  },
+  "source": {
+    "sourceType": "PL/SQL Expression",
+    "sourceUsed": "Only when current value in session state is null",
+    "maintainSessionState": "Per Session"
+  },
+  "default": {
+    "defaultValueType": "Static Value"
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "readOnly": {
+    "readOnlyConditionType": null
+  },
+  "security": {
+    "authorizationScheme": null,
+    "sessionStateProtection": "Unrestricted",
+    "encryptSessionState": "N",
+    "restrictedCharacters": "Blacklist HTML command characters (<>\")"
+  },
+  "configuration": {
+    "buildOption": null
+  },
+  "attributes": {
+    "settings": "APPLICATION",
+    "onValue": null,
+    "onLabel": null,
+    "offValue": null,
+    "offLabel": null,
+    "displayStyle": null
+  }
+}

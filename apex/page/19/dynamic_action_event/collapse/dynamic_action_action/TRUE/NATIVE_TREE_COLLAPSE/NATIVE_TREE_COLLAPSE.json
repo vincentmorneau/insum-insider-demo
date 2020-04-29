@@ -1,0 +1,17 @@
+{
+  "identification": {
+    "daActionType": "Collapse Tree"
+  },
+  "affectedElements": {
+    "affectedType": "Region",
+    "affectedRegion": "Product Orders"
+  },
+  "executionOptions": {
+    "executionSequence": 10,
+    "daEvent": "collapse",
+    "fireWhenEventResultIs": "True",
+    "fireOnPageLoad": "N",
+    "stopExecutionOnError": "Y",
+    "waitForResult": null
+  }
+}

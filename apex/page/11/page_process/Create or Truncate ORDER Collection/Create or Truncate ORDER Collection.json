@@ -1,0 +1,28 @@
+{
+  "identification": {
+    "name": "Create or Truncate ORDER Collection",
+    "pageProcessType": "PL/SQL Code"
+  },
+  "source": {
+    "plsqlProcessLocation": "Local Database"
+  },
+  "executionOptions": {
+    "executionSequence": 10,
+    "processPoint": "Before Header",
+    "processRegion": null,
+    "runProcess": "Once Per Page Visit (default)"
+  },
+  "error": {
+    "processErrorDisplayLocation": "On Error Page"
+  },
+  "serverSideCondition": {
+    "whenButtonPressed": null,
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

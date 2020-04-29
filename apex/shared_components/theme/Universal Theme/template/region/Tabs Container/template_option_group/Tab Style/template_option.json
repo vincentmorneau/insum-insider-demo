@@ -1,0 +1,20 @@
+[
+  {
+    "group": "Tab Style",
+    "name": "SIMPLE",
+    "displayName": "Simple",
+    "displaySequence": 10,
+    "cssClasses": "t-TabsRegion-mod--simple",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Tab Style",
+    "name": "PILL",
+    "displayName": "Pill",
+    "displaySequence": 20,
+    "cssClasses": "t-TabsRegion-mod--pill",
+    "helpText": null,
+    "isAdvanced": null
+  }
+]

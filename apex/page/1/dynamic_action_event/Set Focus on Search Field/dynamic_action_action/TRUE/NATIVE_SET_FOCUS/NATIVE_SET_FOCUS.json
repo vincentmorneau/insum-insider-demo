@@ -1,0 +1,17 @@
+{
+  "identification": {
+    "daActionType": "Set Focus"
+  },
+  "affectedElements": {
+    "affectedType": "Item(s)",
+    "affectedItems": "P1_SEARCH"
+  },
+  "executionOptions": {
+    "executionSequence": 10,
+    "daEvent": "Set Focus on Search Field",
+    "fireWhenEventResultIs": "True",
+    "fireOnPageLoad": "Y",
+    "stopExecutionOnError": "Y",
+    "waitForResult": null
+  }
+}

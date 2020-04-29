@@ -1,0 +1,37 @@
+{
+  "identification": {
+    "buttonName": "PLACE_ORDER",
+    "buttonLabel": "Complete Order"
+  },
+  "layout": {
+    "buttonPosition": "REGION_TEMPLATE_NEXT"
+  },
+  "appearance": {
+    "buttonTemplate": "Text",
+    "buttonIsHot": "Y",
+    "templateOptions": "#DEFAULT#",
+    "appearanceCssClasses": null,
+    "iconCssClasses": null
+  },
+  "behavior": {
+    "buttonAction": "Redirect to URL",
+    "buttonTarget": "javascript:apex.confirm('Are you sure you want to place this order?','PLACE_ORDER');",
+    "buttonExecuteValidations": "Y",
+    "buttonWarnOnUnsavedChanges": "Do Not Check",
+    "buttonDatabaseAction": null
+  },
+  "advanced": {
+    "staticId": null,
+    "customAttributes": null,
+    "buttonRequestSourceType": null
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

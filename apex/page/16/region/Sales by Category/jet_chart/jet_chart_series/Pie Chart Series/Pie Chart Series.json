@@ -1,0 +1,47 @@
+{
+  "identification": {
+    "name": "Pie Chart Series"
+  },
+  "executionOptions": {
+    "executionSequence": 10
+  },
+  "source": {
+    "chartSourceLocation": "Local Database",
+    "sourceQueryType": "SQL Query",
+    "sourcePageItemsToSubmit": null,
+    "optimizerHint": null
+  },
+  "columnMapping": {
+    "seriesNameColumnName": null,
+    "itemsLabelColumnName": "LABEL",
+    "itemsShortDescColumnName": null,
+    "customColumnName": null
+  },
+  "link": {
+    "linkTargetType": null
+  },
+  "appearance": {
+    "jetSeriesColor": null
+  },
+  "label": {
+    "itemsLabelRendered": "Y",
+    "itemsLabelPosition": "Center",
+    "jetLabelDisplayAs": "Label",
+    "itemsLabelCssClasses": null
+  },
+  "performance": {
+    "maximumRowCount": null
+  },
+  "advanced": {
+    "staticId": null
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "lovDispSequence": 1,
+    "lovDispValue": "No Action",
+    "lovReturnValue": "0",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  },
+  {
+    "lovDispSequence": 2,
+    "lovDispValue": "Acknowledged",
+    "lovReturnValue": "1",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  },
+  {
+    "lovDispSequence": 3,
+    "lovDispValue": "Open",
+    "lovReturnValue": "3",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  },
+  {
+    "lovDispSequence": 4,
+    "lovDispValue": "Closed",
+    "lovReturnValue": "4",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  }
+]

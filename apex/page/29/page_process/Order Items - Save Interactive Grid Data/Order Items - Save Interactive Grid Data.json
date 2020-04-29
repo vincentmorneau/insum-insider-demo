@@ -1,0 +1,34 @@
+{
+  "identification": {
+    "name": "Order Items - Save Interactive Grid Data",
+    "pageProcessType": "Interactive Grid - Automatic Row Processing (DML)"
+  },
+  "executionOptions": {
+    "executionSequence": 30,
+    "processPoint": "Processing",
+    "processRegion": "Order Items",
+    "runProcess": "Once Per Page Visit (default)"
+  },
+  "error": {
+    "processErrorDisplayLocation": "Inline in Notification"
+  },
+  "serverSideCondition": {
+    "whenButtonPressed": null,
+    "executionScope": "For Created and Modified Rows",
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  },
+  "attributes": {
+    "targetType": "REGION_SOURCE",
+    "tableOwner": null,
+    "tableName": null,
+    "preventLostUpdates": "Y",
+    "lockRow": "Y",
+    "returnPrimaryKeysAfterInsert": "Y"
+  }
+}

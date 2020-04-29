@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Body",
+    "placeholder": "BODY",
+    "hasGridSupport": "N",
+    "glvNewRow": "Y",
+    "maxFixedGridColumns": null,
+    "componentComment": null
+  },
+  {
+    "name": "Sub Regions",
+    "placeholder": "SUB_REGIONS",
+    "hasGridSupport": "N",
+    "glvNewRow": "Y",
+    "maxFixedGridColumns": null,
+    "componentComment": null
+  }
+]

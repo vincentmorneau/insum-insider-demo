@@ -1,0 +1,20 @@
+[
+  {
+    "group": "Layout",
+    "name": "LEFT_ALIGNED_DETAILS",
+    "displayName": "Left Aligned Details",
+    "displaySequence": 10,
+    "cssClasses": "t-AVPList--leftAligned",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Layout",
+    "name": "RIGHT_ALIGNED_DETAILS",
+    "displayName": "Right Aligned Details",
+    "displaySequence": 20,
+    "cssClasses": "t-AVPList--rightAligned",
+    "helpText": null,
+    "isAdvanced": null
+  }
+]

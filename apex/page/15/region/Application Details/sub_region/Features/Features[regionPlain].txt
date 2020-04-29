@@ -1,0 +1,20 @@
+<h2>Features</h2>
+<p>
+    <ul>
+        <li>Interactive and Classic Reports</li>
+        <li>Data Display and Data Entry</li>
+        <li>JET Charts (reference Reports tab then Sales by Category, Sales by Month, Customer Orders)</li>
+        <li>Plug-in Based Charting (HTML 5 Charts)</li>
+        <li>Validations</li>
+        <li>Dynamic Actions (First page of Create Order Wizard)</li>
+        <li>Simple Search</li>
+        <li>Page Branching and Linking</li>
+        <li>Tagging</li>
+        <li>Wizards (see Enter New Order)</li>
+        <li>Responsive User Interface</li>
+        <li>File Upload and Download (create producat and upload a product image file)</li>
+        <li>List Controls (reference Reports tab)</li>
+        <li>Tree Control (reference Reports tab then Product Order Tree)</li>
+        <li>Flash Map Chart (reference Reports tab then Customer Map)</li>
+    </ul>
+</p>

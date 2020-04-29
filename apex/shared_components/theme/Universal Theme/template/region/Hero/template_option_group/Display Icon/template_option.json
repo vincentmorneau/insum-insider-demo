@@ -1,0 +1,11 @@
+[
+  {
+    "group": "Display Icon",
+    "name": "DISPLAY_ICON_NO",
+    "displayName": "No",
+    "displaySequence": 10,
+    "cssClasses": "t-HeroRegion--hideIcon",
+    "helpText": "Hide the Hero Region icon.",
+    "isAdvanced": null
+  }
+]

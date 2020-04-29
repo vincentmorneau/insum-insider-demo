@@ -1,0 +1,20 @@
+[
+  {
+    "group": "Icon Position",
+    "name": "LEFTICON",
+    "displayName": "Left",
+    "displaySequence": 10,
+    "cssClasses": "t-Button--iconLeft",
+    "helpText": null,
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Icon Position",
+    "name": "RIGHTICON",
+    "displayName": "Right",
+    "displaySequence": 20,
+    "cssClasses": "t-Button--iconRight",
+    "helpText": null,
+    "isAdvanced": "No"
+  }
+]

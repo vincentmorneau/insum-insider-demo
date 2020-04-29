@@ -1,0 +1,71 @@
+{
+  "identification": {
+    "itemName": "P10023_ATTACHMENT",
+    "itemType": "File Browse..."
+  },
+  "label": {
+    "label": null,
+    "labelAlignment": "Left",
+    "fieldTableCellAttributes": null
+  },
+  "layout": {
+    "elementFieldAlignment": "Left",
+    "startNewRow": "Y",
+    "column": null,
+    "columnSpan": null,
+    "labelColumnSpan": null,
+    "columnCssClasses": null,
+    "columnAttributes": null
+  },
+  "appearance": {
+    "fieldTemplate": "Hidden",
+    "templateOptions": "#DEFAULT#",
+    "appearanceCssClasses": null,
+    "elementWidth": null
+  },
+  "validation": {
+    "valueRequired": "N",
+    "elementMaxCharacters": null
+  },
+  "advanced": {
+    "advancedCssClasses": null,
+    "customAttributes": null,
+    "itemWarnOnUnsavedChanges": null
+  },
+  "source": {
+    "sourceType": "Database Column",
+    "sourceDbColumn": "FILE_BLOB",
+    "sourceUsed": "Always, replacing any existing value in session state",
+    "maintainSessionState": "Per Session"
+  },
+  "default": {
+    "defaultValueType": "Static Value"
+  },
+  "serverSideCondition": {
+    "conditionType": "Never"
+  },
+  "readOnly": {
+    "readOnlyConditionType": null
+  },
+  "security": {
+    "authorizationScheme": null,
+    "sessionStateProtection": "Unrestricted",
+    "restrictedCharacters": null
+  },
+  "configuration": {
+    "buildOption": null
+  },
+  "attributes": {
+    "storageType": "DB_COLUMN",
+    "mimeTypeColumn": "FILE_MIMETYPE",
+    "filenameColumn": "FILENAME",
+    "characterSetColumn": "FILE_CHARSET",
+    "blobLastUpdatedColumn": "UPDATED",
+    "displayDownloadLink": "Y",
+    "downloadLinkText": null,
+    "contentDisposition": "inline",
+    "purgeFileAt": "SESSION",
+    "allowMultipleFiles": "N",
+    "fileTypes": null
+  }
+}

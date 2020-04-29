@@ -1,0 +1,26 @@
+[
+  {
+    "displaySequence": 10,
+    "displayValue": "Image",
+    "returnValue": "IMAGE",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": "Displays an image HTML element on the left side of the chart."
+  },
+  {
+    "displaySequence": 20,
+    "displayValue": "CSS Icon",
+    "returnValue": "ICON",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": "Displays an icon with the given CSS class."
+  },
+  {
+    "displaySequence": 30,
+    "displayValue": "Initials",
+    "returnValue": "INITIALS",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": "Displays a colored circle containing the first two initials for each entry."
+  }
+]

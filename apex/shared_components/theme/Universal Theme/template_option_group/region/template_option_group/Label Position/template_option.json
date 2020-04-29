@@ -1,0 +1,11 @@
+[
+  {
+    "group": "Label Position",
+    "name": "SHOWFORMLABELSABOVE",
+    "displayName": "Show Form Labels Above",
+    "displaySequence": 10,
+    "cssClasses": "t-Form--labelsAbove",
+    "helpText": "Show form labels above input fields.",
+    "isAdvanced": "No"
+  }
+]

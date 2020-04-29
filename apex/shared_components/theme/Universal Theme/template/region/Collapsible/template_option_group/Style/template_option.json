@@ -1,0 +1,29 @@
+[
+  {
+    "group": "Style",
+    "name": "NOBORDER",
+    "displayName": "Remove Borders",
+    "displaySequence": 10,
+    "cssClasses": "t-Region--noBorder",
+    "helpText": "Removes borders from the region.",
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Style",
+    "name": "STACKED",
+    "displayName": "Stack Region",
+    "displaySequence": 20,
+    "cssClasses": "t-Region--stacked",
+    "helpText": "Removes side borders and shadows, and can be useful for accordions and regions that need to be grouped together vertically.",
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Style",
+    "name": "REMOVE_UI_DECORATION",
+    "displayName": "Remove UI Decoration",
+    "displaySequence": 30,
+    "cssClasses": "t-Region--noUI",
+    "helpText": "Removes UI decoration (borders, backgrounds, shadows, etc) from the region.",
+    "isAdvanced": null
+  }
+]

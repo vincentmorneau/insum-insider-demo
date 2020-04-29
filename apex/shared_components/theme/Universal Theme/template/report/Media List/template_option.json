@@ -1,0 +1,38 @@
+[
+  {
+    "group": null,
+    "name": "SHOW_ICONS",
+    "displayName": "Show Icons",
+    "displaySequence": 10,
+    "cssClasses": "t-MediaList--showIcons",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": null,
+    "name": "SHOW_DESCRIPTION",
+    "displayName": "Show Description",
+    "displaySequence": 20,
+    "cssClasses": "t-MediaList--showDesc",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": null,
+    "name": "SHOW_BADGES",
+    "displayName": "Show Badges",
+    "displaySequence": 30,
+    "cssClasses": "t-MediaList--showBadges",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": null,
+    "name": "APPLY_THEME_COLORS",
+    "displayName": "Apply Theme Colors",
+    "displaySequence": 40,
+    "cssClasses": "u-colors",
+    "helpText": null,
+    "isAdvanced": null
+  }
+]

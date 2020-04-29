@@ -1,0 +1,29 @@
+{
+  "identification": {
+    "name": "P11_CUST_FIRST_NAME"
+  },
+  "executionOptions": {
+    "executionSequence": 20
+  },
+  "validation": {
+    "validationRegion": null,
+    "validationType": "Item is NOT NULL",
+    "alwaysExecute": "N"
+  },
+  "error": {
+    "errorMessageDisplayLocation": "Inline with Field and in Notification",
+    "associatedItem": null
+  },
+  "serverSideCondition": {
+    "whenButtonPressed": null,
+    "conditionType": "Item = Value",
+    "conditionItem1": "P11_CUSTOMER_OPTIONS",
+    "conditionValue2": "NEW"
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

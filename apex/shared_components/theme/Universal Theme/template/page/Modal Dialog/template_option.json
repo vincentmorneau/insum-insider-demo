@@ -1,0 +1,20 @@
+[
+  {
+    "group": null,
+    "name": "STRETCH_TO_FIT_WINDOW",
+    "displayName": "Stretch to Fit Window",
+    "displaySequence": 1,
+    "cssClasses": "ui-dialog--stretch",
+    "helpText": "Stretch the dialog to fit the browser window.",
+    "isAdvanced": null
+  },
+  {
+    "group": null,
+    "name": "REMOVE_BODY_PADDING",
+    "displayName": "Remove Body Padding",
+    "displaySequence": 20,
+    "cssClasses": "t-Dialog--noPadding",
+    "helpText": null,
+    "isAdvanced": null
+  }
+]

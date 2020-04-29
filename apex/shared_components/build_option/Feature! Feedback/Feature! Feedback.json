@@ -1,0 +1,7 @@
+{
+  "name": "Feature: Feedback",
+  "status": "Include",
+  "defaultOnExport": null,
+  "onUpgradeKeepStatus": "No",
+  "comment": "Provide a mechanism for end users to post general comments back to the application administrators and developers."
+}

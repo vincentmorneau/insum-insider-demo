@@ -1,0 +1,18 @@
+[
+  {
+    "displaySequence": 10,
+    "displayValue": "Above",
+    "returnValue": "ABOVE",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": "The label and value are displayed above the bar, to the left and right sides of the chart."
+  },
+  {
+    "displaySequence": 20,
+    "displayValue": "Inline",
+    "returnValue": "AROUND",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": "The label, bar, and value are all displayed in a single line."
+  }
+]

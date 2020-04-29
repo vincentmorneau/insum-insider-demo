@@ -1,0 +1,83 @@
+[
+  {
+    "name": "PRESERVE_LABEL_SPACING",
+    "displayName": "Preserve Label Spacing",
+    "displaySequence": 1,
+    "templateTypes": "FIELD",
+    "helpText": "Preserves the label space and enables use of the Label Column Span property.",
+    "nullText": "Yes",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "SIZE",
+    "displayName": "Size",
+    "displaySequence": 10,
+    "templateTypes": "FIELD",
+    "helpText": null,
+    "nullText": "Default",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "ITEM_PRE_TEXT",
+    "displayName": "Item Pre Text",
+    "displaySequence": 20,
+    "templateTypes": "FIELD",
+    "helpText": "Adjust the display of the Item Pre Text",
+    "nullText": "Default",
+    "isAdvanced": "Y"
+  },
+  {
+    "name": "ITEM_POST_TEXT",
+    "displayName": "Item Post Text",
+    "displaySequence": 30,
+    "templateTypes": "FIELD",
+    "helpText": "Adjust the display of the Item Post Text",
+    "nullText": "Default",
+    "isAdvanced": "Y"
+  },
+  {
+    "name": "TOP_MARGIN",
+    "displayName": "Top Margin",
+    "displaySequence": 200,
+    "templateTypes": "FIELD",
+    "helpText": "Set the top margin for this field.",
+    "nullText": "Default",
+    "isAdvanced": "Y"
+  },
+  {
+    "name": "BOTTOM_MARGIN",
+    "displayName": "Bottom Margin",
+    "displaySequence": 220,
+    "templateTypes": "FIELD",
+    "helpText": "Set the bottom margin for this field.",
+    "nullText": "Default",
+    "isAdvanced": "Y"
+  },
+  {
+    "name": "LEFT_MARGIN",
+    "displayName": "Left Margin",
+    "displaySequence": 220,
+    "templateTypes": "FIELD",
+    "helpText": "Set the left margin for this field.",
+    "nullText": "Default",
+    "isAdvanced": "Y"
+  },
+  {
+    "name": "RIGHT_MARGIN",
+    "displayName": "Right Margin",
+    "displaySequence": 230,
+    "templateTypes": "FIELD",
+    "helpText": "Set the right margin for this field.",
+    "nullText": "Default",
+    "isAdvanced": "Y"
+  },
+  {
+    "name": "RADIO_GROUP_DISPLAY",
+    "displayName": "Item Group Display",
+    "displaySequence": 300,
+    "templateTypes": "FIELD",
+    "helpText": "Determines the display style for radio and check box items.",
+    "nullText": "Default",
+    "isAdvanced": "Y"
+  }
+]

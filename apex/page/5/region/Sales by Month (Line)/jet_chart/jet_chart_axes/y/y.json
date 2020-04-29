@@ -1,0 +1,39 @@
+{
+  "identification": {
+    "name": "y",
+    "title": "Sales",
+    "jetShowAxis": "on"
+  },
+  "value": {
+    "axisMin": null,
+    "axisMax": null,
+    "valueFormatType": "Currency",
+    "valueDecimalPlaces": 0,
+    "valueCurrency": "USD",
+    "valueNumericPattern": null,
+    "valueFormatScaling": "None",
+    "valueBaselineScaling": "Zero",
+    "axisScaling": "Linear",
+    "axisStep": 200
+  },
+  "appearance": {
+    "axisPosition": "Automatic"
+  },
+  "majorTicks": {
+    "majorTickRendered": "Yes",
+    "minStep": null
+  },
+  "minorTicks": {
+    "minorTickRendered": "on",
+    "minorStep": null
+  },
+  "tickLabel": {
+    "tickLabelRendered": "on"
+  },
+  "dualYAxes": {
+    "splitterPosition": null
+  },
+  "advanced": {
+    "staticId": null
+  }
+}

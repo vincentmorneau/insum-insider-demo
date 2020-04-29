@@ -1,0 +1,26 @@
+{
+  "identification": {
+    "name": "Set Focus"
+  },
+  "executionOptions": {
+    "executionSequence": 10
+  },
+  "when": {
+    "event": "ready"
+  },
+  "clientSideCondition": {
+    "jsCondition": "JavaScript expression"
+  },
+  "advanced": {
+    "eventScope": "Static"
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

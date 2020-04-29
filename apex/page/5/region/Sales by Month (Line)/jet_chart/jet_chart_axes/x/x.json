@@ -1,0 +1,36 @@
+{
+  "identification": {
+    "name": "x",
+    "title": "Date",
+    "jetShowAxis": "on"
+  },
+  "value": {
+    "axisMin": null,
+    "axisMax": null,
+    "valueFormatType": "Date - Medium",
+    "valueNumericPattern": "dd MMM yyyy",
+    "valueFormatScaling": "None",
+    "valueBaselineScaling": "Zero",
+    "axisScaling": "Linear",
+    "axisStep": null
+  },
+  "majorTicks": {
+    "majorTickRendered": "Yes",
+    "minStep": null
+  },
+  "minorTicks": {
+    "minorTickRendered": "off",
+    "minorStep": null
+  },
+  "tickLabel": {
+    "tickLabelRendered": "on",
+    "tickLabelRotation": "auto",
+    "tickLabelPosition": "Outside"
+  },
+  "dualYAxes": {
+    "splitterPosition": null
+  },
+  "advanced": {
+    "staticId": null
+  }
+}

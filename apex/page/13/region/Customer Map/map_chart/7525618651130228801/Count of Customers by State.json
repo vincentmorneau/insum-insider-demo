@@ -1,0 +1,87 @@
+{
+  "map": {
+    "mapLevel1": "United States of America",
+    "mapCenterAfrica": null,
+    "mapRegionColumn1Africa": "REGION_ID",
+    "mapCenterAsia": null,
+    "mapRegionColumn1Asia": "REGION_ID",
+    "mapCenterCustom": null,
+    "mapRegionColumn1Custom": "REGION_ID",
+    "mapCenterEurope": null,
+    "mapRegionColumn1Europe": "REGION_ID",
+    "mapCenterNorthAmerica": null,
+    "mapRegionColumn1NorthAmerica": "REGION_ID",
+    "mapCenterOceania": null,
+    "mapRegionColumn2Oceania": "REGION_ID",
+    "mapCenterSouthAmerica": null,
+    "mapRegionColumn1SouthAmerica": "REGION_ID",
+    "mapLevel2Usa": "Country Maps",
+    "mapLevel3UsaCountry": "States",
+    "mapCenterUsaCountry": null,
+    "mapRegionColumn2UsaCountry": "REGION_ID",
+    "mapCenterWorld": null,
+    "mapRegionColumn1World": "REGION_ID"
+  },
+  "title": {
+    "chartTitle": "Count of Customers by State",
+    "chartTitleFontFace": "Tahoma",
+    "chartTitleFontSize": "14",
+    "chartTitleFontColor": "#000000"
+  },
+  "appearance": {
+    "mapGridType": "Longitude",
+    "mapProjection": "Orthographic",
+    "chartAnimation": "None",
+    "marker": "None"
+  },
+  "controls": {
+    "zoomPanel": "Y",
+    "navigationPanel": "Y"
+  },
+  "layout": {
+    "chartWidth": 700,
+    "chartHeight": 500
+  },
+  "margin": {
+    "chartMarginTop": null,
+    "chartMarginBottom": null,
+    "chartMarginLeft": null,
+    "chartMarginRight": null
+  },
+  "backgroundColor": {
+    "backgroundColorType": "Transparent"
+  },
+  "definedMapRegionColor": {
+    "definedMapColorScheme": "Look 7"
+  },
+  "undefinedMapRegionColor": {
+    "undefinedMapSetColors": "Y",
+    "undefinedMapColorScheme": "Look 1"
+  },
+  "mapGridRegionColor": {
+    "gridBackgroundColorType": "Solid Color",
+    "gridBackgroundColor": "#FFFFFF"
+  },
+  "value": {
+    "showValue": "Y",
+    "valueDisplayMode": "Region Bounds",
+    "valuesFontFace": "Arial",
+    "valuesFontSize": "10",
+    "valuesFontColor": "#000000"
+  },
+  "tooltip": {
+    "showTooltip": "Y",
+    "tooltipFontFace": "Tahoma",
+    "tooltipFontSize": "10",
+    "tooltipFontColor": "#000000"
+  },
+  "legend": {
+    "showLegend": "None"
+  },
+  "automaticRefresh": {
+    "automaticRefresh": "N"
+  },
+  "customXml": {
+    "useCustomXml": "N"
+  }
+}

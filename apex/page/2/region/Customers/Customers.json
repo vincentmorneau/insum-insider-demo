@@ -1,0 +1,55 @@
+{
+  "identification": {
+    "title": "Customers",
+    "regionType": "Interactive Grid"
+  },
+  "source": {
+    "sourcePageItemsToSubmit": null
+  },
+  "layout": {
+    "regionPosition": "BODY",
+    "startNewRow": "Y",
+    "column": null,
+    "columnSpan": null,
+    "columnCssClasses": null,
+    "columnAttributes": null
+  },
+  "appearance": {
+    "regionTemplate": "Interactive Report",
+    "templateOptions": "#DEFAULT#",
+    "appearanceCssClasses": null,
+    "iconCssClasses": null,
+    "itemDisplayPosition": "Above Content"
+  },
+  "masterDetail": {
+    "masterRegion": null
+  },
+  "advanced": {
+    "staticId": "customer_ir",
+    "customAttributes": null,
+    "regionImage": null,
+    "imageTagAttributes": null,
+    "regionDisplaySelector": "N"
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "readOnly": {
+    "readOnlyConditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  },
+  "serverCache": {
+    "cacheMode": "Disabled"
+  },
+  "customization": {
+    "customizable": "Not Customizable By End Users"
+  },
+  "attributes": {
+    "oracleTextPlsqlFuncName": null
+  }
+}

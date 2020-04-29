@@ -1,0 +1,38 @@
+{
+  "identification": {
+    "name": "y",
+    "title": null,
+    "jetShowAxis": "on"
+  },
+  "value": {
+    "axisMin": null,
+    "axisMax": null,
+    "valueFormatType": "Decimal",
+    "valueDecimalPlaces": 0,
+    "valueNumericPattern": null,
+    "valueFormatScaling": "Automatic",
+    "valueBaselineScaling": "Zero",
+    "axisScaling": "Linear",
+    "axisStep": null
+  },
+  "appearance": {
+    "axisPosition": "Automatic"
+  },
+  "majorTicks": {
+    "majorTickRendered": "Automatic",
+    "minStep": null
+  },
+  "minorTicks": {
+    "minorTickRendered": "auto",
+    "minorStep": null
+  },
+  "tickLabel": {
+    "tickLabelRendered": "on"
+  },
+  "dualYAxes": {
+    "splitterPosition": null
+  },
+  "advanced": {
+    "staticId": null
+  }
+}

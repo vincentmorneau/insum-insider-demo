@@ -1,0 +1,79 @@
+[
+  {
+    "link": {
+      "irLinkColumn": "Exclude Link Column"
+    },
+    "appearance": {
+      "showNullValuesAs": "-"
+    },
+    "pagination": {
+      "irPaginationType": "Row Ranges X to Y of Z",
+      "paginationDisplayPosition": "Bottom - Right"
+    },
+    "messages": {
+      "whenNoDataFoundMessage": "No data found.",
+      "whenMoreDataFoundMessage": "The maximum row count for this report is #MAX_ROW_COUNT# rows. Please apply a filter to reduce the number of records in your query."
+    },
+    "searchBar": {
+      "includeSearchBar": "Y",
+      "showSearchTextbox": "Y",
+      "showFinderDropDown": "Y",
+      "showReportsSelectList": "TABS",
+      "showDisplayRowCount": "Y",
+      "searchButtonLabel": null,
+      "maximumRowsPerPage": null
+    },
+    "actionsMenu": {
+      "showActionsMenu": "Y",
+      "showFilter": "Y",
+      "showSelectColumns": "Y",
+      "showRowsPerPage": "N",
+      "showSort": "Y",
+      "showControlBreak": "Y",
+      "showHighlight": "Y",
+      "showComputation": "Y",
+      "showAggregate": "Y",
+      "showChart": "Y",
+      "showGroupBy": "Y",
+      "showPivot": "Y",
+      "showFlashback": "Y",
+      "allowUsersToSaveReports": "Y",
+      "allowUsersToSavePublicReport": "Y",
+      "savePublicReport": null,
+      "showReset": "Y",
+      "showHelp": "Y",
+      "showNotify": "Y",
+      "showDownload": "Y"
+    },
+    "download": {
+      "downloadFormats": "CSV:HTML:EMAIL",
+      "downloadFilename": null
+    },
+    "heading": {
+      "fixedHeader": "Page"
+    },
+    "iconView": {
+      "iconViewEnabled": "N",
+      "iconViewLinkColumn": null,
+      "iconViewImageSourceColumn": null,
+      "iconViewLabelColumn": null,
+      "iconViewImageAttributes": null,
+      "iconViewHtmlAltText": null,
+      "iconViewHtmlTitleText": null
+    },
+    "detailView": {
+      "detailViewEnabled": "N"
+    },
+    "advanced": {
+      "reportAlias": null,
+      "reportIdItem": null,
+      "emailFromAddress": null
+    },
+    "performance": {
+      "maximumRowCount": "1000000"
+    },
+    "attributes": {
+      "description": null
+    }
+  }
+]

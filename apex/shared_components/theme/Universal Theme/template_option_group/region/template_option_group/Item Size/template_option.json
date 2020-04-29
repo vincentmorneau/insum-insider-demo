@@ -1,0 +1,20 @@
+[
+  {
+    "group": "Item Size",
+    "name": "FORMSIZELARGE",
+    "displayName": "Large",
+    "displaySequence": 10,
+    "cssClasses": "t-Form--large",
+    "helpText": null,
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Item Size",
+    "name": "FORMSIZEXLARGE",
+    "displayName": "X Large",
+    "displaySequence": 20,
+    "cssClasses": "t-Form--xlarge",
+    "helpText": null,
+    "isAdvanced": "No"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "lovDispSequence": 1,
+    "lovDispValue": "Positive",
+    "lovReturnValue": "3",
+    "lovTemplate": "<span class=\"fa fa-smile-o fa-2x feedback-positive\" aria-hidden=\"true\" title=\"#DISPLAY_VALUE#\"></span>",
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  },
+  {
+    "lovDispSequence": 2,
+    "lovDispValue": "Neutral",
+    "lovReturnValue": "2",
+    "lovTemplate": "<span class=\"fa fa-emoji-neutral fa-2x feedback-neutral\" aria-hidden=\"true\" title=\"#DISPLAY_VALUE#\"></span>",
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  },
+  {
+    "lovDispSequence": 3,
+    "lovDispValue": "Negative",
+    "lovReturnValue": "1",
+    "lovTemplate": "<span class=\"fa fa-frown-o fa-2x feedback-negative\" aria-hidden=\"true\" title=\"#DISPLAY_VALUE#\"></span>",
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  }
+]

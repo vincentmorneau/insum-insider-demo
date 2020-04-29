@@ -1,0 +1,1 @@
+Can't delete customer with existing orders.

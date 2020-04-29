@@ -1,0 +1,58 @@
+{
+  "identification": {
+    "title": "Top Users",
+    "regionType": "Interactive Report"
+  },
+  "source": {
+    "sourceLocation": "Local Database",
+    "sourceQueryType": "SQL Query",
+    "sourcePageItemsToSubmit": "P10011_TIMEFRAME",
+    "optimizerHint": null
+  },
+  "layout": {
+    "regionPosition": "BODY",
+    "startNewRow": "Y",
+    "column": null,
+    "columnSpan": null,
+    "columnCssClasses": null,
+    "columnAttributes": null
+  },
+  "appearance": {
+    "regionTemplate": "Interactive Report",
+    "templateOptions": "#DEFAULT#:t-IRR-region--noBorders",
+    "appearanceCssClasses": null,
+    "iconCssClasses": null,
+    "itemDisplayPosition": "Above Content"
+  },
+  "advanced": {
+    "staticId": null,
+    "customAttributes": null,
+    "regionImage": null,
+    "imageTagAttributes": null,
+    "regionDisplaySelector": "N",
+    "schemaOverrideItem": null
+  },
+  "serverSideCondition": {
+    "conditionType": "Item = Value",
+    "conditionItem1": "P10011_VIEW_AS",
+    "conditionValue2": "REPORT"
+  },
+  "readOnly": {
+    "readOnlyConditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  },
+  "serverCache": {
+    "cacheMode": "Disabled"
+  },
+  "customization": {
+    "customizable": "Not Customizable By End Users"
+  },
+  "attributes": {
+    "actionsMenuStructure": null
+  }
+}

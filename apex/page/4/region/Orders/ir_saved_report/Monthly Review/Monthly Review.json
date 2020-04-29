@@ -1,0 +1,10 @@
+{
+  "identification": {
+    "irSavedVisibility": "Alternative Default",
+    "name": "Monthly Review",
+    "irSavedReportAlias": "8290268"
+  },
+  "link": {
+    "linkExample": "f?p=&APP_ID.:4:&APP_SESSION.:IR[orders_ir]_8290268"
+  }
+}

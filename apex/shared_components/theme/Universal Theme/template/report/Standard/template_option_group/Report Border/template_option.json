@@ -1,0 +1,38 @@
+[
+  {
+    "group": "Report Border",
+    "name": "HORIZONTALBORDERS",
+    "displayName": "Horizontal Only",
+    "displaySequence": 20,
+    "cssClasses": "t-Report--horizontalBorders",
+    "helpText": null,
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Report Border",
+    "name": "VERTICALBORDERS",
+    "displayName": "Vertical Only",
+    "displaySequence": 20,
+    "cssClasses": "t-Report--verticalBorders",
+    "helpText": null,
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Report Border",
+    "name": "REMOVEALLBORDERS",
+    "displayName": "No Borders",
+    "displaySequence": 30,
+    "cssClasses": "t-Report--noBorders",
+    "helpText": null,
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Report Border",
+    "name": "REMOVEOUTERBORDERS",
+    "displayName": "No Outer Borders",
+    "displaySequence": 40,
+    "cssClasses": "t-Report--inline",
+    "helpText": null,
+    "isAdvanced": "No"
+  }
+]

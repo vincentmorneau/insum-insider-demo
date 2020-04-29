@@ -1,0 +1,449 @@
+[
+  {
+    "identification": {
+      "columnName": "APEX$ROW_SELECTOR",
+      "itemType": "NATIVE_ROW_SELECTOR"
+    },
+    "serverSideCondition": {
+      "conditionType": null
+    },
+    "security": {
+      "authorizationScheme": null
+    },
+    "configuration": {
+      "buildOption": null
+    },
+    "comments": {
+      "comments": null
+    },
+    "attributes": {
+      "enableMultiSelect": "Y",
+      "showSelectAll": "Y",
+      "hideControl": "N"
+    }
+  },
+  {
+    "identification": {
+      "columnName": "APEX$ROW_ACTION",
+      "itemType": "NATIVE_ROW_ACTION"
+    },
+    "advanced": {
+      "staticId": null,
+      "javascriptCode": null
+    },
+    "serverSideCondition": {
+      "conditionType": null
+    },
+    "security": {
+      "authorizationScheme": null
+    },
+    "configuration": {
+      "buildOption": null
+    },
+    "comments": {
+      "comments": null
+    }
+  },
+  {
+    "identification": {
+      "columnName": "ORDER_ITEM_ID",
+      "itemType": "NATIVE_HIDDEN"
+    },
+    "source": {
+      "igColSourceType": "Database Column",
+      "sourceDbColumn": "ORDER_ITEM_ID",
+      "dataType": "NUMBER",
+      "isQueryOnly": "N",
+      "isPrimaryKey": "Y"
+    },
+    "masterDetail": {
+      "masterColumn": null
+    },
+    "default": {
+      "defaultType": null,
+      "duplicateValue": "N"
+    },
+    "exportPrinting": {
+      "includeInExportPrint": "N"
+    },
+    "advanced": {
+      "staticId": null,
+      "useAsRowHeader": "N",
+      "javascriptCode": null
+    },
+    "serverSideCondition": {
+      "conditionType": null
+    },
+    "security": {
+      "authorizationScheme": null
+    },
+    "configuration": {
+      "buildOption": null
+    },
+    "comments": {
+      "comments": null
+    },
+    "attributes": {
+      "valueProtected": "Y"
+    }
+  },
+  {
+    "identification": {
+      "columnName": "ORDER_ID",
+      "itemType": "NATIVE_HIDDEN"
+    },
+    "source": {
+      "igColSourceType": "Database Column",
+      "sourceDbColumn": "ORDER_ID",
+      "dataType": "NUMBER",
+      "isQueryOnly": "N",
+      "isPrimaryKey": "N"
+    },
+    "masterDetail": {
+      "masterColumn": null
+    },
+    "default": {
+      "defaultType": "Item",
+      "defaultValueItem": "P29_ORDER_ID",
+      "duplicateValue": "Y"
+    },
+    "exportPrinting": {
+      "includeInExportPrint": "N"
+    },
+    "advanced": {
+      "staticId": null,
+      "useAsRowHeader": "N",
+      "javascriptCode": null
+    },
+    "serverSideCondition": {
+      "conditionType": null
+    },
+    "security": {
+      "authorizationScheme": null
+    },
+    "configuration": {
+      "buildOption": null
+    },
+    "comments": {
+      "comments": null
+    },
+    "attributes": {
+      "valueProtected": "N"
+    }
+  },
+  {
+    "identification": {
+      "columnName": "PRODUCT_ID",
+      "itemType": "NATIVE_SELECT_LIST"
+    },
+    "heading": {
+      "columnHeading": "Product",
+      "headingAlignment": "start",
+      "alternativeLabel": null
+    },
+    "layout": {
+      "columnAlignment": "start",
+      "igColGroup": null,
+      "stretchColumn": null
+    },
+    "appearance": {
+      "appearanceCssClasses": null,
+      "iconCssClasses": null,
+      "elementHeight": null
+    },
+    "validation": {
+      "valueRequired": "Y"
+    },
+    "listOfValues": {
+      "lovType": "Shared Component",
+      "namedLov": "PRODUCTS WITH PRICE",
+      "displayExtraValues": "N",
+      "displayNullValue": "Y",
+      "nullDisplayValue": "- Select Product -",
+      "nullReturnValue": null,
+      "cascadingLovParentColumns": null
+    },
+    "link": {
+      "linkTarget": null
+    },
+    "source": {
+      "igColSourceType": "Database Column",
+      "sourceDbColumn": "PRODUCT_ID",
+      "dataType": "NUMBER",
+      "isQueryOnly": "N",
+      "isPrimaryKey": "N"
+    },
+    "masterDetail": {
+      "masterColumn": null
+    },
+    "default": {
+      "defaultType": null,
+      "duplicateValue": "Y"
+    },
+    "columnFilter": {
+      "enableFilter": "Y",
+      "filterOperators": null,
+      "filterTextCase": null,
+      "filterLovType": "Distinct Column",
+      "filterExactMatch": null
+    },
+    "exportPrinting": {
+      "includeInExportPrint": "N"
+    },
+    "enableUserTo": {
+      "enableSortGroup": "Y"
+    },
+    "advanced": {
+      "staticId": null,
+      "advancedCssClasses": null,
+      "customAttributes": null,
+      "useAsRowHeader": "N",
+      "javascriptCode": null
+    },
+    "serverSideCondition": {
+      "conditionType": null
+    },
+    "readOnly": {
+      "readOnlyConditionType": null
+    },
+    "security": {
+      "authorizationScheme": null
+    },
+    "configuration": {
+      "buildOption": null
+    },
+    "help": {
+      "helpText": null
+    },
+    "comments": {
+      "comments": null
+    },
+    "attributes": {
+      "pageActionOnSelection": "NONE",
+      "allowMultiSelection": "N",
+      "executeValidations": null
+    }
+  },
+  {
+    "identification": {
+      "columnName": "UNIT_PRICE",
+      "itemType": "NATIVE_NUMBER_FIELD"
+    },
+    "heading": {
+      "columnHeading": "Unit price",
+      "headingAlignment": "end",
+      "alternativeLabel": null
+    },
+    "layout": {
+      "columnAlignment": "end",
+      "igColGroup": null,
+      "stretchColumn": null
+    },
+    "appearance": {
+      "appearanceCssClasses": null,
+      "iconCssClasses": null,
+      "formatMaskNumber": null,
+      "elementWidth": null,
+      "elementValuePlaceholder": null
+    },
+    "validation": {
+      "valueRequired": "Y",
+      "elementMaxCharacters": null
+    },
+    "link": {
+      "linkTarget": null
+    },
+    "source": {
+      "igColSourceType": "Database Column",
+      "sourceDbColumn": "UNIT_PRICE",
+      "dataType": "NUMBER",
+      "isQueryOnly": "N",
+      "isPrimaryKey": "N"
+    },
+    "masterDetail": {
+      "masterColumn": null
+    },
+    "default": {
+      "defaultType": null,
+      "duplicateValue": "Y"
+    },
+    "exportPrinting": {
+      "includeInExportPrint": "Y"
+    },
+    "advanced": {
+      "staticId": null,
+      "advancedCssClasses": null,
+      "customAttributes": null,
+      "useAsRowHeader": "N",
+      "javascriptCode": null
+    },
+    "serverSideCondition": {
+      "conditionType": null
+    },
+    "readOnly": {
+      "readOnlyConditionType": null
+    },
+    "security": {
+      "authorizationScheme": null
+    },
+    "configuration": {
+      "buildOption": null
+    },
+    "help": {
+      "helpText": null
+    },
+    "comments": {
+      "comments": null
+    },
+    "attributes": {
+      "minimumValue": null,
+      "maximumValue": null,
+      "numberAlignment": "right"
+    }
+  },
+  {
+    "identification": {
+      "columnName": "QUANTITY",
+      "itemType": "NATIVE_NUMBER_FIELD"
+    },
+    "heading": {
+      "columnHeading": "Quantity",
+      "headingAlignment": "end",
+      "alternativeLabel": null
+    },
+    "layout": {
+      "columnAlignment": "end",
+      "igColGroup": null,
+      "stretchColumn": null
+    },
+    "appearance": {
+      "appearanceCssClasses": null,
+      "iconCssClasses": null,
+      "formatMaskNumber": null,
+      "elementWidth": null,
+      "elementValuePlaceholder": null
+    },
+    "validation": {
+      "valueRequired": "Y",
+      "elementMaxCharacters": null
+    },
+    "link": {
+      "linkTarget": null
+    },
+    "source": {
+      "igColSourceType": "Database Column",
+      "sourceDbColumn": "QUANTITY",
+      "dataType": "NUMBER",
+      "isQueryOnly": "N",
+      "isPrimaryKey": "N"
+    },
+    "masterDetail": {
+      "masterColumn": null
+    },
+    "default": {
+      "defaultType": null,
+      "duplicateValue": "Y"
+    },
+    "exportPrinting": {
+      "includeInExportPrint": "Y"
+    },
+    "advanced": {
+      "staticId": null,
+      "advancedCssClasses": null,
+      "customAttributes": null,
+      "useAsRowHeader": "N",
+      "javascriptCode": null
+    },
+    "serverSideCondition": {
+      "conditionType": null
+    },
+    "readOnly": {
+      "readOnlyConditionType": null
+    },
+    "security": {
+      "authorizationScheme": null
+    },
+    "configuration": {
+      "buildOption": null
+    },
+    "help": {
+      "helpText": null
+    },
+    "comments": {
+      "comments": null
+    },
+    "attributes": {
+      "minimumValue": "1",
+      "maximumValue": "10",
+      "numberAlignment": "right"
+    }
+  },
+  {
+    "identification": {
+      "columnName": "EXTENDED_PRICE",
+      "itemType": "NATIVE_DISPLAY_ONLY"
+    },
+    "heading": {
+      "columnHeading": "Extended price",
+      "headingAlignment": "end",
+      "alternativeLabel": null
+    },
+    "layout": {
+      "columnAlignment": "end",
+      "igColGroup": null,
+      "stretchColumn": null
+    },
+    "appearance": {
+      "appearanceCssClasses": null,
+      "iconCssClasses": null
+    },
+    "listOfValues": {
+      "lovType": null
+    },
+    "link": {
+      "linkTarget": null
+    },
+    "source": {
+      "igColSourceType": "Database Column",
+      "sourceDbColumn": "EXTENDED_PRICE",
+      "dataType": "NUMBER",
+      "isQueryOnly": "Y",
+      "isPrimaryKey": "N"
+    },
+    "masterDetail": {
+      "masterColumn": null
+    },
+    "exportPrinting": {
+      "includeInExportPrint": "Y"
+    },
+    "advanced": {
+      "staticId": null,
+      "advancedCssClasses": null,
+      "customAttributes": null,
+      "useAsRowHeader": "N",
+      "javascriptCode": null
+    },
+    "serverSideCondition": {
+      "conditionType": null
+    },
+    "security": {
+      "authorizationScheme": null,
+      "escapeSpecialCharacters": "Y"
+    },
+    "configuration": {
+      "buildOption": null
+    },
+    "help": {
+      "helpText": null
+    },
+    "comments": {
+      "comments": null
+    },
+    "attributes": {
+      "saveSessionState": "N",
+      "basedOn": "VALUE",
+      "plsqlCode": null,
+      "showLineBreaks": "Y"
+    }
+  }
+]

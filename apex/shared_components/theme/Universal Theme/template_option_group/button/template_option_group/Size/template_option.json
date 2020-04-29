@@ -1,0 +1,29 @@
+[
+  {
+    "group": "Size",
+    "name": "TINY",
+    "displayName": "Tiny",
+    "displaySequence": 10,
+    "cssClasses": "t-Button--tiny",
+    "helpText": "A very small button.",
+    "isAdvanced": null
+  },
+  {
+    "group": "Size",
+    "name": "SMALL",
+    "displayName": "Small",
+    "displaySequence": 20,
+    "cssClasses": "t-Button--small",
+    "helpText": "A small button.",
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Size",
+    "name": "LARGE",
+    "displayName": "Large",
+    "displaySequence": 30,
+    "cssClasses": "t-Button--large",
+    "helpText": "A large button.",
+    "isAdvanced": "No"
+  }
+]

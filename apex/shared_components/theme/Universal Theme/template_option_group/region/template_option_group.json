@@ -1,0 +1,272 @@
+[
+  {
+    "name": "ALERT_DISPLAY",
+    "displayName": "Alert Display",
+    "displaySequence": 1,
+    "templateTypes": "REGION",
+    "helpText": "Sets the layout of the Alert Region.",
+    "nullText": null,
+    "isAdvanced": "N"
+  },
+  {
+    "name": "BODY_OVERFLOW",
+    "displayName": "Body Overflow",
+    "displaySequence": 1,
+    "templateTypes": "REGION",
+    "helpText": "Determines the scroll behavior when the region contents are larger than their container.",
+    "nullText": null,
+    "isAdvanced": "Y"
+  },
+  {
+    "name": "BODY_PADDING",
+    "displayName": "Body Padding",
+    "displaySequence": 1,
+    "templateTypes": "REGION",
+    "helpText": "Sets the Region Body padding for the region.",
+    "nullText": "Default",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "DEFAULT_STATE",
+    "displayName": "Default State",
+    "displaySequence": 1,
+    "templateTypes": "REGION",
+    "helpText": "Sets the default state of the region.",
+    "nullText": null,
+    "isAdvanced": "N"
+  },
+  {
+    "name": "DIALOG_SIZE",
+    "displayName": "Dialog Size",
+    "displaySequence": 1,
+    "templateTypes": "REGION",
+    "helpText": null,
+    "nullText": null,
+    "isAdvanced": "N"
+  },
+  {
+    "name": "HIDE_STEPS_FOR",
+    "displayName": "Hide Steps For",
+    "displaySequence": 1,
+    "templateTypes": "REGION",
+    "helpText": null,
+    "nullText": null,
+    "isAdvanced": "N"
+  },
+  {
+    "name": "LAYOUT",
+    "displayName": "Layout",
+    "displaySequence": 1,
+    "templateTypes": "REGION",
+    "helpText": null,
+    "nullText": "Default",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "REGION_TITLE",
+    "displayName": "Region Title",
+    "displaySequence": 1,
+    "templateTypes": "REGION",
+    "helpText": "Sets the source of the Title Bar region's title.",
+    "nullText": null,
+    "isAdvanced": "N"
+  },
+  {
+    "name": "TAB_STYLE",
+    "displayName": "Tab Style",
+    "displaySequence": 1,
+    "templateTypes": "REGION",
+    "helpText": null,
+    "nullText": "Default",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "TABS_SIZE",
+    "displayName": "Tabs Size",
+    "displaySequence": 1,
+    "templateTypes": "REGION",
+    "helpText": null,
+    "nullText": "Default",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "ALERT_ICONS",
+    "displayName": "Alert Icons",
+    "displaySequence": 2,
+    "templateTypes": "REGION",
+    "helpText": "Sets how icons are handled for the Alert Region.",
+    "nullText": "Default",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "TIMER",
+    "displayName": "Timer",
+    "displaySequence": 2,
+    "templateTypes": "REGION",
+    "helpText": "Sets the timer for when to automatically navigate to the next region within the Carousel Region.",
+    "nullText": "No Timer",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "ALERT_TYPE",
+    "displayName": "Alert Type",
+    "displaySequence": 3,
+    "templateTypes": "REGION",
+    "helpText": "Sets the type of alert which can be used to determine the icon, icon color, and the background color.",
+    "nullText": null,
+    "isAdvanced": "N"
+  },
+  {
+    "name": "ANIMATION",
+    "displayName": "Animation",
+    "displaySequence": 10,
+    "templateTypes": "REGION",
+    "helpText": "Sets the animation when navigating within the Carousel Region.",
+    "nullText": "Fade",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "BODY_HEIGHT",
+    "displayName": "Body Height",
+    "displaySequence": 10,
+    "templateTypes": "REGION",
+    "helpText": "Sets the Region Body height. You can also specify a custom height by modifying the Region's CSS Classes and using the height helper classes \"i-hXXX\" where XXX is any increment of 10 from 100 to 800.",
+    "nullText": "Auto - Default",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "BODY_STYLE",
+    "displayName": "Body Style",
+    "displaySequence": 20,
+    "templateTypes": "REGION",
+    "helpText": "Controls the display of the region's body container.",
+    "nullText": "Default",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "HEADER",
+    "displayName": "Header",
+    "displaySequence": 20,
+    "templateTypes": "REGION",
+    "helpText": "Determines the display of the Region Header which also contains the Region Title.",
+    "nullText": "Visible - Default",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "ACCENT",
+    "displayName": "Accent",
+    "displaySequence": 30,
+    "templateTypes": "REGION",
+    "helpText": "Set the Region's accent. This accent corresponds to a Theme-Rollable color and sets the background of the Region's Header.",
+    "nullText": "Default",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "ALERT_TITLE",
+    "displayName": "Alert Title",
+    "displaySequence": 40,
+    "templateTypes": "REGION",
+    "helpText": "Determines how the title of the alert is displayed.",
+    "nullText": "Visible - Default",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "STYLE",
+    "displayName": "Style",
+    "displaySequence": 40,
+    "templateTypes": "REGION",
+    "helpText": "Determines how the region is styled. Use the \"Remove Borders\" template option to remove the region's borders and shadows.",
+    "nullText": "Default",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "DISPLAY_ICON",
+    "displayName": "Display Icon",
+    "displaySequence": 50,
+    "templateTypes": "REGION",
+    "helpText": "Display the Hero Region icon.",
+    "nullText": "Yes (Default)",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "ITEM_PADDING",
+    "displayName": "Item Padding",
+    "displaySequence": 100,
+    "templateTypes": "REGION",
+    "helpText": "Sets the padding around items within this region.",
+    "nullText": "Default",
+    "isAdvanced": "Y"
+  },
+  {
+    "name": "ITEM_SIZE",
+    "displayName": "Item Size",
+    "displaySequence": 110,
+    "templateTypes": "REGION",
+    "helpText": "Sets the size of the form items within this region.",
+    "nullText": "Default",
+    "isAdvanced": "Y"
+  },
+  {
+    "name": "ITEM_WIDTH",
+    "displayName": "Item Width",
+    "displaySequence": 120,
+    "templateTypes": "REGION",
+    "helpText": "Sets the width of the form items within this region.",
+    "nullText": "Default",
+    "isAdvanced": "Y"
+  },
+  {
+    "name": "LABEL_ALIGNMENT",
+    "displayName": "Label Alignment",
+    "displaySequence": 130,
+    "templateTypes": "REGION",
+    "helpText": "Set the label text alignment for items within this region.",
+    "nullText": "Right",
+    "isAdvanced": "Y"
+  },
+  {
+    "name": "LABEL_POSITION",
+    "displayName": "Label Position",
+    "displaySequence": 140,
+    "templateTypes": "REGION",
+    "helpText": "Sets the position of the label relative to the form item.",
+    "nullText": "Inline - Default",
+    "isAdvanced": "Y"
+  },
+  {
+    "name": "REGION_TOP_MARGIN",
+    "displayName": "Top Margin",
+    "displaySequence": 200,
+    "templateTypes": "REGION",
+    "helpText": "Set the top margin for this region.",
+    "nullText": "Default",
+    "isAdvanced": "Y"
+  },
+  {
+    "name": "REGION_BOTTOM_MARGIN",
+    "displayName": "Bottom Margin",
+    "displaySequence": 210,
+    "templateTypes": "REGION",
+    "helpText": "Set the bottom margin for this region.",
+    "nullText": "Default",
+    "isAdvanced": "Y"
+  },
+  {
+    "name": "REGION_LEFT_MARGIN",
+    "displayName": "Left Margin",
+    "displaySequence": 220,
+    "templateTypes": "REGION",
+    "helpText": "Set the left margin for this region.",
+    "nullText": "Default",
+    "isAdvanced": "Y"
+  },
+  {
+    "name": "REGION_RIGHT_MARGIN",
+    "displayName": "Right Margin",
+    "displaySequence": 230,
+    "templateTypes": "REGION",
+    "helpText": "Set the right margin for this region.",
+    "nullText": "Default",
+    "isAdvanced": "Y"
+  }
+]

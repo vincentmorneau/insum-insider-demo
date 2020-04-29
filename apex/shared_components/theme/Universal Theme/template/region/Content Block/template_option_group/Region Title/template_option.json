@@ -1,0 +1,29 @@
+[
+  {
+    "group": "Region Title",
+    "name": "CONTENT_TITLE_H1",
+    "displayName": "Heading Level 1",
+    "displaySequence": 10,
+    "cssClasses": "t-ContentBlock--h1",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Region Title",
+    "name": "CONTENT_TITLE_H2",
+    "displayName": "Heading Level 2",
+    "displaySequence": 20,
+    "cssClasses": "t-ContentBlock--h2",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Region Title",
+    "name": "CONTENT_TITLE_H3",
+    "displayName": "Heading Level 3",
+    "displaySequence": 30,
+    "cssClasses": "t-ContentBlock--h3",
+    "helpText": null,
+    "isAdvanced": null
+  }
+]

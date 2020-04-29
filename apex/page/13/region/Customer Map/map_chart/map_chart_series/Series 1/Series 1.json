@@ -1,0 +1,28 @@
+{
+  "identification": {
+    "name": "Series 1",
+    "mapSeriesType": "Bubble"
+  },
+  "executionOptions": {
+    "executionSequence": 10
+  },
+  "source": {
+    "mapSeriesSourceType": "SQL Query",
+    "sourcePageItemsToSubmit": null
+  },
+  "link": {
+    "seriesLinkType": "Use Value of LINK Column"
+  },
+  "performance": {
+    "maximumRowCount": 50
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

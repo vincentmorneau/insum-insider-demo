@@ -1,0 +1,28 @@
+{
+  "identification": {
+    "name": "Apex.Calendar.Drag_Drop.Process.f8950.p10",
+    "pageProcessType": "PL/SQL Code"
+  },
+  "source": {
+    "plsqlProcessLocation": "Local Database"
+  },
+  "executionOptions": {
+    "executionSequence": 10,
+    "processPoint": "Ajax Callback",
+    "processRegion": null,
+    "runProcess": "Once Per Page Visit (default)"
+  },
+  "error": {
+    "processErrorDisplayLocation": "On Error Page"
+  },
+  "serverSideCondition": {
+    "whenButtonPressed": null,
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

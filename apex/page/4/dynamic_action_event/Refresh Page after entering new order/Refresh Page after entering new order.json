@@ -1,0 +1,28 @@
+{
+  "identification": {
+    "name": "Refresh Page after entering new order"
+  },
+  "executionOptions": {
+    "executionSequence": 10
+  },
+  "when": {
+    "event": "apexafterclosedialog",
+    "whenType": "Button",
+    "whenButton": "ENTER_NEW_ORDER"
+  },
+  "clientSideCondition": {
+    "jsCondition": null
+  },
+  "advanced": {
+    "eventScope": "Static"
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

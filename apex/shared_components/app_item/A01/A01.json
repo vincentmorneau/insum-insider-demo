@@ -1,0 +1,15 @@
+{
+  "attributes": {
+    "itemName": "A01",
+    "scope": "Application"
+  },
+  "security": {
+    "sessionStateProtection": "Restricted - May not be set from browser"
+  },
+  "configuration": {
+    "buildOption": null
+  },
+  "comments": {
+    "comments": null
+  }
+}

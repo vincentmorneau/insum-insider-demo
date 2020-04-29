@@ -1,0 +1,9 @@
+{
+  "sequence": 10,
+  "shortName": "Enter New Order",
+  "link": "f?p=&APP_ID.:11:&SESSION.::&DEBUG.:::",
+  "page": 11,
+  "conditionType": null,
+  "authorizationScheme": null,
+  "buildOption": null
+}

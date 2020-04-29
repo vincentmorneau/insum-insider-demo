@@ -1,0 +1,20 @@
+{
+  "dataLoadDefinition": {
+    "name": "Load Customers",
+    "owner": "#OWNER#",
+    "tableName": "DEMO_CUSTOMERS",
+    "uniqueColumn1": "CUST_FIRST_NAME",
+    "caseSensitive1": "No",
+    "uniqueColumn2": "CUST_LAST_NAME",
+    "caseSensitive2": "No",
+    "uniqueColumn3": null,
+    "caseSensitive3": "No",
+    "skipValidation": "No"
+  },
+  "manageConcurrency": {
+    "concurrencyColumnName": null
+  },
+  "comments": {
+    "comments": null
+  }
+}

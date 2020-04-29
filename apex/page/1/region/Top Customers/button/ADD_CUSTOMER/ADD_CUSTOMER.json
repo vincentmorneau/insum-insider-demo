@@ -1,0 +1,41 @@
+{
+  "identification": {
+    "buttonName": "ADD_CUSTOMER",
+    "buttonLabel": "Add Customer"
+  },
+  "layout": {
+    "buttonPosition": "REGION_TEMPLATE_EDIT",
+    "startNewRow": null,
+    "column": null,
+    "columnSpan": null,
+    "columnCssClasses": null,
+    "columnAttributes": null
+  },
+  "appearance": {
+    "buttonTemplate": "Icon",
+    "buttonIsHot": "N",
+    "templateOptions": "#DEFAULT#:#DEFAULT#:t-Button--noUI",
+    "appearanceCssClasses": null,
+    "iconCssClasses": "fa-plus"
+  },
+  "behavior": {
+    "buttonAction": "Redirect to Page in this Application",
+    "buttonTarget": "f?p=&APP_ID.:7:&SESSION.::&DEBUG.:RP,7:P7_BRANCH:1",
+    "buttonWarnOnUnsavedChanges": "Do Not Check",
+    "buttonDatabaseAction": null
+  },
+  "advanced": {
+    "staticId": null,
+    "customAttributes": null,
+    "buttonRequestSourceType": null
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

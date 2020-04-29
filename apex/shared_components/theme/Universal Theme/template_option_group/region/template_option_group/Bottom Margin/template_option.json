@@ -1,0 +1,38 @@
+[
+  {
+    "group": "Bottom Margin",
+    "name": "RBM_NONE",
+    "displayName": "None",
+    "displaySequence": 10,
+    "cssClasses": "margin-bottom-none",
+    "helpText": "Removes the bottom margin for this region.",
+    "isAdvanced": null
+  },
+  {
+    "group": "Bottom Margin",
+    "name": "RBM_SMALL",
+    "displayName": "Small",
+    "displaySequence": 20,
+    "cssClasses": "margin-bottom-sm",
+    "helpText": "Adds a small bottom margin to the region.",
+    "isAdvanced": null
+  },
+  {
+    "group": "Bottom Margin",
+    "name": "RBM_MEDIUM",
+    "displayName": "Medium",
+    "displaySequence": 30,
+    "cssClasses": "margin-bottom-md",
+    "helpText": "Adds a medium bottom margin to the region.",
+    "isAdvanced": null
+  },
+  {
+    "group": "Bottom Margin",
+    "name": "RBM_LARGE",
+    "displayName": "Large",
+    "displaySequence": 40,
+    "cssClasses": "margin-bottom-lg",
+    "helpText": "Adds a large bottom margin to the region.",
+    "isAdvanced": null
+  }
+]

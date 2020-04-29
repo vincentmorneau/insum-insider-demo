@@ -1,0 +1,36 @@
+{
+  "identification": {
+    "buttonName": "NEXT",
+    "buttonLabel": "Next"
+  },
+  "layout": {
+    "buttonPosition": "REGION_TEMPLATE_NEXT"
+  },
+  "appearance": {
+    "buttonTemplate": "Text with Icon",
+    "buttonIsHot": "Y",
+    "templateOptions": "#DEFAULT#:t-Button--iconRight:t-Button--gapRight",
+    "appearanceCssClasses": null,
+    "iconCssClasses": "fa-chevron-right"
+  },
+  "behavior": {
+    "buttonAction": "Submit Page",
+    "buttonExecuteValidations": "Y",
+    "buttonWarnOnUnsavedChanges": "Do Not Check",
+    "buttonDatabaseAction": null
+  },
+  "advanced": {
+    "staticId": null,
+    "customAttributes": null,
+    "buttonRequestSourceType": null
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

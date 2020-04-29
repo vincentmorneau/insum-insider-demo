@@ -1,0 +1,20 @@
+[
+  {
+    "group": "Style",
+    "name": "FEATURED",
+    "displayName": "Featured",
+    "displaySequence": 10,
+    "cssClasses": "t-HeroRegion--featured",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Style",
+    "name": "STACKED_FEATURED",
+    "displayName": "Stacked Featured",
+    "displaySequence": 20,
+    "cssClasses": "t-HeroRegion--featured t-HeroRegion--centered",
+    "helpText": null,
+    "isAdvanced": null
+  }
+]

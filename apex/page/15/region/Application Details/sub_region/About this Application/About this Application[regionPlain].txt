@@ -1,0 +1,2 @@
+<h2>About This Application</h2>
+<p>This application highlights many Oracle Application Express features and functions.  The application is a simplified sales tracking applications featuring customers, products and sales sample data.  Use this application to familiarize yourself with basic Oracle Application Express functionality.</p>

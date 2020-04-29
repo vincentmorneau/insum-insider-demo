@@ -1,0 +1,238 @@
+[
+  {
+    "identification": {
+      "columnName": "APEX$ROW_SELECTOR",
+      "itemType": "NATIVE_ROW_SELECTOR"
+    },
+    "serverSideCondition": {
+      "conditionType": null
+    },
+    "security": {
+      "authorizationScheme": null
+    },
+    "configuration": {
+      "buildOption": null
+    },
+    "comments": {
+      "comments": null
+    },
+    "attributes": {
+      "enableMultiSelect": "Y",
+      "showSelectAll": "Y",
+      "hideControl": "N"
+    }
+  },
+  {
+    "identification": {
+      "columnName": "APEX$ROW_ACTION",
+      "itemType": "NATIVE_ROW_ACTION"
+    },
+    "advanced": {
+      "staticId": null,
+      "javascriptCode": null
+    },
+    "serverSideCondition": {
+      "conditionType": null
+    },
+    "security": {
+      "authorizationScheme": null
+    },
+    "configuration": {
+      "buildOption": null
+    },
+    "comments": {
+      "comments": null
+    }
+  },
+  {
+    "identification": {
+      "columnName": "ROWID",
+      "itemType": "NATIVE_HIDDEN"
+    },
+    "source": {
+      "igColSourceType": "Database Column",
+      "sourceDbColumn": "ROWID",
+      "dataType": "ROWID",
+      "isPrimaryKey": "Y"
+    },
+    "exportPrinting": {
+      "includeInExportPrint": "Y"
+    },
+    "advanced": {
+      "staticId": null,
+      "useAsRowHeader": "N",
+      "javascriptCode": null
+    },
+    "serverSideCondition": {
+      "conditionType": null
+    },
+    "security": {
+      "authorizationScheme": null
+    },
+    "configuration": {
+      "buildOption": null
+    },
+    "comments": {
+      "comments": null
+    },
+    "attributes": {
+      "valueProtected": "Y"
+    }
+  },
+  {
+    "identification": {
+      "columnName": "ST",
+      "itemType": "NATIVE_TEXT_FIELD"
+    },
+    "heading": {
+      "columnHeading": "Abbreviation",
+      "headingAlignment": "start",
+      "alternativeLabel": null
+    },
+    "layout": {
+      "columnAlignment": "start",
+      "igColGroup": null,
+      "stretchColumn": null
+    },
+    "appearance": {
+      "appearanceCssClasses": null,
+      "iconCssClasses": null,
+      "elementWidth": 14,
+      "elementValuePlaceholder": null
+    },
+    "validation": {
+      "valueRequired": "N",
+      "elementMaxCharacters": 30
+    },
+    "link": {
+      "linkTarget": null
+    },
+    "source": {
+      "igColSourceType": "Database Column",
+      "sourceDbColumn": "ST",
+      "dataType": "VARCHAR2",
+      "isQueryOnly": "N",
+      "isPrimaryKey": "N"
+    },
+    "masterDetail": {
+      "masterColumn": null
+    },
+    "default": {
+      "defaultType": null,
+      "duplicateValue": "Y"
+    },
+    "exportPrinting": {
+      "includeInExportPrint": "Y"
+    },
+    "advanced": {
+      "staticId": null,
+      "advancedCssClasses": null,
+      "customAttributes": null,
+      "useAsRowHeader": "N",
+      "javascriptCode": null
+    },
+    "serverSideCondition": {
+      "conditionType": null
+    },
+    "readOnly": {
+      "readOnlyConditionType": null
+    },
+    "security": {
+      "authorizationScheme": null
+    },
+    "configuration": {
+      "buildOption": null
+    },
+    "help": {
+      "helpText": null
+    },
+    "comments": {
+      "comments": null
+    },
+    "attributes": {
+      "submitWhenEnterPressed": "N",
+      "disabled": "N",
+      "saveSessionState": "N",
+      "subtype": "TEXT",
+      "trimSpaces": "BOTH"
+    }
+  },
+  {
+    "identification": {
+      "columnName": "STATE_NAME",
+      "itemType": "NATIVE_TEXT_FIELD"
+    },
+    "heading": {
+      "columnHeading": "State Name",
+      "headingAlignment": "start",
+      "alternativeLabel": null
+    },
+    "layout": {
+      "columnAlignment": "start",
+      "igColGroup": null,
+      "stretchColumn": null
+    },
+    "appearance": {
+      "appearanceCssClasses": null,
+      "iconCssClasses": null,
+      "elementWidth": 30,
+      "elementValuePlaceholder": null
+    },
+    "validation": {
+      "valueRequired": "N",
+      "elementMaxCharacters": 30
+    },
+    "link": {
+      "linkTarget": null
+    },
+    "source": {
+      "igColSourceType": "Database Column",
+      "sourceDbColumn": "STATE_NAME",
+      "dataType": "VARCHAR2",
+      "isQueryOnly": "N",
+      "isPrimaryKey": "N"
+    },
+    "masterDetail": {
+      "masterColumn": null
+    },
+    "default": {
+      "defaultType": null,
+      "duplicateValue": "Y"
+    },
+    "exportPrinting": {
+      "includeInExportPrint": "Y"
+    },
+    "advanced": {
+      "staticId": null,
+      "advancedCssClasses": null,
+      "customAttributes": null,
+      "useAsRowHeader": "Y",
+      "javascriptCode": null
+    },
+    "serverSideCondition": {
+      "conditionType": null
+    },
+    "readOnly": {
+      "readOnlyConditionType": null
+    },
+    "security": {
+      "authorizationScheme": null
+    },
+    "configuration": {
+      "buildOption": null
+    },
+    "help": {
+      "helpText": null
+    },
+    "comments": {
+      "comments": null
+    },
+    "attributes": {
+      "submitWhenEnterPressed": "N",
+      "disabled": "N",
+      "saveSessionState": "N",
+      "subtype": "TEXT",
+      "trimSpaces": "BOTH"
+    }
+  }
+]

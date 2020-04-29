@@ -1,0 +1,38 @@
+[
+  {
+    "group": "Style",
+    "name": "BASIC",
+    "displayName": "Basic",
+    "displaySequence": 10,
+    "cssClasses": "t-Cards--basic",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Style",
+    "name": "COMPACT",
+    "displayName": "Compact",
+    "displaySequence": 20,
+    "cssClasses": "t-Cards--compact",
+    "helpText": "Use this option when you want to show smaller cards.",
+    "isAdvanced": null
+  },
+  {
+    "group": "Style",
+    "name": "FEATURED",
+    "displayName": "Featured",
+    "displaySequence": 30,
+    "cssClasses": "t-Cards--featured force-fa-lg",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Style",
+    "name": "BLOCK",
+    "displayName": "Block",
+    "displaySequence": 40,
+    "cssClasses": "t-Cards--featured t-Cards--block force-fa-lg",
+    "helpText": null,
+    "isAdvanced": null
+  }
+]

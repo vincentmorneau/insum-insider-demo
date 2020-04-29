@@ -1,0 +1,71 @@
+{
+  "identification": {
+    "itemName": "P6_PRODUCT_IMAGE",
+    "itemType": "File Browse..."
+  },
+  "label": {
+    "label": "Product Image",
+    "labelAlignment": "Left",
+    "fieldTableCellAttributes": null
+  },
+  "layout": {
+    "elementFieldAlignment": "Left",
+    "startNewRow": "Y",
+    "column": null,
+    "columnSpan": null,
+    "labelColumnSpan": null,
+    "columnCssClasses": null,
+    "columnAttributes": null
+  },
+  "appearance": {
+    "fieldTemplate": "Optional",
+    "templateOptions": "#DEFAULT#",
+    "appearanceCssClasses": null,
+    "elementWidth": 64
+  },
+  "validation": {
+    "valueRequired": "N",
+    "elementMaxCharacters": 2000
+  },
+  "advanced": {
+    "advancedCssClasses": "fullWidth",
+    "customAttributes": null,
+    "itemWarnOnUnsavedChanges": null
+  },
+  "source": {
+    "sourceType": "Database Column",
+    "sourceDbColumn": "PRODUCT_IMAGE",
+    "sourceUsed": "Always, replacing any existing value in session state",
+    "maintainSessionState": "Per Session"
+  },
+  "default": {
+    "defaultValueType": null
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "readOnly": {
+    "readOnlyConditionType": null
+  },
+  "security": {
+    "authorizationScheme": null,
+    "sessionStateProtection": "Unrestricted",
+    "restrictedCharacters": null
+  },
+  "configuration": {
+    "buildOption": null
+  },
+  "attributes": {
+    "storageType": "DB_COLUMN",
+    "mimeTypeColumn": "MIMETYPE",
+    "filenameColumn": "FILENAME",
+    "characterSetColumn": null,
+    "blobLastUpdatedColumn": "IMAGE_LAST_UPDATE",
+    "displayDownloadLink": "Y",
+    "downloadLinkText": null,
+    "contentDisposition": "attachment",
+    "purgeFileAt": null,
+    "allowMultipleFiles": null,
+    "fileTypes": null
+  }
+}

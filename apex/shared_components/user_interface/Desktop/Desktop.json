@@ -1,0 +1,36 @@
+{
+  "identification": {
+    "userInterfaceType": "Desktop",
+    "sequence": 10
+  },
+  "attributes": {
+    "autoDetect": "Yes",
+    "default": "Yes",
+    "homeUrl": "f?p=&APP_ID.:1:&SESSION.",
+    "loginUrl": "f?p=&APP_ID.:LOGIN_DESKTOP:&SESSION.",
+    "globalPage": 0,
+    "usersCanChooseThemeStyle": "No",
+    "addBuildWithApexToFooter": "Yes"
+  },
+  "navigationMenu": {
+    "navigationMenuList": "Application Navigation",
+    "position": "Side",
+    "listTemplate": "Side Navigation Menu",
+    "templateOptions": null
+  },
+  "javascript": {
+    "contentDeliveryNetwork": null,
+    "javascriptFileUrls": null,
+    "includeDeprecatedJavascript": null,
+    "includeJqueryMigrate": "No"
+  },
+  "css": {
+    "cssFileUrls": "#IMAGE_PREFIX#pkgapp_ui/css/5.0#MIN#.css"
+  },
+  "navigationBar": {
+    "implementation": "List",
+    "navigationBarList": "Header Quick Nav",
+    "listTemplate": "Navigation Bar",
+    "templateOptions": "#DEFAULT#"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "identification": {
+    "name": "Delete Image",
+    "pageProcessType": "PL/SQL Code"
+  },
+  "source": {
+    "plsqlProcessLocation": "Local Database"
+  },
+  "executionOptions": {
+    "executionSequence": 20,
+    "processPoint": "Processing",
+    "processRegion": null,
+    "runProcess": "Once Per Page Visit (default)"
+  },
+  "error": {
+    "processErrorDisplayLocation": "On Error Page"
+  },
+  "serverSideCondition": {
+    "whenButtonPressed": "DELETE_IMAGE",
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

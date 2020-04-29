@@ -1,0 +1,18 @@
+[
+  {
+    "displaySequence": 10,
+    "displayValue": "Value",
+    "returnValue": "VALUE",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": null
+  },
+  {
+    "displaySequence": 20,
+    "displayValue": "Percentage",
+    "returnValue": "BAR_WIDTH",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": null
+  }
+]

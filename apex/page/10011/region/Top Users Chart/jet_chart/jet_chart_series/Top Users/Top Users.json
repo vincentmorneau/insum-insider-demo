@@ -1,0 +1,47 @@
+{
+  "identification": {
+    "name": "Top Users"
+  },
+  "executionOptions": {
+    "executionSequence": 10
+  },
+  "source": {
+    "chartSourceLocation": "Local Database",
+    "sourceQueryType": "SQL Query",
+    "sourcePageItemsToSubmit": "P10011_TIMEFRAME",
+    "optimizerHint": null
+  },
+  "columnMapping": {
+    "seriesNameColumnName": null,
+    "itemsLabelColumnName": "USERID",
+    "itemsShortDescColumnName": null,
+    "customColumnName": null
+  },
+  "link": {
+    "linkTargetType": null
+  },
+  "appearance": {
+    "jetSeriesColor": null
+  },
+  "label": {
+    "itemsLabelRendered": "Y",
+    "itemsLabelPosition": "Outside Slice",
+    "jetLabelDisplayAs": "Label",
+    "itemsLabelCssClasses": null
+  },
+  "performance": {
+    "maximumRowCount": null
+  },
+  "advanced": {
+    "staticId": null
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

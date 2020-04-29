@@ -1,0 +1,17 @@
+{
+  "identification": {
+    "daActionType": "Expand Tree"
+  },
+  "affectedElements": {
+    "affectedType": "Region",
+    "affectedRegion": "Product Orders"
+  },
+  "executionOptions": {
+    "executionSequence": 10,
+    "daEvent": "expand",
+    "fireWhenEventResultIs": "True",
+    "fireOnPageLoad": "Y",
+    "stopExecutionOnError": "Y",
+    "waitForResult": null
+  }
+}

@@ -1,0 +1,11 @@
+[
+  {
+    "group": "Item Width",
+    "name": "STRETCH_FORM_FIELDS",
+    "displayName": "Stretch Form Fields",
+    "displaySequence": 10,
+    "cssClasses": "t-Form--stretchInputs",
+    "helpText": null,
+    "isAdvanced": null
+  }
+]

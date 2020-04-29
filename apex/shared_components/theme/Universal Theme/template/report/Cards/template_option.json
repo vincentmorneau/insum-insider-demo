@@ -1,0 +1,20 @@
+[
+  {
+    "group": null,
+    "name": "USE_THEME_COLORS",
+    "displayName": "Apply Theme Colors",
+    "displaySequence": 10,
+    "cssClasses": "u-colors",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": null,
+    "name": "DISPLAY_SUBTITLE",
+    "displayName": "Display Subtitle",
+    "displaySequence": 20,
+    "cssClasses": "t-Cards--displaySubtitle",
+    "helpText": null,
+    "isAdvanced": null
+  }
+]

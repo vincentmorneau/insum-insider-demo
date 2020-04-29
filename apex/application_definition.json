@@ -1,0 +1,73 @@
+{
+  "name": {
+    "name": "Sample Database Application",
+    "version": "18.2",
+    "applicationGroup": "18.2 Sample Apps"
+  },
+  "properties": {
+    "allowFeedback": "Yes",
+    "compatibilityMode": "5.1 / 18.1",
+    "logging": "Yes",
+    "proxyServer": null,
+    "noProxyDomains": null,
+    "exactSubstitutions": "Yes - Perform only exact substitutions"
+  },
+  "applicationIcon": {
+    "iconFileName": null
+  },
+  "availability": {
+    "status": "Available with Developer Toolbar",
+    "unavailableApplicationText": "This application is currently unavailable at this time.",
+    "restrictToUserList": null,
+    "buildStatus": "Run and Build Application"
+  },
+  "substitutions": {
+    "substitutionString01": "APP_NAME",
+    "substitutionValue01": "Sample Database Application",
+    "substitutionString02": null,
+    "substitutionValue02": null,
+    "substitutionString03": null,
+    "substitutionValue03": null,
+    "substitutionString04": null,
+    "substitutionValue04": null,
+    "substitutionString05": null,
+    "substitutionValue05": null,
+    "substitutionString06": null,
+    "substitutionValue06": null,
+    "substitutionString07": null,
+    "substitutionValue07": null,
+    "substitutionString08": null,
+    "substitutionValue08": null,
+    "substitutionString09": null,
+    "substitutionValue09": null,
+    "substitutionString10": null,
+    "substitutionValue10": null,
+    "substitutionString11": null,
+    "substitutionValue11": null,
+    "substitutionString12": null,
+    "substitutionValue12": null,
+    "substitutionString13": null,
+    "substitutionValue13": null,
+    "substitutionString14": null,
+    "substitutionValue14": null,
+    "substitutionString15": null,
+    "substitutionValue15": null,
+    "substitutionString16": null,
+    "substitutionValue16": null,
+    "substitutionString17": null,
+    "substitutionValue17": null,
+    "substitutionString18": null,
+    "substitutionValue18": null,
+    "substitutionString19": null,
+    "substitutionValue19": null,
+    "substitutionString20": null,
+    "substitutionValue20": null
+  },
+  "errorHandling": {
+    "errorHandlingFunction": "sample_pkg.demo_error_handling",
+    "defaultErrorDisplayLocation": "Inline with Field and in Notification"
+  },
+  "globalNotification": {
+    "globalNotification": null
+  }
+}

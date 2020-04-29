@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Content Body",
+    "templateSubstitution": "BODY",
+    "gridSupport": "Yes",
+    "newRow": "Yes",
+    "maximumFixedGridColumns": 12
+  },
+  {
+    "name": "Dialog Footer",
+    "templateSubstitution": "REGION_POSITION_03",
+    "gridSupport": "No",
+    "newRow": "Yes",
+    "maximumFixedGridColumns": null
+  },
+  {
+    "name": "Dialog Header",
+    "templateSubstitution": "REGION_POSITION_01",
+    "gridSupport": "No",
+    "newRow": "Yes",
+    "maximumFixedGridColumns": null
+  }
+]

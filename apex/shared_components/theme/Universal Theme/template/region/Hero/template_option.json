@@ -1,0 +1,11 @@
+[
+  {
+    "group": null,
+    "name": "REMOVE_BODY_PADDING",
+    "displayName": "Remove Body Padding",
+    "displaySequence": 10,
+    "cssClasses": "t-HeroRegion--noPadding",
+    "helpText": "Removes the padding around the hero region.",
+    "isAdvanced": null
+  }
+]

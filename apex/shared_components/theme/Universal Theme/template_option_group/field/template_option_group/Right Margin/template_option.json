@@ -1,0 +1,38 @@
+[
+  {
+    "group": "Right Margin",
+    "name": "FRM_NONE",
+    "displayName": "None",
+    "displaySequence": 10,
+    "cssClasses": "margin-right-none",
+    "helpText": "Removes the right margin for this field.",
+    "isAdvanced": null
+  },
+  {
+    "group": "Right Margin",
+    "name": "FRM_SMALL",
+    "displayName": "Small",
+    "displaySequence": 20,
+    "cssClasses": "margin-right-sm",
+    "helpText": "Adds a small right margin for this field.",
+    "isAdvanced": null
+  },
+  {
+    "group": "Right Margin",
+    "name": "FRM_MEDIUM",
+    "displayName": "Medium",
+    "displaySequence": 30,
+    "cssClasses": "margin-right-md",
+    "helpText": "Adds a medium right margin for this field.",
+    "isAdvanced": null
+  },
+  {
+    "group": "Right Margin",
+    "name": "FRM_LARGE",
+    "displayName": "Large",
+    "displaySequence": 40,
+    "cssClasses": "margin-right-lg",
+    "helpText": "Adds a large right margin for this field.",
+    "isAdvanced": null
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "group": null,
+    "name": "REMEMBER_ACTIVE_TAB",
+    "displayName": "Remember Active Tab",
+    "displaySequence": 10,
+    "cssClasses": "js-useLocalStorage",
+    "helpText": null,
+    "isAdvanced": null
+  }
+]

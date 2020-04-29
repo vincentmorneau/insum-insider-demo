@@ -1,0 +1,20 @@
+[
+  {
+    "group": "Animation",
+    "name": "CARDS_COLOR_FILL",
+    "displayName": "Color Fill",
+    "displaySequence": 10,
+    "cssClasses": "t-Cards--animColorFill",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Animation",
+    "name": "CARD_RAISE_CARD",
+    "displayName": "Raise Card",
+    "displaySequence": 20,
+    "cssClasses": "t-Cards--animRaiseCard",
+    "helpText": null,
+    "isAdvanced": null
+  }
+]

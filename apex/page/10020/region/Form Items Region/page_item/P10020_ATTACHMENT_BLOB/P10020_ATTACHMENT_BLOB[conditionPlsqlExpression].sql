@@ -1,0 +1,1 @@
+nvl(apex_app_setting.get_value( p_name => 'FEEDBACK_ATTACHMENTS_YN' ),'N') = 'Y'

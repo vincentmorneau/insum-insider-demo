@@ -1,0 +1,28 @@
+{
+  "identification": {
+    "name": "expand"
+  },
+  "executionOptions": {
+    "executionSequence": 30
+  },
+  "when": {
+    "event": "click",
+    "whenType": "Button",
+    "whenButton": "EXPAND_ALL"
+  },
+  "clientSideCondition": {
+    "jsCondition": null
+  },
+  "advanced": {
+    "eventScope": "Static"
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "attributes": {
+    "itemName": "ENABLE_FEEDBACK",
+    "scope": "Application"
+  },
+  "security": {
+    "sessionStateProtection": "Unrestricted"
+  },
+  "configuration": {
+    "buildOption": null
+  },
+  "comments": {
+    "comments": null
+  }
+}

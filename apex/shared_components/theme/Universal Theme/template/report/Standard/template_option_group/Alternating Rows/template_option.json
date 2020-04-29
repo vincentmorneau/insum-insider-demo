@@ -1,0 +1,20 @@
+[
+  {
+    "group": "Alternating Rows",
+    "name": "ALTROWCOLORSENABLE",
+    "displayName": "Enable",
+    "displaySequence": 10,
+    "cssClasses": "t-Report--altRowsDefault",
+    "helpText": null,
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Alternating Rows",
+    "name": "ALTROWCOLORSDISABLE",
+    "displayName": "Disable",
+    "displaySequence": 20,
+    "cssClasses": "t-Report--staticRowColors",
+    "helpText": null,
+    "isAdvanced": "No"
+  }
+]

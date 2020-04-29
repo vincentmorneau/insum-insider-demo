@@ -1,0 +1,38 @@
+[
+  {
+    "group": "Timer",
+    "name": "5_SECONDS",
+    "displayName": "5 Seconds",
+    "displaySequence": 10,
+    "cssClasses": "js-cycle5s",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Timer",
+    "name": "10_SECONDS",
+    "displayName": "10 Seconds",
+    "displaySequence": 20,
+    "cssClasses": "js-cycle10s",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Timer",
+    "name": "15_SECONDS",
+    "displayName": "15 Seconds",
+    "displaySequence": 30,
+    "cssClasses": "js-cycle15s",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Timer",
+    "name": "20_SECONDS",
+    "displayName": "20 Seconds",
+    "displaySequence": 40,
+    "cssClasses": "js-cycle20s",
+    "helpText": null,
+    "isAdvanced": null
+  }
+]

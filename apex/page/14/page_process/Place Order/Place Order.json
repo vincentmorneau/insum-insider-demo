@@ -1,0 +1,28 @@
+{
+  "identification": {
+    "name": "Place Order",
+    "pageProcessType": "PL/SQL Code"
+  },
+  "source": {
+    "plsqlProcessLocation": "Local Database"
+  },
+  "executionOptions": {
+    "executionSequence": 10,
+    "processPoint": "Processing",
+    "processRegion": null,
+    "runProcess": "Once Per Page Visit (default)"
+  },
+  "error": {
+    "processErrorDisplayLocation": "Inline in Notification"
+  },
+  "serverSideCondition": {
+    "whenButtonPressed": "PLACE_ORDER",
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

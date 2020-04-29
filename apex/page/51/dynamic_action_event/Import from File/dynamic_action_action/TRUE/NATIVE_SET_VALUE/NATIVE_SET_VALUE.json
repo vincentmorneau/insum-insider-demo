@@ -1,0 +1,26 @@
+{
+  "identification": {
+    "daActionType": "Set Value"
+  },
+  "affectedElements": {
+    "affectedType": "Item(s)",
+    "affectedItems": "P51_SEPARATOR"
+  },
+  "executionOptions": {
+    "executionSequence": 20,
+    "daEvent": "Import from File",
+    "fireWhenEventResultIs": "True",
+    "fireOnPageLoad": "N",
+    "stopExecutionOnError": "Y",
+    "waitForResult": "Y"
+  },
+  "attributes": {
+    "setType": "STATIC_ASSIGNMENT",
+    "value": ",",
+    "plsqlExpression": null,
+    "itemsToSubmit": null,
+    "escapeSpecialCharacters": null,
+    "suppressChangeEvent": null,
+    "returnItem": null
+  }
+}

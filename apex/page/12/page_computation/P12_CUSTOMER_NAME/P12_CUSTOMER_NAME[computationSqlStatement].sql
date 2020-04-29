@@ -1,0 +1,1 @@
+select cust_first_name || ' ' || cust_last_name from demo_customers where customer_id = :P11_CUSTOMER_ID

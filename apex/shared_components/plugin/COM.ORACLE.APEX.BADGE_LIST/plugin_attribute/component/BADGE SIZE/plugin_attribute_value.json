@@ -1,0 +1,42 @@
+[
+  {
+    "displaySequence": 0,
+    "displayValue": "Small",
+    "returnValue": "S",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": null
+  },
+  {
+    "displaySequence": 10,
+    "displayValue": "Medium",
+    "returnValue": "M",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": null
+  },
+  {
+    "displaySequence": 20,
+    "displayValue": "Large",
+    "returnValue": "L",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": null
+  },
+  {
+    "displaySequence": 30,
+    "displayValue": "Extra Large",
+    "returnValue": "B",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": null
+  },
+  {
+    "displaySequence": 40,
+    "displayValue": "Extra Extra Large",
+    "returnValue": "XXL",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": null
+  }
+]

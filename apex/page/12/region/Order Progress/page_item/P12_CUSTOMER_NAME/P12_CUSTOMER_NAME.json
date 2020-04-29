@@ -1,0 +1,32 @@
+{
+  "identification": {
+    "itemName": "P12_CUSTOMER_NAME",
+    "itemType": "Hidden"
+  },
+  "advanced": {
+    "itemWarnOnUnsavedChanges": null
+  },
+  "source": {
+    "sourceType": "Null",
+    "sourceUsed": "Always, replacing any existing value in session state",
+    "maintainSessionState": "Per Session"
+  },
+  "default": {
+    "defaultValueType": null
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null,
+    "sessionStateProtection": "Unrestricted",
+    "encryptSessionState": "N",
+    "restrictedCharacters": null
+  },
+  "configuration": {
+    "buildOption": null
+  },
+  "attributes": {
+    "valueProtected": "N"
+  }
+}

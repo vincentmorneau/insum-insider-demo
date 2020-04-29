@@ -1,0 +1,20 @@
+[
+  {
+    "group": "Style",
+    "name": "CIRCULAR",
+    "displayName": "Circular",
+    "displaySequence": 20,
+    "cssClasses": "t-BadgeList--circular",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Style",
+    "name": "GRID",
+    "displayName": "Grid",
+    "displaySequence": 30,
+    "cssClasses": "t-BadgeList--dash",
+    "helpText": null,
+    "isAdvanced": null
+  }
+]

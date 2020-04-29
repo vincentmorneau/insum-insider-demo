@@ -1,0 +1,27 @@
+{
+  "identification": {
+    "name": "Product must be selected"
+  },
+  "executionOptions": {
+    "executionSequence": 10
+  },
+  "validation": {
+    "validationRegion": null,
+    "validationType": "PL/SQL Function Body (returning Boolean)",
+    "alwaysExecute": "N"
+  },
+  "error": {
+    "errorMessageDisplayLocation": "Inline with Field and in Notification",
+    "associatedItem": "P12_PRODUCT_ID"
+  },
+  "serverSideCondition": {
+    "whenButtonPressed": "NEXT",
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

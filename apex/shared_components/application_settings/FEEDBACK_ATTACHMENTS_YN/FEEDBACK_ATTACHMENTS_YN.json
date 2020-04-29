@@ -1,0 +1,13 @@
+{
+  "attributes": {
+    "name": "FEEDBACK_ATTACHMENTS_YN",
+    "value": "Y",
+    "valueRequired": "No",
+    "validValues": "Y, N",
+    "onUpgradeKeepValue": "Yes",
+    "comments": null
+  },
+  "configuration": {
+    "buildOption": "Feature: Feedback"
+  }
+}

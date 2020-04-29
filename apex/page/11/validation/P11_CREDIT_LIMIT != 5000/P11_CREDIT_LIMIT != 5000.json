@@ -1,0 +1,29 @@
+{
+  "identification": {
+    "name": "P11_CREDIT_LIMIT <= 5000"
+  },
+  "executionOptions": {
+    "executionSequence": 200
+  },
+  "validation": {
+    "validationRegion": null,
+    "validationType": "PL/SQL Expression",
+    "alwaysExecute": "N"
+  },
+  "error": {
+    "errorMessageDisplayLocation": "Inline with Field and in Notification",
+    "associatedItem": "P11_CREDIT_LIMIT"
+  },
+  "serverSideCondition": {
+    "whenButtonPressed": null,
+    "conditionType": "Item = Value",
+    "conditionItem1": "P11_CUSTOMER_OPTIONS",
+    "conditionValue2": "NEW"
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

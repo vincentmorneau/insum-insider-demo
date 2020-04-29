@@ -1,0 +1,31 @@
+{
+  "identification": {
+    "name": "Show/Hide Advanced Settings"
+  },
+  "executionOptions": {
+    "executionSequence": 10
+  },
+  "when": {
+    "event": "change",
+    "whenType": "Item(s)",
+    "whenItems": "P51_SHOW_ADV_SETTINGS"
+  },
+  "clientSideCondition": {
+    "jsCondition": "Item = Value",
+    "jsConditionItem": "P51_SHOW_ADV_SETTINGS",
+    "jsCondValue": "Y",
+    "jsConditionElementType": null
+  },
+  "advanced": {
+    "eventScope": "Static"
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

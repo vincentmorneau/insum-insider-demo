@@ -1,0 +1,79 @@
+[
+  {
+    "lovDispSequence": 10,
+    "lovDispValue": "5",
+    "lovReturnValue": "5",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  },
+  {
+    "lovDispSequence": 20,
+    "lovDispValue": "10",
+    "lovReturnValue": "10",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  },
+  {
+    "lovDispSequence": 30,
+    "lovDispValue": "15",
+    "lovReturnValue": "15",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  },
+  {
+    "lovDispSequence": 40,
+    "lovDispValue": "20",
+    "lovReturnValue": "20",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  },
+  {
+    "lovDispSequence": 50,
+    "lovDispValue": "50",
+    "lovReturnValue": "50",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  },
+  {
+    "lovDispSequence": 60,
+    "lovDispValue": "100",
+    "lovReturnValue": "100",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  },
+  {
+    "lovDispSequence": 70,
+    "lovDispValue": "500",
+    "lovReturnValue": "500",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  }
+]

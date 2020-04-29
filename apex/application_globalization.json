@@ -1,0 +1,15 @@
+{
+  "globalization": {
+    "applicationPrimaryLanguage": "English (en)",
+    "flowLanguageDerivedFrom": "SESSION",
+    "applicationDateFormat": "DS",
+    "applicationDateTimeFormat": "DD-MON-YYYY HH:MIPM",
+    "applicationTimestampFormat": "DS",
+    "timestampTimezoneFormat": "DS",
+    "characterValueComparison": null,
+    "characterComparisonBehavior": null,
+    "documentDirection": "Left-To-Right",
+    "automaticCsvEncoding": "No",
+    "automaticTimeZone": "No"
+  }
+}

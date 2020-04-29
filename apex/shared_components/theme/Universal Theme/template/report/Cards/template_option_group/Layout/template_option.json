@@ -1,0 +1,56 @@
+[
+  {
+    "group": "Layout",
+    "name": "2_COLUMNS",
+    "displayName": "2 Columns",
+    "displaySequence": 15,
+    "cssClasses": "t-Cards--cols",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Layout",
+    "name": "3_COLUMNS",
+    "displayName": "3 Columns",
+    "displaySequence": 20,
+    "cssClasses": "t-Cards--3cols",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Layout",
+    "name": "4_COLUMNS",
+    "displayName": "4 Columns",
+    "displaySequence": 30,
+    "cssClasses": "t-Cards--4cols",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Layout",
+    "name": "5_COLUMNS",
+    "displayName": "5 Columns",
+    "displaySequence": 50,
+    "cssClasses": "t-Cards--5cols",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Layout",
+    "name": "FLOAT",
+    "displayName": "Float",
+    "displaySequence": 60,
+    "cssClasses": "t-Cards--float",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Layout",
+    "name": "SPAN_HORIZONTALLY",
+    "displayName": "Span Horizontally",
+    "displaySequence": 70,
+    "cssClasses": "t-Cards--spanHorizontally",
+    "helpText": null,
+    "isAdvanced": null
+  }
+]

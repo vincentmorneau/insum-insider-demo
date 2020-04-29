@@ -1,0 +1,35 @@
+[
+  {
+    "lovDispSequence": 1,
+    "lovDispValue": "Mens",
+    "lovReturnValue": "Mens",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  },
+  {
+    "lovDispSequence": 2,
+    "lovDispValue": "Womens",
+    "lovReturnValue": "Womens",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  },
+  {
+    "lovDispSequence": 3,
+    "lovDispValue": "Accessories",
+    "lovReturnValue": "Accessories",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  }
+]

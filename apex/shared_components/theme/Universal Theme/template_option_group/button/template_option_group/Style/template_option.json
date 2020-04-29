@@ -1,0 +1,29 @@
+[
+  {
+    "group": "Style",
+    "name": "SIMPLE",
+    "displayName": "Simple",
+    "displaySequence": 10,
+    "cssClasses": "t-Button--simple",
+    "helpText": null,
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Style",
+    "name": "NOUI",
+    "displayName": "Remove UI Decoration",
+    "displaySequence": 20,
+    "cssClasses": "t-Button--noUI",
+    "helpText": null,
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Style",
+    "name": "DISPLAY_AS_LINK",
+    "displayName": "Display as Link",
+    "displaySequence": 30,
+    "cssClasses": "t-Button--link",
+    "helpText": "This option makes the button appear as a text link.",
+    "isAdvanced": null
+  }
+]

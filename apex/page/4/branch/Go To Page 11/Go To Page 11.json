@@ -1,0 +1,23 @@
+{
+  "identification": {
+    "name": "Go To Page 11"
+  },
+  "executionOptions": {
+    "branchPoint": "After Processing"
+  },
+  "behavior": {
+    "branchType": "Page or URL (Redirect)",
+    "target": "f?p=&APP_ID.:11:&SESSION.::&DEBUG.:11:P11_BRANCH,P11_CUSTOMER_OPTIONS:4,EXISTING&success_msg=#SUCCESS_MSG#",
+    "saveStateBeforeBranch": "N"
+  },
+  "serverSideCondition": {
+    "whenButtonPressed": "ENTER_NEW_ORDER",
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

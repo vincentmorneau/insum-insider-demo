@@ -1,0 +1,64 @@
+{
+  "identification": {
+    "itemName": "P10011_VIEW_AS",
+    "itemType": "Radio Group"
+  },
+  "label": {
+    "label": "View As",
+    "labelAlignment": "Left",
+    "fieldTableCellAttributes": null
+  },
+  "layout": {
+    "elementFieldAlignment": "Left"
+  },
+  "appearance": {
+    "fieldTemplate": "Hidden",
+    "templateOptions": "#DEFAULT#:t-Form-fieldContainer--radioButtonGroup",
+    "appearanceCssClasses": null
+  },
+  "validation": {
+    "valueRequired": "N"
+  },
+  "listOfValues": {
+    "namedLov": "VIEW_AS_REPORT_CHART",
+    "displayExtraValues": "N",
+    "displayNullValue": "N",
+    "cascadingLovParentItems": null
+  },
+  "advanced": {
+    "advancedCssClasses": null,
+    "customAttributes": null,
+    "elementOptionHtmlAttributes": null,
+    "itemWarnOnUnsavedChanges": null
+  },
+  "source": {
+    "sourceType": "Static Value",
+    "sourceUsed": "Only when current value in session state is null",
+    "maintainSessionState": "Per Session"
+  },
+  "default": {
+    "defaultValueType": "Static Value"
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "readOnly": {
+    "readOnlyConditionType": null
+  },
+  "security": {
+    "authorizationScheme": null,
+    "sessionStateProtection": "Unrestricted",
+    "encryptSessionState": "N",
+    "escapeSpecialCharacters": "N",
+    "restrictedCharacters": null
+  },
+  "configuration": {
+    "buildOption": null
+  },
+  "attributes": {
+    "numberOfColumns": "2",
+    "pageActionOnSelection": "SUBMIT",
+    "executeValidations": "Y",
+    "displayOrientation": "VERTICAL"
+  }
+}

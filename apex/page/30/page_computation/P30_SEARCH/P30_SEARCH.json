@@ -1,0 +1,22 @@
+{
+  "identification": {
+    "computationItemName": "P30_SEARCH"
+  },
+  "executionOptions": {
+    "executionSequence": 10,
+    "computationPoint": "After Header"
+  },
+  "computation": {
+    "computationType": "Item",
+    "computationItemValue": "P1_SEARCH"
+  },
+  "serverSideCondition": {
+    "conditionType": "Never"
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

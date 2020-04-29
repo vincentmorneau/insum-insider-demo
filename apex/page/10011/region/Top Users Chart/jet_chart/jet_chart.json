@@ -1,0 +1,46 @@
+{
+  "chart": {
+    "jetChartType": "Donut"
+  },
+  "title": {
+    "chartTitle": null
+  },
+  "layout": {
+    "chartMaxWidth": null,
+    "chartHeight": "600"
+  },
+  "dataCursor": {
+    "jetDataCursor": "Automatic",
+    "jetDataCursorBehavior": "Automatic",
+    "jetHoverBehavior": "dim"
+  },
+  "multiSeries": {
+    "jetSortOrder": "Label - Ascending"
+  },
+  "value": {
+    "pieOtherThreshold": 0.02,
+    "valueMin": null,
+    "valueFormatType": "Decimal",
+    "valueDecimalPlaces": 0,
+    "valueNumericPattern": null,
+    "valueFormatScaling": "Automatic"
+  },
+  "settings": {
+    "pieSelectionEffect": "Highlight"
+  },
+  "animation": {
+    "animationOnDisplay": "None",
+    "animationOnDataChange": "Automatic"
+  },
+  "tooltip": {
+    "jetShowTooltip": "Yes",
+    "showSeriesName": "Y",
+    "jetShowValue": "Y"
+  },
+  "legend": {
+    "legendRendered": "off"
+  },
+  "automaticRefresh": {
+    "refreshInterval": null
+  }
+}

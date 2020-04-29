@@ -1,0 +1,20 @@
+[
+  {
+    "group": "Tabs Size",
+    "name": "TABS_SMALL",
+    "displayName": "Small",
+    "displaySequence": 10,
+    "cssClasses": "t-TabsRegion-mod--small",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Tabs Size",
+    "name": "TABSLARGE",
+    "displayName": "Large",
+    "displaySequence": 20,
+    "cssClasses": "t-TabsRegion-mod--large",
+    "helpText": null,
+    "isAdvanced": null
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "identification": {
+    "name": "Parse Uploaded Data",
+    "pageProcessType": "Parse Uploaded Data"
+  },
+  "executionOptions": {
+    "executionSequence": 10,
+    "processPoint": "Processing",
+    "runProcess": "Once Per Page Visit (default)"
+  },
+  "error": {
+    "processErrorDisplayLocation": "Inline in Notification"
+  },
+  "serverSideCondition": {
+    "whenButtonPressed": "NEXT",
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  },
+  "attributes": {
+    "dataLoadDefinition": "945832824888282344",
+    "importFromItem": "P51_IMPORT_FROM",
+    "separatorItem": "P51_SEPARATOR",
+    "enclosedByItem": "P51_ENCLOSED_BY",
+    "firstRowItem": "P51_FIRST_ROW",
+    "currencySymbolItem": "P51_CURRENCY",
+    "groupSeparatorItem": "P51_GROUP_SEPARATOR",
+    "decimalCharacterItem": "P51_DECIMAL_CHARACTER",
+    "fileNameItem": "P51_FILE_NAME",
+    "copyAndPasteItem": "P51_COPY_PASTE",
+    "characterSetItem": "P51_CHAR_SET",
+    "dateFormatItem": "P51_APP_DATE_FORMAT"
+  }
+}

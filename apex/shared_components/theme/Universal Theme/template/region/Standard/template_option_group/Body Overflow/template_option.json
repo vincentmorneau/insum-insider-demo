@@ -1,0 +1,20 @@
+[
+  {
+    "group": "Body Overflow",
+    "name": "SCROLLBODY",
+    "displayName": "Scroll - Default",
+    "displaySequence": 10,
+    "cssClasses": "t-Region--scrollBody",
+    "helpText": null,
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Body Overflow",
+    "name": "HIDEOVERFLOW",
+    "displayName": "Hide",
+    "displaySequence": 20,
+    "cssClasses": "t-Region--hiddenOverflow",
+    "helpText": null,
+    "isAdvanced": "No"
+  }
+]

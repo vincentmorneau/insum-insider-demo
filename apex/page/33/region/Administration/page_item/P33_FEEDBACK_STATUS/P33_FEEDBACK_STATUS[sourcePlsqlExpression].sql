@@ -1,0 +1,1 @@
+case when :ENABLE_FEEDBACK = 'YES' then 'Enabled' else 'Disabled' end

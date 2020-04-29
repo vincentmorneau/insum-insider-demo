@@ -1,0 +1,21 @@
+{
+  "identification": {
+    "computationItemName": "P12_CUSTOMER_NAME"
+  },
+  "executionOptions": {
+    "executionSequence": 10,
+    "computationPoint": "Before Regions"
+  },
+  "computation": {
+    "computationType": "SQL Query (return single value)"
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

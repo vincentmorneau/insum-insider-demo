@@ -1,0 +1,15 @@
+{
+  "attributes": {
+    "itemName": "LAST_VIEW",
+    "scope": "Application"
+  },
+  "security": {
+    "sessionStateProtection": "Unrestricted"
+  },
+  "configuration": {
+    "buildOption": null
+  },
+  "comments": {
+    "comments": null
+  }
+}

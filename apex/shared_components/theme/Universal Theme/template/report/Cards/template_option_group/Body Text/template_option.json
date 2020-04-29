@@ -1,0 +1,38 @@
+[
+  {
+    "group": "Body Text",
+    "name": "2_LINES",
+    "displayName": "2 Lines",
+    "displaySequence": 10,
+    "cssClasses": "t-Cards--desc-2ln",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Body Text",
+    "name": "3_LINES",
+    "displayName": "3 Lines",
+    "displaySequence": 20,
+    "cssClasses": "t-Cards--desc-3ln",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Body Text",
+    "name": "4_LINES",
+    "displayName": "4 Lines",
+    "displaySequence": 30,
+    "cssClasses": "t-Cards--desc-4ln",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Body Text",
+    "name": "HIDDEN_BODY_TEXT",
+    "displayName": "Hidden",
+    "displaySequence": 50,
+    "cssClasses": "t-Cards--hideBody",
+    "helpText": "This option hides the card body which contains description and subtext.",
+    "isAdvanced": null
+  }
+]

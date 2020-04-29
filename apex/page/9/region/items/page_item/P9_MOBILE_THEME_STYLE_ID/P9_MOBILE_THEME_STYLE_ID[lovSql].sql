@@ -1,0 +1,9 @@
+select s.name d,
+          s.theme_style_id r
+from apex_application_theme_styles s, apex_application_themes t
+where s.application_id = t.application_id
+and s.theme_number = t.theme_number
+and s.application_id = :app_id
+and t.ui_type_name   = 'JQM_SMARTPHONE'
+and t.is_current = 'Yes'
+order by 1

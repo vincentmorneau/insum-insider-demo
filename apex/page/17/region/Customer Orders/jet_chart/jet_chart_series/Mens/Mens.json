@@ -1,0 +1,48 @@
+{
+  "identification": {
+    "name": "Mens"
+  },
+  "executionOptions": {
+    "executionSequence": 20
+  },
+  "source": {
+    "chartSourceLocation": "Region Source",
+    "optimizerHint": null
+  },
+  "columnMapping": {
+    "seriesNameColumnName": null,
+    "itemsLabelColumnName": "CUSTOMER_NAME",
+    "aggregateFunc": null,
+    "itemsZColumnName": null,
+    "itemsShortDescColumnName": null,
+    "groupNameColumnName": null,
+    "groupShortDescColumnName": null,
+    "customColumnName": null
+  },
+  "link": {
+    "linkTargetType": "Redirect to Page in this Application",
+    "linkTarget": "f?p=&APP_ID.:7:&SESSION.::&DEBUG.:RP,7:P7_CUSTOMER_ID,P7_BRANCH:&CUSTOMER_ID.,17"
+  },
+  "appearance": {
+    "jetSeriesColor": null,
+    "assignedToY2": "off"
+  },
+  "label": {
+    "itemsLabelRendered": "N"
+  },
+  "performance": {
+    "maximumRowCount": null
+  },
+  "advanced": {
+    "staticId": null
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

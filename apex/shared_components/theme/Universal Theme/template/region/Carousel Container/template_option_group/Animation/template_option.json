@@ -1,0 +1,20 @@
+[
+  {
+    "group": "Animation",
+    "name": "SLIDE",
+    "displayName": "Slide",
+    "displaySequence": 10,
+    "cssClasses": "t-Region--carouselSlide",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Animation",
+    "name": "SPIN",
+    "displayName": "Spin",
+    "displaySequence": 20,
+    "cssClasses": "t-Region--carouselSpin",
+    "helpText": null,
+    "isAdvanced": null
+  }
+]

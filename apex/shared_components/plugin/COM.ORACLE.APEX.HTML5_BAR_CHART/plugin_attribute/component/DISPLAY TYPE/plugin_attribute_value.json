@@ -1,0 +1,18 @@
+[
+  {
+    "displaySequence": 10,
+    "displayValue": "Icon Chart",
+    "returnValue": "ICON",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": "Displays bars with the label and value above and add an icon on the left."
+  },
+  {
+    "displaySequence": 20,
+    "displayValue": "Text Chart",
+    "returnValue": "TEXT",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": "Displays bars with the label and value either above or inline with the bar."
+  }
+]

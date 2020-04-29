@@ -1,0 +1,156 @@
+[
+  {
+    "lovDispSequence": 10,
+    "lovDispValue": "Customer Identifier",
+    "lovReturnValue": "CUSTOMER_ID",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  },
+  {
+    "lovDispSequence": 20,
+    "lovDispValue": "First Name",
+    "lovReturnValue": "CUST_FIRST_NAME",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  },
+  {
+    "lovDispSequence": 30,
+    "lovDispValue": "Last Name",
+    "lovReturnValue": "CUST_LAST_NAME",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  },
+  {
+    "lovDispSequence": 40,
+    "lovDispValue": "Street Address",
+    "lovReturnValue": "CUST_STREET_ADDRESS1",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  },
+  {
+    "lovDispSequence": 50,
+    "lovDispValue": "Street Address Line 2",
+    "lovReturnValue": "CUST_STREET_ADDRESS2",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  },
+  {
+    "lovDispSequence": 60,
+    "lovDispValue": "City",
+    "lovReturnValue": "CUST_CITY",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  },
+  {
+    "lovDispSequence": 70,
+    "lovDispValue": "State",
+    "lovReturnValue": "CUST_STATE",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  },
+  {
+    "lovDispSequence": 80,
+    "lovDispValue": "Postal Code",
+    "lovReturnValue": "CUST_POSTAL_CODE",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  },
+  {
+    "lovDispSequence": 90,
+    "lovDispValue": "Email",
+    "lovReturnValue": "CUST_EMAIL",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  },
+  {
+    "lovDispSequence": 100,
+    "lovDispValue": "Phone Number",
+    "lovReturnValue": "PHONE_NUMBER1",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  },
+  {
+    "lovDispSequence": 110,
+    "lovDispValue": "Alternate Number",
+    "lovReturnValue": "PHONE_NUMBER2",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  },
+  {
+    "lovDispSequence": 120,
+    "lovDispValue": "URL",
+    "lovReturnValue": "URL",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  },
+  {
+    "lovDispSequence": 130,
+    "lovDispValue": "Credit Limit",
+    "lovReturnValue": "CREDIT_LIMIT",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  },
+  {
+    "lovDispSequence": 140,
+    "lovDispValue": "Tags",
+    "lovReturnValue": "TAGS",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  }
+]

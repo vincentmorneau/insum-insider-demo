@@ -1,0 +1,11 @@
+{
+  "identification": {
+    "name": "Page Zero",
+    "pageAlias": null,
+    "pageGroup": "Desktop"
+  },
+  "appearance": {
+    "userInterface": "Desktop",
+    "templateOptions": "#DEFAULT#"
+  }
+}

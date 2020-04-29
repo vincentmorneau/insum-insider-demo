@@ -1,0 +1,92 @@
+[
+  {
+    "name": "SIZE",
+    "displayName": "Size",
+    "displaySequence": 10,
+    "templateTypes": "BUTTON",
+    "helpText": "Sets the size of the button.",
+    "nullText": "Default",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "TYPE",
+    "displayName": "Type",
+    "displaySequence": 20,
+    "templateTypes": "BUTTON",
+    "helpText": null,
+    "nullText": "Normal",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "STYLE",
+    "displayName": "Style",
+    "displaySequence": 30,
+    "templateTypes": "BUTTON",
+    "helpText": "Sets the style of the button. Use the \"Simple\" option for secondary actions or sets of buttons. Use the \"Remove UI Decoration\" option to make the button appear as text.",
+    "nullText": "Default",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "BUTTON_SET",
+    "displayName": "Button Set",
+    "displaySequence": 40,
+    "templateTypes": "BUTTON",
+    "helpText": "Enables you to group many buttons together into a pill. You can use this option to specify where the button is within this set. Set the option to Default if this button is not part of a button set.",
+    "nullText": "Default",
+    "isAdvanced": "Y"
+  },
+  {
+    "name": "ICON_POSITION",
+    "displayName": "Icon Position",
+    "displaySequence": 50,
+    "templateTypes": "BUTTON",
+    "helpText": "Sets the position of the icon relative to the label.",
+    "nullText": null,
+    "isAdvanced": "N"
+  },
+  {
+    "name": "WIDTH",
+    "displayName": "Width",
+    "displaySequence": 60,
+    "templateTypes": "BUTTON",
+    "helpText": "Sets the width of the button.",
+    "nullText": "Auto - Default",
+    "isAdvanced": "Y"
+  },
+  {
+    "name": "SPACING_LEFT",
+    "displayName": "Spacing Left",
+    "displaySequence": 70,
+    "templateTypes": "BUTTON",
+    "helpText": "Controls the spacing to the left of the button.",
+    "nullText": "Default",
+    "isAdvanced": "Y"
+  },
+  {
+    "name": "SPACING_RIGHT",
+    "displayName": "Spacing Right",
+    "displaySequence": 80,
+    "templateTypes": "BUTTON",
+    "helpText": "Controls the spacing to the right of the button.",
+    "nullText": "Default",
+    "isAdvanced": "Y"
+  },
+  {
+    "name": "SPACING_TOP",
+    "displayName": "Spacing Top",
+    "displaySequence": 90,
+    "templateTypes": "BUTTON",
+    "helpText": "Controls the spacing to the top of the button.",
+    "nullText": "Default",
+    "isAdvanced": "Y"
+  },
+  {
+    "name": "SPACING_BOTTOM",
+    "displayName": "Spacing Bottom",
+    "displaySequence": 100,
+    "templateTypes": "BUTTON",
+    "helpText": "Controls the spacing to the bottom of the button.",
+    "nullText": "Default",
+    "isAdvanced": "Y"
+  }
+]

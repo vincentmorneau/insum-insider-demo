@@ -1,0 +1,119 @@
+[
+  {
+    "name": "SIZE",
+    "displayName": "Size",
+    "displaySequence": 1,
+    "templateTypes": "LIST",
+    "helpText": null,
+    "nullText": "Default",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "STYLE",
+    "displayName": "Style",
+    "displaySequence": 10,
+    "templateTypes": "LIST",
+    "helpText": null,
+    "nullText": "Default",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "ICONS",
+    "displayName": "Icons",
+    "displaySequence": 20,
+    "templateTypes": "LIST",
+    "helpText": null,
+    "nullText": "No Icons",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "DISPLAY_ICONS",
+    "displayName": "Display Icons",
+    "displaySequence": 30,
+    "templateTypes": "LIST",
+    "helpText": null,
+    "nullText": "No Icons",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "LAYOUT",
+    "displayName": "Layout",
+    "displaySequence": 30,
+    "templateTypes": "LIST",
+    "helpText": null,
+    "nullText": "Default",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "ICON_STYLE",
+    "displayName": "Icon Style",
+    "displaySequence": 35,
+    "templateTypes": "LIST",
+    "helpText": null,
+    "nullText": null,
+    "isAdvanced": "N"
+  },
+  {
+    "name": "BODY_TEXT",
+    "displayName": "Body Text",
+    "displaySequence": 40,
+    "templateTypes": "LIST",
+    "helpText": "Determines the height of the card body.",
+    "nullText": "Auto",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "COLOR_ACCENTS",
+    "displayName": "Color Accents",
+    "displaySequence": 50,
+    "templateTypes": "LIST",
+    "helpText": null,
+    "nullText": "Default",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "LABEL_DISPLAY",
+    "displayName": "Label Display",
+    "displaySequence": 50,
+    "templateTypes": "LIST",
+    "helpText": null,
+    "nullText": null,
+    "isAdvanced": "N"
+  },
+  {
+    "name": "BADGE_SIZE",
+    "displayName": "Badge Size",
+    "displaySequence": 70,
+    "templateTypes": "LIST",
+    "helpText": null,
+    "nullText": null,
+    "isAdvanced": "N"
+  },
+  {
+    "name": "ANIMATION",
+    "displayName": "Animation",
+    "displaySequence": 80,
+    "templateTypes": "LIST",
+    "helpText": "Sets the hover and focus animation.",
+    "nullText": "Default",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "DESKTOP",
+    "displayName": "Desktop",
+    "displaySequence": 90,
+    "templateTypes": "LIST",
+    "helpText": "Determines the display for a desktop-sized screen",
+    "nullText": "Default",
+    "isAdvanced": "N"
+  },
+  {
+    "name": "MOBILE",
+    "displayName": "Mobile",
+    "displaySequence": 100,
+    "templateTypes": "LIST",
+    "helpText": "Determines the display for a mobile-sized screen",
+    "nullText": "Default",
+    "isAdvanced": "N"
+  }
+]

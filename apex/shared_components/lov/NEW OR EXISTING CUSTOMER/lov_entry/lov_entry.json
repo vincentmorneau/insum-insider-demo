@@ -1,0 +1,24 @@
+[
+  {
+    "lovDispSequence": 10,
+    "lovDispValue": "Existing customer",
+    "lovReturnValue": "EXISTING",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  },
+  {
+    "lovDispSequence": 20,
+    "lovDispValue": "New customer",
+    "lovReturnValue": "NEW",
+    "lovTemplate": null,
+    "lovDispCondType": null,
+    "lovDispCond": null,
+    "lovDispCond2": null,
+    "buildOption": null,
+    "lovDataComment": null
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "identification": {
+    "title": "Search",
+    "regionType": "Static Content"
+  },
+  "appearance": {
+    "regionTemplate": "Blank with Attributes",
+    "templateOptions": "#DEFAULT#",
+    "appearanceCssClasses": "t-Form--search",
+    "iconCssClasses": null,
+    "itemDisplayPosition": "Above Content"
+  },
+  "advanced": {
+    "staticId": null,
+    "customAttributes": null,
+    "regionImage": null,
+    "imageTagAttributes": null,
+    "regionDisplaySelector": "N"
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "readOnly": {
+    "readOnlyConditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  },
+  "serverCache": {
+    "cacheMode": "Disabled"
+  },
+  "customization": {
+    "customizable": "Not Customizable By End Users"
+  },
+  "attributes": {
+    "expandShortcuts": "N",
+    "outputAs": "TEXT",
+    "showLineBreaks": "Y"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "identification": {
+    "title": "Header Quick Navigation",
+    "regionType": "List"
+  },
+  "source": {
+    "sourceList": "Header Quick Nav"
+  },
+  "layout": {
+    "regionPosition": "REGION_POSITION_06"
+  },
+  "appearance": {
+    "regionTemplate": null,
+    "itemDisplayPosition": "Above Content"
+  },
+  "advanced": {
+    "staticId": null,
+    "customAttributes": null,
+    "regionImage": null,
+    "imageTagAttributes": null
+  },
+  "serverSideCondition": {
+    "conditionType": "Never"
+  },
+  "readOnly": {
+    "readOnlyConditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  },
+  "serverCache": {
+    "cacheMode": "Disabled"
+  },
+  "customization": {
+    "customizable": "Not Customizable By End Users"
+  }
+}

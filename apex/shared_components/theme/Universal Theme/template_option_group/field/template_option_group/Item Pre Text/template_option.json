@@ -1,0 +1,11 @@
+[
+  {
+    "group": "Item Pre Text",
+    "name": "PRE_TEXT_BLOCK",
+    "displayName": "Display as Block",
+    "displaySequence": 10,
+    "cssClasses": "t-Form-fieldContainer--preTextBlock",
+    "helpText": "Displays the Item Pre Text in a block style immediately before the item.",
+    "isAdvanced": null
+  }
+]

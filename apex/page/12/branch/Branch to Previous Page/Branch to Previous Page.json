@@ -1,0 +1,23 @@
+{
+  "identification": {
+    "name": "Branch to Previous Page"
+  },
+  "executionOptions": {
+    "branchPoint": "Validating"
+  },
+  "behavior": {
+    "branchType": "Page or URL (Redirect)",
+    "target": "f?p=&APP_ID.:11:&SESSION.::&DEBUG.:::",
+    "saveStateBeforeBranch": "N"
+  },
+  "serverSideCondition": {
+    "whenButtonPressed": "PREVIOUS",
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

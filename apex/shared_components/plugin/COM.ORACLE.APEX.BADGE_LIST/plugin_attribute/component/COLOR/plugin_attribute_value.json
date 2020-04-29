@@ -1,0 +1,18 @@
+[
+  {
+    "displaySequence": 10,
+    "displayValue": "Yes",
+    "returnValue": "Y",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": null
+  },
+  {
+    "displaySequence": 20,
+    "displayValue": "No",
+    "returnValue": "N",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": null
+  }
+]

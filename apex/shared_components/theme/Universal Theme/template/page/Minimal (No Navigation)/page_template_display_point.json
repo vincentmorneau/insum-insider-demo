@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Before Navigation Bar",
+    "templateSubstitution": "REGION_POSITION_08",
+    "gridSupport": "No",
+    "newRow": "Yes",
+    "maximumFixedGridColumns": null
+  },
+  {
+    "name": "Breadcrumb Bar",
+    "templateSubstitution": "REGION_POSITION_01",
+    "gridSupport": "No",
+    "newRow": "Yes",
+    "maximumFixedGridColumns": null
+  },
+  {
+    "name": "Content Body",
+    "templateSubstitution": "BODY",
+    "gridSupport": "Yes",
+    "newRow": "Yes",
+    "maximumFixedGridColumns": 12
+  },
+  {
+    "name": "Footer",
+    "templateSubstitution": "REGION_POSITION_05",
+    "gridSupport": "Yes",
+    "newRow": "Yes",
+    "maximumFixedGridColumns": 12
+  },
+  {
+    "name": "Inline Dialogs",
+    "templateSubstitution": "REGION_POSITION_04",
+    "gridSupport": "Yes",
+    "newRow": "Yes",
+    "maximumFixedGridColumns": 12
+  },
+  {
+    "name": "Page Header",
+    "templateSubstitution": "REGION_POSITION_07",
+    "gridSupport": "No",
+    "newRow": "Yes",
+    "maximumFixedGridColumns": null
+  },
+  {
+    "name": "Page Navigation",
+    "templateSubstitution": "REGION_POSITION_06",
+    "gridSupport": "No",
+    "newRow": "Yes",
+    "maximumFixedGridColumns": null
+  }
+]

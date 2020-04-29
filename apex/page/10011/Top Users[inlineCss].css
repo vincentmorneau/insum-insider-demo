@@ -1,0 +1,8 @@
+/* Remove padding around dialog page */
+.t-Dialog-body { padding: 0; }
+.hour-graph { display: table; width: 100%; }
+span.hour { display: table-cell; padding: 0; font-size: 11px; text-align: center; background-color: #a6ffa6; min-width: 32px; }
+span.hour.is-over1k { background-color: #7bdc7b; }
+span.hour.is-null { background-color: #E0E0E0; }
+span.hour-label { opacity: 0.5; }
+span.hour-value { display: block; }

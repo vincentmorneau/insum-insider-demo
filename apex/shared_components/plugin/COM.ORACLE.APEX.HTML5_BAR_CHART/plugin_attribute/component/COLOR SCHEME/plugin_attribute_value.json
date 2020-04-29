@@ -1,0 +1,58 @@
+[
+  {
+    "displaySequence": 5,
+    "displayValue": "Default",
+    "returnValue": "DEFAULT",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": null
+  },
+  {
+    "displaySequence": 10,
+    "displayValue": "Theme Colors",
+    "returnValue": "MODERN",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": null
+  },
+  {
+    "displaySequence": 20,
+    "displayValue": "Modern 2",
+    "returnValue": "MODERN_2",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": null
+  },
+  {
+    "displaySequence": 30,
+    "displayValue": "Solar",
+    "returnValue": "SOLAR",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": null
+  },
+  {
+    "displaySequence": 40,
+    "displayValue": "Metro",
+    "returnValue": "METRO",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": null
+  },
+  {
+    "displaySequence": 50,
+    "displayValue": "Custom",
+    "returnValue": "CUSTOM",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": null
+  },
+  {
+    "displaySequence": 60,
+    "displayValue": "SQL Query Column",
+    "returnValue": "COLUMN",
+    "quickPick": "No",
+    "deprecated": "No",
+    "helpText": null
+  }
+]

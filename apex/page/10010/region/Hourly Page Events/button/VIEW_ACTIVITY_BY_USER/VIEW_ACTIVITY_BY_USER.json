@@ -1,0 +1,41 @@
+{
+  "identification": {
+    "buttonName": "VIEW_ACTIVITY_BY_USER",
+    "buttonLabel": "View Details"
+  },
+  "layout": {
+    "buttonPosition": "REGION_TEMPLATE_EDIT",
+    "startNewRow": null,
+    "column": null,
+    "columnSpan": null,
+    "columnCssClasses": null,
+    "columnAttributes": null
+  },
+  "appearance": {
+    "buttonTemplate": "Icon",
+    "buttonIsHot": "N",
+    "templateOptions": "#DEFAULT#:t-Button--noUI",
+    "appearanceCssClasses": null,
+    "iconCssClasses": "fa-angle-right"
+  },
+  "behavior": {
+    "buttonAction": "Redirect to Page in this Application",
+    "buttonTarget": "f?p=&APP_ID.:10011:&SESSION.::&DEBUG.:RP,10011::",
+    "buttonWarnOnUnsavedChanges": "Do Not Check",
+    "buttonDatabaseAction": null
+  },
+  "advanced": {
+    "staticId": null,
+    "customAttributes": null,
+    "buttonRequestSourceType": null
+  },
+  "serverSideCondition": {
+    "conditionType": null
+  },
+  "security": {
+    "authorizationScheme": null
+  },
+  "configuration": {
+    "buildOption": null
+  }
+}

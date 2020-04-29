@@ -1,0 +1,38 @@
+[
+  {
+    "group": "Body Height",
+    "name": "240PX",
+    "displayName": "240px",
+    "displaySequence": 10,
+    "cssClasses": "i-h240",
+    "helpText": "Sets region body height to 240px.",
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Body Height",
+    "name": "320PX",
+    "displayName": "320px",
+    "displaySequence": 20,
+    "cssClasses": "i-h320",
+    "helpText": "Sets region body height to 320px.",
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Body Height",
+    "name": "480PX",
+    "displayName": "480px",
+    "displaySequence": 30,
+    "cssClasses": "i-h480",
+    "helpText": "Sets body height to 480px.",
+    "isAdvanced": null
+  },
+  {
+    "group": "Body Height",
+    "name": "640PX",
+    "displayName": "640px",
+    "displaySequence": 40,
+    "cssClasses": "i-h640",
+    "helpText": "Sets body height to 640px.",
+    "isAdvanced": null
+  }
+]

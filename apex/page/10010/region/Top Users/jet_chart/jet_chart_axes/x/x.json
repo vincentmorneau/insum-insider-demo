@@ -1,0 +1,35 @@
+{
+  "identification": {
+    "name": "x",
+    "title": null,
+    "jetShowAxis": "on"
+  },
+  "value": {
+    "axisMin": null,
+    "axisMax": null,
+    "valueFormatType": null,
+    "valueFormatScaling": null,
+    "valueBaselineScaling": "Zero",
+    "axisScaling": null,
+    "axisStep": null
+  },
+  "majorTicks": {
+    "majorTickRendered": "Automatic",
+    "minStep": null
+  },
+  "minorTicks": {
+    "minorTickRendered": "auto",
+    "minorStep": null
+  },
+  "tickLabel": {
+    "tickLabelRendered": "on",
+    "tickLabelRotation": null,
+    "tickLabelPosition": null
+  },
+  "dualYAxes": {
+    "splitterPosition": null
+  },
+  "advanced": {
+    "staticId": null
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "group": "Row Highlighting",
+    "name": "ENABLE",
+    "displayName": "Enable",
+    "displaySequence": 10,
+    "cssClasses": "t-Report--rowHighlight",
+    "helpText": "Enable row highlighting on mouse over",
+    "isAdvanced": "No"
+  },
+  {
+    "group": "Row Highlighting",
+    "name": "ROWHIGHLIGHTDISABLE",
+    "displayName": "Disable",
+    "displaySequence": 20,
+    "cssClasses": "t-Report--rowHighlightOff",
+    "helpText": "Disable row highlighting on mouse over",
+    "isAdvanced": "No"
+  }
+]

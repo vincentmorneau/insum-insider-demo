@@ -1,0 +1,20 @@
+[
+  {
+    "group": null,
+    "name": "HIDE_BREADCRUMB",
+    "displayName": "Show Breadcrumbs",
+    "displaySequence": 1,
+    "cssClasses": "t-BreadcrumbRegion--showBreadcrumb",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": null,
+    "name": "USE_COMPACT_STYLE",
+    "displayName": "Use Compact Style",
+    "displaySequence": 10,
+    "cssClasses": "t-BreadcrumbRegion--compactTitle",
+    "helpText": "Uses a compact style for the breadcrumbs.",
+    "isAdvanced": null
+  }
+]

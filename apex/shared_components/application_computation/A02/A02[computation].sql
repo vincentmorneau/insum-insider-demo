@@ -1,0 +1,1 @@
+select count(*) from demo_product_info

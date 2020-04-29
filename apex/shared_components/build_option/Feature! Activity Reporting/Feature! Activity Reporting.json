@@ -1,0 +1,7 @@
+{
+  "name": "Feature: Activity Reporting",
+  "status": "Include",
+  "defaultOnExport": null,
+  "onUpgradeKeepStatus": "No",
+  "comment": "Include numerous reports and charts on end user activity."
+}

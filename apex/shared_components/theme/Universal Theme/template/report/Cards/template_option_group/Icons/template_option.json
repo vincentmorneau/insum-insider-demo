@@ -1,0 +1,20 @@
+[
+  {
+    "group": "Icons",
+    "name": "DISPLAY_ICONS",
+    "displayName": "Display Icons",
+    "displaySequence": 10,
+    "cssClasses": "t-Cards--displayIcons",
+    "helpText": null,
+    "isAdvanced": null
+  },
+  {
+    "group": "Icons",
+    "name": "DISPLAY_INITIALS",
+    "displayName": "Display Initials",
+    "displaySequence": 20,
+    "cssClasses": "t-Cards--displayInitials",
+    "helpText": null,
+    "isAdvanced": null
+  }
+]
