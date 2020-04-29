@@ -10,11 +10,11 @@ begin
   from apex_workspaces
   where workspace = 'WORKSPACE_NAME';
 
-  apex_application_install.set_application_id(100);
+  apex_application_install.set_application_id(101);
   apex_application_install.set_schema('APP_SCHEMA');
   apex_application_install.set_workspace_id(l_workspace_id);
   apex_application_install.generate_offset;
 end;
 /
 
-@f100.sql
+@f101.sql

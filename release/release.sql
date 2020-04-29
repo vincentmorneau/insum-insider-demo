@@ -1,19 +1,3 @@
---
---                             
---  ____           _                             
--- |  _ \    ___  | |   ___    __ _   ___    ___ 
--- | |_) |  / _ \ | |  / _ \  / _` | / __|  / _ \
--- |  _ <  |  __/ | | |  __/ | (_| | \__ \ |  __/
--- |_| \_\  \___| |_|  \___|  \__,_| |___/  \___|
---
---
---   Sprint: https://jira/secure/RapidBoard.jspa?sprint=nnnn
---     *
---
---   NOTES
---    
---
-
 CLEAR SCREEN
 
 -- Terminate the script on Error during the beginning
@@ -50,6 +34,53 @@ PRO
 PRO  Log File                 = ^logname
 
 -- AUTOREPLACE_START
+
+PROMPT *** DDL ***
+
+PROMPT _001_mytable.sql
+@./ddl/_001_mytable.sql;
+
+
+PROMPT *** Views ***
+
+set sqlblanklines on
+
+PROMPT vw_insider.sql
+@../views/vw_insider.sql;
+
+
+set sqlblanklines off
+
+
+
+PROMPT *** Packages specs ***
+
+PROMPT insum_insider.pls
+@../packages/insum_insider.pls;
+
+
+PROMPT *** Packages body ***
+
+PROMPT insum_insider.plb
+@../packages/insum_insider.plb;
+
+
+PROMPT *** Triggers ***
+
+set sqlblanklines on
+
+PROMPT mytable_trg.sql
+@../triggers/mytable_trg.sql;
+
+
+set sqlblanklines off
+
+
+
+PROMPT *** DML ***
+
+PROMPT _001_mytable.sql
+@./dml/_001_mytable.sql;
 -- AUTOREPLACE_END
 
 PRO _________________________________________________

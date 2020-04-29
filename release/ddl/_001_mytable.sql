@@ -1,0 +1,1 @@
+alter table mytable add mycolumn number;
