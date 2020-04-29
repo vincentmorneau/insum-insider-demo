@@ -17,7 +17,7 @@ is
   procedure insider(
     p_param1 in varchar2)
   as
-    l_scope logger_logs.scope%type := gc_scope_prefix || 'insider';
+    l_scope logger_logs.scope%type := gc_scope_prefix || 'insidert';
     l_params logger.tab_param;
 
   begin
