@@ -3,6 +3,7 @@
     "name": "Branch to Self"
   },
   "executionOptions": {
+    "executionSequence": 15,
     "branchPoint": "After Processing"
   },
   "behavior": {

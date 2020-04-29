@@ -3,6 +3,7 @@
     "name": "branch to page stored in item"
   },
   "executionOptions": {
+    "executionSequence": 20,
     "branchPoint": "After Processing"
   },
   "behavior": {

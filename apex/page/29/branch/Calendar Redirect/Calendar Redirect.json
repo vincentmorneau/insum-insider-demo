@@ -3,6 +3,7 @@
     "name": "Calendar Redirect"
   },
   "executionOptions": {
+    "executionSequence": 50,
     "branchPoint": "Before Header"
   },
   "behavior": {
