@@ -14,7 +14,7 @@ SELECT
     ' ' link_attr,
     ' ' link_class,
     ' ' list_badge,
-    'insider' list_class,
+    'changed-class' list_class,
     ' ' list_text,
     b.PHONE_NUMBER1,
     b.PHONE_NUMBER2,
