@@ -16,7 +16,7 @@
     "buttonIsHot": "N",
     "templateOptions": "#DEFAULT#:#DEFAULT#:t-Button--noUI",
     "appearanceCssClasses": null,
-    "iconCssClasses": "fa-chevron-right"
+    "iconCssClasses": "fa-american-sign-language-interpreting"
   },
   "behavior": {
     "buttonAction": "Redirect to Page in this Application",
