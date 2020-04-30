@@ -27,7 +27,7 @@ prompt APPLICATION 101 - Sample Database Application
 -- Application Export:
 --   Application:     101
 --   Name:            Sample Database Application
---   Date and Time:   18:19 Wednesday April 29, 2020
+--   Date and Time:   03:40 Thursday April 30, 2020
 --   Exported By:     VMORNEAU
 --   Flashback:       0
 --   Export Type:     Application Export
@@ -139,7 +139,7 @@ wwv_flow_api.create_flow(
 ,p_substitution_string_01=>'APP_NAME'
 ,p_substitution_value_01=>'Sample Database Application'
 ,p_last_updated_by=>'VMORNEAU'
-,p_last_upd_yyyymmddhh24miss=>'20200429181844'
+,p_last_upd_yyyymmddhh24miss=>'20200429211959'
 ,p_file_prefix => nvl(wwv_flow_application_install.get_static_app_file_prefix,'')
 ,p_ui_type_name => null
 );
@@ -13269,8 +13269,8 @@ wwv_flow_api.create_page(
 '<p>',
 'The <strong>My Quota</strong> region is a Flash chart type called  Dial Chart.  It is dynamically rendered based on a SQL Statement each time the page is viewed.  <strong>My Top Orders</strong> displays the top five orders for the currently signed in'
 ||' user, based on order total.  The <strong>Tasks</strong> region is an example of using a List to provide easy navigation to common tasks.'))
-,p_last_updated_by=>'SHAKEEB'
-,p_last_upd_yyyymmddhh24miss=>'20180720084951'
+,p_last_updated_by=>'NFERNANDEZ'
+,p_last_upd_yyyymmddhh24miss=>'20200429183152'
 );
 wwv_flow_api.create_report_region(
  p_id=>wwv_flow_api.id(1395301201537911847)
@@ -13299,7 +13299,7 @@ wwv_flow_api.create_report_region(
 '    '' '' link_attr,',
 '    '' '' link_class,',
 '    '' '' list_badge,',
-'    '' '' list_class,',
+'    ''insider'' list_class,',
 '    '' '' list_text,',
 '    b.PHONE_NUMBER1,',
 '    b.PHONE_NUMBER2,',
@@ -15553,8 +15553,8 @@ wwv_flow_api.create_page(
 ,p_dialog_max_width=>'1000'
 ,p_dialog_css_classes=>'position:fixed'
 ,p_protection_level=>'C'
-,p_last_updated_by=>'HILARY'
-,p_last_upd_yyyymmddhh24miss=>'20180626050646'
+,p_last_updated_by=>'VMORNEAU'
+,p_last_upd_yyyymmddhh24miss=>'20200429211959'
 );
 wwv_flow_api.create_page_plug(
  p_id=>wwv_flow_api.id(665533824557272605)
@@ -15742,7 +15742,7 @@ wwv_flow_api.create_page_item(
 ,p_display_as=>'NATIVE_DISPLAY_ONLY'
 ,p_display_when=>'SELECT mimetype from demo_product_info where product_id = :P6_PRODUCT_ID and mimetype like ''image%'''
 ,p_display_when_type=>'EXISTS'
-,p_field_template=>wwv_flow_api.id(7349317259528603209)
+,p_field_template=>wwv_flow_api.id(1262150587934526860)
 ,p_item_template_options=>'#DEFAULT#'
 ,p_escape_on_http_output=>'N'
 ,p_attribute_01=>'N'
