@@ -22,7 +22,7 @@
     "buildOption": null
   },
   "attributes": {
-    "dataLoadDefinition": "945832824888282344",
+    "dataLoadDefinition": "Load Customers",
     "importFromItem": "P51_IMPORT_FROM",
     "separatorItem": "P51_SEPARATOR",
     "enclosedByItem": "P51_ENCLOSED_BY",

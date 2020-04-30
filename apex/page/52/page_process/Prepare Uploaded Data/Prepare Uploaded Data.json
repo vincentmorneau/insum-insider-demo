@@ -22,7 +22,7 @@
     "buildOption": null
   },
   "attributes": {
-    "dataLoadDefinition": "945832824888282344",
+    "dataLoadDefinition": "Load Customers",
     "insertCountItem": "P54_INSERT_COUNT",
     "updateCountItem": "P54_UPDATE_COUNT",
     "errorCountItem": "P54_ERROR_COUNT",
