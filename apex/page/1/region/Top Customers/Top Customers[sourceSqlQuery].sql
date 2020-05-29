@@ -25,6 +25,7 @@ FROM
     DEMO_CUSTOMERS b
 WHERE
     a.customer_id = b.customer_id
+    and 1=1
 GROUP BY
     b.customer_id,
     b.cust_last_name || ', ' || b.cust_first_name,
