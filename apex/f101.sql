@@ -27,8 +27,8 @@ prompt APPLICATION 101 - Sample Database Application
 -- Application Export:
 --   Application:     101
 --   Name:            Sample Database Application
---   Date and Time:   03:40 Thursday April 30, 2020
---   Exported By:     VMORNEAU
+--   Date and Time:   15:42 Friday May 29, 2020
+--   Exported By:     HHUDSON
 --   Flashback:       0
 --   Export Type:     Application Export
 --   Version:         18.2.0.00.12
@@ -138,8 +138,8 @@ wwv_flow_api.create_flow(
 ,p_error_handling_function=>'sample_pkg.demo_error_handling'
 ,p_substitution_string_01=>'APP_NAME'
 ,p_substitution_value_01=>'Sample Database Application'
-,p_last_updated_by=>'VMORNEAU'
-,p_last_upd_yyyymmddhh24miss=>'20200429211959'
+,p_last_updated_by=>'HHUDSON'
+,p_last_upd_yyyymmddhh24miss=>'20200529154201'
 ,p_file_prefix => nvl(wwv_flow_application_install.get_static_app_file_prefix,'')
 ,p_ui_type_name => null
 );
@@ -13269,8 +13269,8 @@ wwv_flow_api.create_page(
 '<p>',
 'The <strong>My Quota</strong> region is a Flash chart type called  Dial Chart.  It is dynamically rendered based on a SQL Statement each time the page is viewed.  <strong>My Top Orders</strong> displays the top five orders for the currently signed in'
 ||' user, based on order total.  The <strong>Tasks</strong> region is an example of using a List to provide easy navigation to common tasks.'))
-,p_last_updated_by=>'NFERNANDEZ'
-,p_last_upd_yyyymmddhh24miss=>'20200429183152'
+,p_last_updated_by=>'HHUDSON'
+,p_last_upd_yyyymmddhh24miss=>'20200529154056'
 );
 wwv_flow_api.create_report_region(
  p_id=>wwv_flow_api.id(1395301201537911847)
@@ -13299,7 +13299,7 @@ wwv_flow_api.create_report_region(
 '    '' '' link_attr,',
 '    '' '' link_class,',
 '    '' '' list_badge,',
-'    ''insider'' list_class,',
+'    ''changed-class'' list_class,',
 '    '' '' list_text,',
 '    b.PHONE_NUMBER1,',
 '    b.PHONE_NUMBER2,',
@@ -13310,6 +13310,7 @@ wwv_flow_api.create_report_region(
 '    DEMO_CUSTOMERS b',
 'WHERE',
 '    a.customer_id = b.customer_id',
+'    and 1=1',
 'GROUP BY',
 '    b.customer_id,',
 '    b.cust_last_name || '', '' || b.cust_first_name,',
@@ -13767,8 +13768,7 @@ wwv_flow_api.create_page_button(
 ,p_button_image_alt=>'View Orders for this Month'
 ,p_button_position=>'REGION_TEMPLATE_EDIT'
 ,p_button_redirect_url=>'f?p=&APP_ID.:4:&SESSION.::&DEBUG.:RIR,4:IRGTE_ORDER_DATE:&P1_THIS_MONTH.'
-,p_icon_css_classes=>'fa-chevron-right'
-,p_grid_new_grid=>false
+,p_icon_css_classes=>'fa-american-sign-language-interpreting'
 );
 wwv_flow_api.create_page_button(
  p_id=>wwv_flow_api.id(4118044269011607302)
@@ -13921,6 +13921,17 @@ wwv_flow_api.create_page_da_action(
 ,p_affected_elements=>'P1_SEARCH'
 ,p_stop_execution_on_error=>'Y'
 );
+wwv_flow_api.create_page_da_action(
+ p_id=>wwv_flow_api.id(8581422510461501)
+,p_event_id=>wwv_flow_api.id(1926237616969538123)
+,p_event_result=>'TRUE'
+,p_action_sequence=>20
+,p_execute_on_page_init=>'N'
+,p_action=>'NATIVE_JAVASCRIPT_CODE'
+,p_attribute_01=>wwv_flow_string.join(wwv_flow_t_varchar2(
+'// Added JS ',
+'console.log(''Hello World again!'');'))
+);
 end;
 /
 prompt --application/pages/page_00002
@@ -13936,10 +13947,12 @@ wwv_flow_api.create_page(
 ,p_autocomplete_on_off=>'ON'
 ,p_group_id=>wwv_flow_api.id(1681414854669473317)
 ,p_javascript_code=>'var htmldb_delete_message=''"DELETE_CONFIRM_MSG"'';'
+,p_javascript_code_onload=>'console.log(''Hayden was here'')'
 ,p_page_template_options=>'#DEFAULT#'
 ,p_protection_level=>'C'
 ,p_help_text=>'Help for this page'
-,p_last_upd_yyyymmddhh24miss=>'20170216111125'
+,p_last_updated_by=>'HHUDSON'
+,p_last_upd_yyyymmddhh24miss=>'20200529154201'
 );
 wwv_flow_api.create_page_plug(
  p_id=>wwv_flow_api.id(7329360765666939270)
@@ -14326,11 +14339,11 @@ wwv_flow_api.create_page_button(
 ,p_button_action=>'REDIRECT_PAGE'
 ,p_button_template_options=>'#DEFAULT#:t-Button--iconLeft'
 ,p_button_template_id=>wwv_flow_api.id(1262150793565526862)
+,p_button_is_hot=>'Y'
 ,p_button_image_alt=>'Reset'
 ,p_button_position=>'RIGHT_OF_IR_SEARCH_BAR'
 ,p_button_redirect_url=>'f?p=&APP_ID.:&APP_PAGE_ID.:&SESSION.::&DEBUG.:&APP_PAGE_ID.,RIR::'
 ,p_icon_css_classes=>'fa-undo-alt'
-,p_grid_new_grid=>false
 );
 wwv_flow_api.create_page_computation(
  p_id=>wwv_flow_api.id(4117972465719168096)
