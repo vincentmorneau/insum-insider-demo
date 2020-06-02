@@ -14,7 +14,7 @@ SELECT
     ' ' link_attr,
     ' ' link_class,
     ' ' list_badge,
-    'insider' list_class,
+    'changed-class' list_class,
     ' ' list_text,
     b.PHONE_NUMBER1,
     b.PHONE_NUMBER2,
@@ -25,6 +25,7 @@ FROM
     DEMO_CUSTOMERS b
 WHERE
     a.customer_id = b.customer_id
+    and 1=1
 GROUP BY
     b.customer_id,
     b.cust_last_name || ', ' || b.cust_first_name,
